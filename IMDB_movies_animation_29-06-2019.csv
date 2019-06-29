@@ -1,0 +1,1001 @@
+title,runtime,rating,profit
+Toy Story 4,100,8.4,$178.99M
+Shingeki no kyojin,24,8.8,"122,580"
+The Lion King,118,,
+The Secret Life of Pets 2,86,6.6,$124.11M
+Ralph Breaks the Internet,112,7.1,$201.09M
+Trolls 2,,,
+Frozen II,,,
+Toy Story,81,8.3,$191.80M
+Toy Story 3,103,8.3,$415.00M
+Spider-Man: Into the Spider-Verse,117,8.5,$190.24M
+One Punch Man: Wanpanman,24,8.9,"86,578"
+Rick and Morty,23,9.3,"278,330"
+Toy Story 2,92,7.9,$245.85M
+"Love, Death & Robots",15,8.7,"57,411"
+The Lion King,88,8.5,$312.90M
+Wonder Park,85,5.7,$45.22M
+Archer,22,8.7,"124,510"
+How to Train Your Dragon: The Hidden World,104,7.6,$160.80M
+The Secret Life of Pets,87,6.5,$368.38M
+Family Guy,22,8.2,"284,205"
+The Simpsons,22,8.7,"334,786"
+Aladdin,90,8.0,$217.35M
+The Grinch,85,6.3,$270.62M
+South Park,22,8.7,"301,955"
+Incredibles 2,118,7.7,$608.58M
+The Lego Movie 2: The Second Part,107,6.7,$105.81M
+Avatar: The Last Airbender,23,9.2,"192,838"
+BoJack Horseman,25,8.5,"71,320"
+The Angry Birds Movie 2,,,
+Sing,108,7.1,$270.40M
+Bob's Burgers,22,8.1,"56,485"
+Coco,105,8.4,$209.73M
+Wreck-It Ralph,101,7.7,$189.42M
+Big Mouth,30,8.1,"36,566"
+Sen to Chihiro no kamikakushi,125,8.6,$10.06M
+Frozen,102,7.5,$400.74M
+American Dad!,22,7.4,"107,174"
+Hercules,93,7.3,$99.05M
+Moana,107,7.6,$248.76M
+The Incredibles,115,8.0,$261.44M
+Finding Nemo,100,8.1,$380.84M
+The Queen's Corgi,85,4.9,"1,431"
+Ratatouille,111,8.0,$206.45M
+Onward,,,
+Smallfoot,96,6.7,$83.24M
+The Addams Family,,,
+Space Jam 2,,,
+Inside Out,95,8.2,$356.46M
+SpongeBob SquarePants,23,8.1,"73,910"
+Aggretsuko,15,8.0,"2,958"
+Up,96,8.2,$293.00M
+Batman vs Teenage Mutant Ninja Turtles,87,7.2,"3,809"
+Hotel Transylvania 3: Summer Vacation,97,6.3,$167.51M
+Boku no Hero Academia,24,8.4,"17,364"
+Futurama,22,8.5,"196,502"
+Shin Seiki Evangerion,624,8.6,"37,570"
+Kimi no na wa.,106,8.4,$5.02M
+Death Note: Desu nÃ´to,24,9.0,"186,862"
+Zootopia,108,8.0,$341.27M
+Mulan,88,7.6,$120.62M
+Final Space,30,8.4,"21,308"
+Isle of Dogs,101,7.9,$32.02M
+Adventure Time with Finn & Jake,11,8.6,"66,285"
+"Monsters, Inc.",92,8.1,$289.92M
+Hagane no renkinjutsushi,24,9.0,"90,687"
+Elton John: Rocket Man,5,7.8,522
+Trolls,92,6.5,$153.71M
+Cars,117,7.1,$244.08M
+The Lego Batman Movie,104,7.3,$175.75M
+JoJo no kimyÃ´-na bÃ´ken,30,8.4,"3,987"
+A Scanner Darkly,100,7.1,$5.50M
+Gravity Falls,23,8.9,"54,008"
+Tangled,100,7.8,$200.82M
+King of the Hill,30,7.3,"42,150"
+How to Train Your Dragon,98,8.1,$217.58M
+Despicable Me 3,89,6.3,$264.62M
+Scoob,,,
+Shrek,90,7.9,$267.67M
+The Little Mermaid,83,7.6,$111.54M
+The Emperor's New Groove,78,7.4,$89.30M
+Hunter x Hunter,24,8.7,"35,911"
+WALLÂ·E,98,8.4,$223.81M
+The Legend of Korra,23,8.5,"86,154"
+Sausage Party,89,6.2,$97.66M
+One Piece: Wan pÃ®su,24,8.6,"56,578"
+The Emoji Movie,86,3.2,$86.09M
+Brave,93,7.1,$237.28M
+Cars 3,102,6.8,$152.90M
+A Bug's Life,95,7.2,$162.80M
+Naruto: ShippÃ»den,24,8.4,"65,895"
+Space Jam,88,6.4,$90.46M
+Star Wars: The Clone Wars,23,8.1,"39,824"
+Madagascar: Escape 2 Africa,89,6.7,$180.01M
+Finding Dory,97,7.3,$486.30M
+Castlevania,23,8.1,"24,233"
+Big Hero 6,102,7.8,$222.53M
+The Lego Movie,100,7.8,$257.76M
+Spies in Disguise,,,
+Nanatsu no taizai,24,8.2,"13,270"
+DuckTales,21,8.2,"4,028"
+The Princess and the Frog,97,7.1,$104.40M
+Batman: The Animated Series,23,8.9,"75,585"
+UglyDolls,87,4.5,$20.10M
+Hauru no ugoku shiro,119,8.2,$4.71M
+Gake no ue no Ponyo,101,7.7,$15.09M
+Koe no katachi,130,8.2,"25,750"
+Miraculous: Tales of Ladybug & Cat Noir,20,8.0,"3,648"
+How to Train Your Dragon 2,102,7.8,$177.00M
+Tarzan,88,7.3,$171.09M
+Cats,,,
+Young Justice,23,8.7,"27,575"
+Mononoke-hime,134,8.4,$2.38M
+Madagascar,86,6.9,$193.60M
+Amphibia,,8.4,142
+Beauty and the Beast,84,8.0,$218.97M
+Shrek 2,93,7.2,$436.47M
+Lilo & Stitch,85,7.2,$145.79M
+Poketto monsutÃ¢,24,7.4,"33,783"
+Hotel Transylvania,91,7.1,$148.31M
+Pocahontas,81,6.7,$141.60M
+Dragon Ball Z,24,8.7,"102,283"
+Fairy Tail,24,8.1,"17,258"
+Despicable Me,95,7.7,$251.51M
+Rango,107,7.2,$123.48M
+My Little Pony: Friendship Is Magic,22,7.7,"17,914"
+The Amazing World of Gumball,11,8.2,"16,196"
+The Boss Baby,97,6.3,$175.00M
+Steven Universe,11,8.2,"21,181"
+Coraline,100,7.7,$75.29M
+Tuca & Bertie,26,7.4,"2,252"
+KaubÃ´i bibappu,24,8.9,"76,075"
+Disenchantment,30,7.2,"29,133"
+Playmobil: The Movie,99,5.1,50
+Abominable,,,
+Kakegurui,24,7.1,"1,965"
+Dumbo,64,7.3,$1.60M
+Shark Tale,90,6.0,$160.86M
+The Boondocks,22,8.4,"24,588"
+Enchanted,107,7.1,$127.81M
+Sword Art Online,24,7.7,"29,713"
+Kung Fu Panda,92,7.6,$215.43M
+The Good Dinosaur,93,6.7,$123.09M
+Akira,124,8.1,$0.55M
+Ferdinand,108,6.7,$84.41M
+The Jungle Book,78,7.6,$141.84M
+Batman: Hush,81,,
+Star vs. the Forces of Evil,23,8.1,"8,506"
+Hotaru no haka,89,8.5,"198,377"
+F Is for Family,30,8.0,"21,587"
+Who Framed Roger Rabbit,104,7.7,$156.45M
+Naruto,24,8.3,"56,747"
+Madagascar 3: Europe's Most Wanted,93,6.8,$216.39M
+Peter Rabbit,95,6.6,$115.25M
+Missing Link,94,7.0,$16.64M
+Ice Age,81,7.5,$176.39M
+Fantastic Mr. Fox,87,7.9,$21.00M
+Teen Titans Go! To the Movies,84,6.8,$29.56M
+Monsters University,104,7.3,$268.49M
+Meet the Robinsons,95,6.9,$97.82M
+Dororo,30,8.7,"1,764"
+Bolt,96,6.8,$114.05M
+Aladdin,30,7.3,"8,179"
+Tonari no Totoro,86,8.2,"239,786"
+Monster House,91,6.6,$73.66M
+Beowulf,115,6.2,$82.16M
+Angry Birds,97,6.3,$107.51M
+AstÃ©rix: Le secret de la potion magique,85,6.8,$1.27M
+Tokyo Ghoul,24,8.0,"26,257"
+PAW Patrol,23,6.6,"1,484"
+Cloudy with a Chance of Meatballs,90,7.0,$124.87M
+Robot Chicken,11,7.8,"37,510"
+Snow White and the Seven Dwarfs,83,7.6,$184.93M
+Over the Garden Wall,110,8.9,"28,989"
+Doragon bÃ´ru chÃ´: BurorÃ®,100,8.0,$30.71M
+The Dragon Prince,26,8.3,"8,316"
+Dragon Ball Super: Doragon bÃ´ru cho,24,8.2,"18,525"
+Yakusoku no Neverland,30,8.9,"3,192"
+Loving Vincent,94,7.8,$6.74M
+The Lion King II: Simba's Pride,81,6.5,"53,411"
+Sherlock Gnomes,86,5.1,$43.24M
+Bee Movie,91,6.1,$126.63M
+KÃ´kaku KidÃ´tai,83,8.0,$0.52M
+Cars 2,106,6.2,$191.45M
+The Hunchback of Notre Dame,91,6.9,$100.14M
+High School DxD,23,7.7,"4,973"
+Cinderella,74,7.3,$85.00M
+The Nightmare Before Christmas,76,8.0,$75.08M
+Megamind,95,7.3,$148.42M
+The Croods,98,7.2,$187.17M
+Star Wars: Rebels,22,8.0,"22,229"
+Kimetsu no Yaiba,25,8.6,673
+Steins;Gate,24,8.7,"33,327"
+Phineas and Ferb,15,8.0,"28,524"
+Tate no Yuusha no Nariagari,24,8.2,"1,460"
+Black Clover,30,7.9,"2,217"
+The Adventures of Tintin,107,7.3,$77.59M
+The Lego Ninjago Movie,101,6.0,$59.28M
+KÃ´do giasu: Hangyaku no rurÃ»shu,24,8.6,"40,838"
+Bleach,24,8.2,"39,335"
+The Book of Life,95,7.3,$50.15M
+Storks,87,6.8,$72.68M
+Anastasia,94,7.1,$58.41M
+Ballerina,89,6.8,$24.48M
+Watership Down,204,7.2,"3,737"
+Boruto: Naruto Next Generations,23,7.4,"4,699"
+Treasure Planet,95,7.2,$38.18M
+Atlantis: The Lost Empire,95,6.9,$84.05M
+Trollhunters,23,8.4,"10,376"
+Ternet ninja,81,7.7,"1,896"
+Regular Show,23,8.4,"25,786"
+X-Men,23,8.5,"33,789"
+Shrek the Third,93,6.1,$320.71M
+Kung Fu Panda 2,90,7.2,$165.25M
+The Prince of Egypt,99,7.1,$101.22M
+The Loud House,22,7.4,"2,670"
+Ice Age: Collision Course,94,5.7,$64.06M
+Samurai Jack,25,8.4,"39,991"
+Kung Fu Panda 3,95,7.1,$143.53M
+Aladdin and the King of Thieves,81,6.4,"29,948"
+Robots,91,6.3,$128.20M
+Over the Hedge,83,6.7,$155.02M
+"Shin seiki Evangelion GekijÃ´-ban: Air/Magokoro wo, kimi ni",90,8.2,"27,707"
+The Return of Jafar,69,5.9,"23,899"
+Despicable Me 2,98,7.4,$368.06M
+The Venture Bros.,22,8.5,"21,990"
+Monsters vs. Aliens,94,6.5,$198.35M
+Hotel Transylvania 2,89,6.7,$169.70M
+Sesame Street,55,8.2,"10,724"
+Rio,96,6.9,$143.62M
+Teen Titans Go!,10,5.1,"14,922"
+Toy Story of Terror,22,7.6,"11,678"
+Puppy Dog Pals,24,7.3,494
+Toy Story That Time Forgot,22,7.2,"8,196"
+Mob Psycho 100,24,8.3,"6,788"
+A Monster Calls,108,7.5,$3.73M
+Avengers Assemble,23,7.0,"5,866"
+Minions,91,6.4,$336.05M
+The Iron Giant,86,8.0,$23.16M
+Kubo and the Two Strings,101,7.8,$48.02M
+The AristoCats,78,7.1,$37.68M
+Soul,,,
+Hagane no renkinjutsushi,24,8.6,"55,215"
+PÃ¢fekuto burÃ»,81,7.9,$0.44M
+Osmosis Jones,95,6.3,$13.60M
+Peter Pan,77,7.3,$87.40M
+Chicken Little,81,5.8,$135.39M
+9,79,7.1,$31.74M
+Robin Hood,83,7.6,$32.06M
+Sleeping Beauty,75,7.3,$51.60M
+Rise of the Guardians,97,7.3,$103.41M
+Moominvalley,22,7.3,266Moominvalley,22,7.3,266Moominvalley,22,7.3,266
+The Secret of NIMH,82,7.6,$10.14M
+The Lorax,86,6.4,$214.03M
+Killer Bean Forever,85,6.4,"1,511"
+Heavy Metal,86,6.7,"28,416"
+Peppa Pig,9,6.3,"2,733"
+A Goofy Movie,78,6.8,$35.35M
+We Bare Bears,30,8.0,"8,861"
+Fruits Basket,23,8.3,246
+Shrek Forever After,93,6.3,$238.37M
+She-Ra and the Princesses of Power,30,7.1,"3,860"
+Teen Titans,30,7.8,"23,292"
+Dinosaur,82,6.5,$137.75M
+The Road to El Dorado,89,6.9,$50.86M
+Anomalisa,90,7.3,$3.76M
+Chicken Run,84,7.0,$106.83M
+Pink Floyd: The Wall,95,8.0,$22.24M
+The Land Before Time,69,7.4,$48.09M
+Pachamama,72,6.8,223
+The Simpsons Movie,87,7.3,$183.14M
+Garfield,80,5.0,$75.37M
+Ninjago: Masters of Spinjitzu,30,6.7,"2,131"
+Gintama,,8.6,"4,636"
+Happy Feet,108,6.5,$198.00M
+Rio 2,101,6.3,$131.54M
+Sgt. Stubby: An American Hero,84,6.9,$3.14M
+The Fairly OddParents,30,7.2,"29,164"
+Spider-Man,23,8.3,"23,185"
+The Croods 2,,,
+Guardians of the Galaxy,22,7.4,"2,345"
+Corpse Bride,77,7.4,$53.36M
+Boku dake ga inai machi,30,8.5,"16,949"
+Majo no takkyûbin,103,7.9,"99,634"
+Alice in Wonderland,75,7.4,"116,856"
+Dora the Explorer,30,4.0,"4,529"
+Kaze no tani no Naushika,117,8.1,$0.50M
+Tenkû no shiro Rapyuta,125,8.1,"128,417"
+Voltron: Legendary Defender,23,8.2,"6,622"
+One Hundred and One Dalmatians,79,7.3,$144.88M
+Next Gen,106,6.6,"10,877"
+Sing 2,,,
+Paradise PD,28,7.0,"8,109"
+Tangled: The Series,21,7.6,"1,236"
+Boku no Hero Academia the Movie,96,7.8,$5.75M
+Pinocchio,88,7.5,$84.25M
+The Black Cauldron,80,6.5,$21.29M
+Song of the Sea,93,8.1,$0.86M
+Dragons: Race to the Edge,22,8.3,"3,778"
+Dragon Ball,24,8.5,"47,268"
+Antz,83,6.6,$90.76M
+Legend of the Guardians: The Owls of Ga'Hoole,97,7.0,$55.68M
+T.O.T.S.,,8.6,14
+Lady and the Tramp,76,7.3,$93.60M
+Violet Evergarden,24,8.5,"5,650"
+Lady and the Tramp,,,
+Gnomeo & Juliet,84,6.0,$99.97M
+Mirai no Mirai,98,7.1,$0.81M
+Weathering With You,,,
+Gekijô-ban poketto monsutâ - Myûtsû no gyakushû,96,6.1,$85.74M
+Undone,,,
+Mary and Max,92,8.1,"151,290"
+The Boss Baby: Back in Business,25,6.4,"1,388"
+Flushed Away,85,6.6,$64.67M
+Sofia the First,30,7.0,"1,889"
+Watership Down,91,7.7,"31,007"
+Rugrats,30,7.5,"28,848"
+Reign of the Supermen,87,6.8,"6,974"
+Animals.,30,7.2,"2,972"
+The Lion Guard,30,6.7,"1,140"
+The Polar Express,100,6.6,$183.37M
+Untitled 'Shrek' Reboot,,,
+Justice League vs. the Fatal Five,77,6.5,"3,872"
+Thunderbirds Are Go,22,6.9,"1,309"
+Cloudy with a Chance of Meatballs 2,95,6.4,$119.79M
+Early Man,89,6.1,$8.27M
+Papurika,90,7.7,$0.88M
+Adam Ruins Everything,30,8.2,"5,308"
+Oliver & Company,74,6.7,$74.15M
+FernGully: The Last Rainforest,76,6.5,$24.65M
+Final Fantasy: The Spirits Within,106,6.4,$32.13M
+Baki,45,6.7,"1,562"
+Spirit: Stallion of the Cimarron,83,7.1,$73.28M
+Kenpû denki beruseruku,22,8.5,"23,982"
+The SpongeBob SquarePants Movie,87,7.1,$85.42M
+Epic,102,6.7,$107.52M
+Monsters at Work,,,
+Meitantei Conan,25,8.4,"9,490"
+Alvin and the Chipmunks,92,5.2,$217.33M
+Mulan II,79,5.8,"19,041"
+The SpongeBob Movie: Sponge Out of Water,92,6.0,$162.99M
+Justice League,22,8.6,"36,810"
+Home,94,6.6,$177.40M
+Gojira: hoshi wo kû mono,91,4.9,"2,541"
+Our Cartoon President,30,5.1,"2,518"
+Batman: The Killing Joke,76,6.5,$3.78M
+My Little Pony: The Movie,99,6.1,$21.89M
+Scooby-Doo and Guess Who?,,9.5,23
+Daria,30,8.1,"21,643"
+Brother Bear,85,6.8,$85.34M
+Alvin and the Chipmunks: The Road Chip,92,5.1,$85.89M
+Kaze tachinu,126,7.8,$5.21M
+Code Geass: Fukkatsu No Lelouch,112,7.9,$0.52M
+Ratatoing,44,1.5,"1,038"
+Waking Life,99,7.8,$2.89M
+Kari-gurashi no Arietti,94,7.6,$19.20M
+Cool World,102,4.8,$14.11M
+Blue's Clues,25,6.8,"3,889"
+Vampirina,25,7.3,419
+Puss in Boots,90,6.6,$149.26M
+Ben 10,22,7.2,"10,126"
+Harley Quinn,,,
+Teenage Mutant Ninja Turtles,24,7.9,"7,469"
+Shigatsu wa kimi no uso,23,8.2,"9,501"
+Bambi,70,7.3,$102.80M
+The Curse of the Were-Rabbit,85,7.5,$56.11M
+Titan A.E.,94,6.6,$22.75M
+Minions: The Rise of Gru,,,
+Captain Underpants: The First Epic Movie,89,6.2,$73.92M
+Horton Hears a Who!,86,6.8,$154.53M
+Hilda,24,8.7,"3,602"
+Gargoyles,30,8.1,"12,590"
+James and the Giant Peach,79,6.7,$28.93M
+The Banana Splits Adventure Hour,60,7.4,"1,333"
+Yu-Gi-Oh!,24,7.2,"16,124"
+Big Hero 6: The Series,21,7.2,835
+Godzilla: Monster Planet,89,6.0,"6,436"
+Call of the Wild,,,
+"South Park: Bigger, Longer & Uncut",81,7.8,$52.01M
+Carmen Sandiego,22,8.0,"1,916"
+Pete's Dragon,128,6.4,$40.10M
+Ice Age: Continental Drift,88,6.6,$161.32M
+TMNT,87,6.3,$54.15M
+Woody Woodpecker,91,4.2,"2,734"
+Re: Zero kara hajimeru isekai seikatsu,24,8.0,"5,618"
+Batman Ninja,85,5.6,"14,076"
+Total Drama Island,22,7.2,"6,969"
+Ultraman,25,7.0,"1,036"
+Kiseijû: Sei no kakuritsu,22,8.4,"17,305"
+The Fox and the Hound,83,7.3,$63.46M
+Tom and Jerry,,,
+Justice League Unlimited,23,8.8,"6,098"
+G-Force,88,5.1,$119.44M
+Devilman: Crybaby,25,7.6,"7,637"
+Surf's Up,85,6.7,$58.87M
+The Smurfs,103,5.5,$142.61M
+Penguins of Madagascar,92,6.7,$83.35M
+The Lion King 1½,77,6.6,"32,176"
+Goblin Slayer,30,7.7,"1,894"
+An American Tail,80,6.9,$47.48M
+Teenage Mutant Ninja Turtles,30,7.9,"27,952"
+Overlord,30,7.8,"3,474"
+Fantasia,125,7.8,$76.41M
+The Rescuers,78,6.9,$71.22M
+RWBY,13,8.0,"4,387"
+Clifford the Big Red Dog,,,
+Star Wars: Resistance,30,4.9,"2,204"
+Men in Black: The Series,25,6.8,"2,849"
+Bedknobs and Broomsticks,117,7.1,$18.53M
+Inuyasha,24,7.9,"13,124"
+Le Petit Prince,108,7.7,$1.34M
+Gen: Lock,30,7.8,650
+Planes,91,5.7,$90.29M
+Byôsoku 5 senchimêtoru,63,7.7,"44,003"
+Gantz: O,95,7.2,"9,066"
+Turbo,96,6.4,$83.03M
+Akame ga Kill!,24,7.9,"11,269"
+Starship Troopers: Traitor of Mars,88,5.5,"4,316"
+Looney Tunes: Back in Action,91,5.7,$20.99M
+Super Dragon Ball Heroes,10,7.5,"1,031"
+Bungou Stray Dogs,24,7.5,"1,408"
+Ansatsu kyôshitsu,23,8.0,"4,642"
+Aladin,64,4.9,57
+Tokyo Ghoul: re,24,7.2,"3,165"
+"Scooby Doo, Where Are You!",60,7.9,"26,668"
+Open Season,86,6.1,$85.11M
+3Below: Tales of Arcadia,24,7.9,"1,963"
+The Cleveland Show,22,5.6,"36,750"
+Koto no ha no niwa,46,7.6,"25,851"
+The Brave Little Toaster,90,7.3,"22,293"
+Scooby-Doo on Zombie Island,77,7.8,"9,398"
+Beavis and Butt-Head,15,7.5,"25,533"
+Invincible,,,
+The Death of Superman,81,7.4,"9,060"
+Ice Age: Dawn of the Dinosaurs,94,7.0,$196.57M
+Aqua Teen Hunger Force,15,7.7,"21,347"
+Kiru ra kiru: KILL la KILL,25,7.9,"8,458"
+The Little Mermaid II: Return to the Sea,75,5.6,"15,347"
+Hoodwinked!,80,6.5,$51.39M
+Blazing Samurai,,,
+The Lord of the Rings,132,6.2,$0.92M
+Norm of the North: Keys to the Kingdom,91,3.4,400
+All Dogs Go to Heaven,84,6.7,$27.10M
+Nande Koko ni Sensei ga!?,12,6.7,115
+Samurai chanpurû,24,8.6,"34,709"
+Danny Phantom,30,7.1,"13,173"
+Thomas the Tank Engine & Friends,11,6.7,"3,007"
+Disenchanted,,,
+Red Shoes and the Seven Dwarfs,,,
+Arthur,30,7.4,"10,875"
+Smurfs: The Lost Village,90,6.0,$45.02M
+Sailor Moon,24,7.7,"10,752"
+Justice League Dark,75,7.1,"17,033"
+Ultimate Spider-Man,23,7.2,"9,235"
+Monster,24,8.7,"16,337"
+Hotel Transylvania 4,,,
+Fainaru fantajî sebun adobento chirudoren,101,7.3,"53,330"
+Food Wars: Shokugeki no Soma,24,8.3,"3,740"
+Suicide Squad: Hell to Pay,86,7.0,"7,821"
+The Rescuers Down Under,77,6.9,$27.93M
+Quest for Camelot,86,6.3,$22.72M
+The Powerpuff Girls,30,7.3,"32,932"
+Dragon Ball Z: Doragon bôru zetto,24,8.7,"58,651"
+Batman: Gotham by Gaslight,78,6.8,"10,597"
+Sinbad: Legend of the Seven Seas,86,6.7,$26.48M
+Batman Beyond,23,8.1,"21,799"
+Jûbê ninpûchô,94,7.9,"31,686"
+Kim Possible,30,7.2,"20,610"
+The Pagemaster,80,6.0,$56.30M
+The Sword in the Stone,79,7.2,$22.18M
+Mimi wo sumaseba,111,8.0,"40,720"
+Hey Arnold!,15,7.7,"27,757"
+Arctic Justice,,,
+Batman and Harley Quinn,74,5.9,"9,311"
+DuckTales,23,8.1,"26,563"
+Stuart Little 2,77,5.5,$64.96M
+Small Fry,7,7.1,"4,546"
+Big City Greens,22,6.8,388
+ParaNorman,92,7.0,$56.00M
+The Flintstones,30,7.5,"29,737"
+Winx Club,25,5.9,"3,083"
+Ice Age: The Meltdown,91,6.8,$195.33M
+Toki o kakeru shôjo,98,7.8,"52,676"
+Kingsglaive: Final Fantasy XV,110,6.8,$0.23M
+Batman: Mask of the Phantasm,76,7.9,$5.62M
+Song of the South,94,7.3,$63.72M
+Noragami,24,7.9,"7,979"
+Courage the Cowardly Dog,11,8.3,"33,255"
+The Animatrix,100,7.4,"67,911"
+The Breadwinner,94,7.7,$0.31M
+Meitantei Conan: Konjo no fisuto,,6.8,129
+Sayonara no asa ni yakusoku no hana o kazarô,115,7.4,"2,097"
+Kuroshitsuji,24,7.8,"5,438"
+He-Man and the Masters of the Universe,30,7.5,"14,714"
+Alvin and the Chipmunks: The Squeakquel,88,4.5,$219.61M
+Mr. Pickles,15,7.4,"5,615"
+Fire and Ice,81,6.6,$0.76M
+Si shi qing chun,74,6.5,"3,312"
+Meari to majo no hana,103,6.8,$2.42M
+Mr. Peabody & Sherman,92,6.8,$111.51M
+Bluey,,9.5,336
+"Batman: The Dark Knight Returns, Part 1",76,8.1,"47,357"
+It's a Wonderful Sponge,,,
+Psycho-Pass,25,8.2,"12,627"
+Frankenweenie,87,7.0,$35.29M
+Spirit Riding Free,23,6.4,633
+Mickey Mouse Clubhouse,30,5.9,"1,988"
+Angry Birds Toons,3,6.3,539
+The Seven Deadly Sins: Prisoners of the Sky,99,7.2,"1,906"
+PJ Masks,24,6.1,571
+Spawn,30,8.1,"6,715"
+Erufen rîto,24,8.0,"26,749"
+Trailer Park Boys: The Animated Series,25,7.8,"1,045"
+Foodfight!,91,1.9,"8,325"
+Hop,95,5.4,$108.09M
+Fate/Zero,24,8.3,"7,941"
+The Great Mouse Detective,74,7.2,$38.60M
+The Last Unicorn,92,7.5,$6.46M
+Scooby-Doo! Mystery Incorporated,23,8.0,"6,839"
+The Smurfs 2,105,5.4,$71.02M
+The Batman,30,7.3,"8,754"
+X-Men: Evolution,23,7.9,"9,239"
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,24,7.5,"2,944"
+Ookami kodomo no Ame to Yuki,117,8.1,"31,823"
+Happy Feet Two,100,5.9,$64.01M
+Kono subarashî sekai ni shukufuku o!,24,7.8,"3,061"
+The Adventures of Jimmy Neutron: Boy Genius,24,6.7,"14,637"
+La planète sauvage,72,7.8,"20,499"
+Teen Titans: The Judas Contract,84,7.0,"9,623"
+Balto,78,7.1,$11.27M
+Recess,23,7.9,"20,015"
+The Peanuts Movie,88,7.1,$130.18M
+Kurenai no buta,94,7.8,"61,927"
+The Transformers: The Movie,84,7.3,$5.85M
+Barnyard,90,5.6,$72.78M
+Milo Murphy's Law,12,7.6,"1,315"
+Brickleberry,22,7.3,"11,556"
+The Little Mermaid: Ariel's Beginning,77,6.4,"7,236"
+Red vs. Blue,6,8.4,"8,540"
+Tengen toppa gurren lagann,24,8.3,"12,225"
+Elena of Avalor,24,6.5,858
+Planet 51,91,6.1,$42.09M
+Hawaiian Vacation,6,7.4,"6,339"
+The New Batman Adventures,30,8.5,"12,024"
+The Pirates! In an Adventure with Scientists!,88,6.7,$31.05M
+Bubble Guppies,24,6.7,944
+Pinocchio,,,
+That Time I Got Reincarnated as a Slime,25,8.1,"1,387"
+The Shivering Truth,11,7.9,562
+Rock Dog,90,5.9,$9.40M
+Wizards,80,6.5,$9.00M
+The Boxtrolls,96,6.8,$50.84M
+The Incredible Mr. Limpet,99,6.5,"4,465"
+Made in Abyss,325,8.5,"3,343"
+The Ren & Stimpy Show,30,7.5,"19,416"
+Daniel Tiger's Neighborhood,26,7.5,700
+Batman: Under the Red Hood,75,8.1,"49,013"
+Planes: Fire & Rescue,83,6.0,$59.17M
+Haikyuu!!,24,8.7,"3,849"
+Yogi Bear,80,4.6,$100.25M
+The Real Ghost Busters,30,7.6,"7,673"
+The Ark and the Aardvark,,,
+Arthur et les Minimoys,94,6.0,$15.13M
+The One and Only Ivan,,,
+A Christmas Carol,96,6.8,$137.86M
+Ben 10: Alien Force,22,7.1,"5,117"
+Fraggle Rock,30,7.9,"6,199"
+Dragon Ball: Doragon bôru,24,8.5,"41,148"
+Trolls: The Beat Goes On!,25,5.9,463
+Kaguyahime no monogatari,137,8.0,$1.51M
+The Magic School Bus,30,7.9,"7,162"
+Funan,84,7.0,$0.01M
+"Ed, Edd n Eddy",30,7.5,"29,397"
+Hellsing Ultimate,50,8.3,"17,086"
+Rise of the Teenage Mutant Ninja Turtles,22,5.4,"1,667"
+Winnie the Pooh,63,7.2,$26.69M
+Justice League: The Flashpoint Paradox,75,8.2,"37,942"
+Shaun the Sheep Movie: Farmageddon,,,
+Gakuen Mokushiroku: Highschool of the Dead,24,7.3,"9,348"
+Teenage Mutant Ninja Turtles,30,7.7,"7,300"
+Unikitty!,14,5.7,712
+Game of Thrones Conquest & Rebellion: An Animated History of the Seven Kingdoms,45,7.7,801
+Shinmai Maou no Testament,24,6.8,992
+The Tale of Despereaux,93,6.1,$50.88M
+Human Discoveries,,,
+Villainous,3,7.8,126
+Dayu haitang,100,7.1,"3,331"
+Yellow Submarine,90,7.4,$0.99M
+Zeffirelli's Inferno,8,8.1,9
+Invader ZIM,24,8.3,"17,739"
+Persepolis,96,8.1,$4.45M
+Carole and Tuesday,,8.1,131
+Constantine City of Demons: The Movie,90,7.5,"1,775"
+The Star,86,6.1,$40.85M
+Fancy Nancy,22,5.5,135
+Yu Yu Hakusho,24,8.4,"10,041"
+Gekijouban Poketto monsutâ: Kimi ni kimeta!,98,6.4,$2.40M
+Hotarubi no mori e,45,7.9,"10,295"
+Fritz the Cat,78,6.3,$25.00M
+Omoide no Mânî,103,7.7,$0.77M
+Beruseruku,24,7.0,"3,385"
+Ask the StoryBots,24,7.8,448
+Seishun Buta Yaro wa Bunny Girl-senpai no Yume wo Minai,24,8.0,"1,198"
+Neko no ongaeshi,75,7.3,"39,516"
+Transformers,30,8.0,"18,919"
+Steins;Gate 0,30,8.3,"2,489"
+Inception: The Cobol Job,15,7.8,"1,401"
+Mirai nikki,25,7.7,"11,628"
+Animaniacs,21,7.9,"19,296"
+The Haunted World of El Superbeasto,77,6.0,"6,747"
+Green Eggs and Ham,,,
+Cowboy Bebop: Tengoku no tobira,115,7.9,$1.00M
+Mutafukaz,94,6.7,$0.23M
+Spider-Man,21,6.3,"1,141"
+Afro Samurai,26,7.7,"13,743"
+Rock-A-Doodle,77,6.0,$11.66M
+"Batman: The Dark Knight Returns, Part 2",76,8.4,"40,825"
+Charlotte's Web,94,6.9,$5.23M
+Return to Never Land,72,5.8,$48.43M
+The Many Adventures of Winnie the Pooh,74,7.6,"29,749"
+Thumbelina,86,6.4,$11.37M
+Bob the Builder,10,5.4,"3,280"
+Trover Saves the Universe,,8.9,30
+The Secret of Kells,71,7.7,$0.69M
+Norm of the North,90,3.6,$17.02M
+Beavis and Butt-Head Do America,81,6.8,$63.07M
+Alvinnn!!! And the Chipmunks,11,4.9,915
+Camp Camp,11,8.0,809
+Dragon Ball Kai: Doragon bôru kai,24,8.3,"18,425"
+DARLING in the FRANXX,24,7.3,"2,063"
+"No Game, No Life",23,7.9,"8,171"
+Transformers Prime,30,7.9,"4,699"
+Gnome Alone,85,5.7,"1,813"
+Kangoku gakuen,24,7.7,"2,595"
+Rilakkuma to Kaorusan,12,8.6,738
+Black Lagoon,25,8.0,"9,728"
+We're Back! A Dinosaur's Story,72,6.1,$9.32M
+Outlander,68,,
+The Hobbit,77,6.8,"11,584"
+Doc McStuffins,11,6.7,"1,597"
+Norm of the North: King Sized Adventure,90,3.6,60
+Gedo senki,115,6.5,$0.05M
+Shin seiki Evangelion Gekijô-ban: Shito shinsei,101,7.6,"9,617"
+Wish Dragon,,,
+Dragons: Riders of Berk,22,8.0,"8,646"
+Dexter's Laboratory,23,7.9,"38,881"
+Batman: Assault on Arkham,76,7.5,"27,822"
+Ben 10,12,2.6,"1,535"
+Jimmy Neutron: Boy Genius,82,6.0,$80.94M
+Monster Musume no Iru Nichijou,23,6.7,"1,036"
+Frozen Fever,8,6.9,"11,869"
+OK K.O.! Let's Be Heroes,11,7.2,"1,171"
+"Be Cool, Scooby-Doo!",23,6.4,"1,411"
+Batman: Bad Blood,72,6.8,"16,874"
+Fairy gone,23,6.4,91
+Kimi no suizô o tabetai,108,7.7,$0.28M
+Constantine: City of Demons,90,7.6,"3,711"
+The Tick,30,7.9,"8,314"
+The Nut Job 2: Nutty by Nature,91,5.5,$28.37M
+Star Wars: Detours,,,
+Wonder Pets!,22,6.5,"1,067"
+Strange Magic,99,5.8,$12.43M
+Summer Camp Island,,7.6,409
+Bakemono no ko,119,7.7,$0.45M
+Gunnm,54,7.3,"4,147"
+Yôjû toshi,82,6.8,"5,299"
+Ben 10: Omniverse,22,5.9,"2,210"
+The Jellies!,,6.5,139
+Justice League: War,79,7.3,"26,572"
+The Avengers: Earth's Mightiest Heroes,30,8.3,"11,999"
+La tortue rouge,80,7.5,$0.92M
+The Swan Princess,90,6.5,$9.77M
+Totally Spies!,22,7.0,"7,650"
+Tarzan,94,4.8,"11,743"
+The Proud Family,30,6.3,"5,530"
+Vixen,5,7.2,"2,760"
+The Last Kids on Earth,,,
+Thundercats,30,7.9,"14,662"
+Gekijô-ban poketto monsutâ: Maboroshi no pokemon: Rugia bakutan,84,6.1,$43.76M
+Curious George,87,6.5,$58.64M
+Bill & Ted's Excellent Adventures,30,6.5,"1,482"
+Buzz Lightyear of Star Command,30,6.7,"2,421"
+Hunter x Hunter,23,8.7,"4,429"
+Wild Kratts,26,7.8,773
+Kuzu no honkai,22,7.1,684
+The Adventures of Tintin Sequel,,,
+Kokuriko-zaka kara,91,7.5,$1.00M
+Sôru îtâ,24,7.9,"9,911"
+Justice League Action,11,7.8,"1,321"
+Ben 10: Ultimate Alien,22,7.5,"3,333"
+Ginga eiyû densetsu,25,9.1,"1,621"
+Alvin and the Chipmunks: Chipwrecked,87,4.4,$133.11M
+Lil Dicky: Earth,7,6.0,146
+Pokemon the Movie: Mewtwo Strikes Back Evolution,,,
+An American Tail: Fievel Goes West,75,6.5,$22.17M
+Darkwing Duck,30,7.6,"13,101"
+Croc-Blanc,85,7.0,"2,083"
+Coonskin,100,6.6,"2,276"
+Fruits Basket,24,8.0,"4,756"
+Death Parade,24,8.0,"7,352"
+Mickey Mouse,4,8.1,"1,499"
+Cobain: Montage of Heck,145,7.5,"26,139"
+The Wild,94,5.3,$37.38M
+Neo Yokio,23,5.8,"2,639"
+The Wild Thornberrys,30,6.7,"11,358"
+The New Scooby-Doo Movies,83,7.7,"3,522"
+Digimon: Digital Monsters,24,7.3,"18,737"
+Kono sekai no katasumi ni,129,7.8,"6,143"
+The Spectacular Spider-Man,23,8.1,"8,949"
+Star Wars: The Clone Wars,98,5.9,$35.16M
+Codename: Kids Next Door,30,7.2,"14,517"
+Kronk's New Groove,75,5.9,"9,741"
+Rurôni Kenshin -Meiji kenkaku romantan,24,8.5,"15,740"
+Evangerion shin gekijôban: Jo,98,7.8,$0.11M
+Heavy Metal 2000,88,5.4,"7,230"
+Saiki Kusuo no Psi Nan,24,8.3,"1,493"
+Metalocalypse,11,8.3,"14,497"
+Rupan sansei: Kariosutoro no shiro,100,7.7,"22,161"
+Owari no serafu,24,7.6,"2,375"
+Lilo & Stitch: The Series,22,6.8,"6,872"
+Astro Boy,94,6.3,$19.55M
+The Ant Bully,88,5.8,$28.14M
+Doug,30,7.5,"16,200"
+Superman,30,8.1,"12,214"
+The Adventures of Rocky & Bullwinkle,92,4.2,$26.00M
+The Magic School Bus Rides Again,26,6.5,477
+Olaf's Frozen Adventure,22,5.3,"9,057"
+Infinity Train,,,
+The Congress,122,6.5,$0.14M
+Son of Zorn,30,6.7,"3,857"
+Bilal: A New Breed of Hero,105,8.0,$0.49M
+Ao no ekusoshisuto,30,7.6,"8,941"
+Wolverine and the X-Men,23,8.0,"9,131"
+Little Nemo,85,7.2,$1.37M
+Garfield: A Tail of Two Kitties,82,5.0,$28.43M
+Charming,85,5.7,"1,508"
+Scooby-Doo! The Mystery Begins,120,5.6,"4,936"
+Philosopher's Grandson,24,6.8,221
+Kôkaku kidôtai: Stand Alone Complex,24,8.5,"16,265"
+Tom and Jerry: The Movie,84,5.4,$3.56M
+Les triplettes de Belleville,78,7.8,$7.00M
+Trigun,24,8.3,"17,495"
+Ajin,24,7.7,"4,163"
+The Jetsons,25,7.0,"16,493"
+Kaijû no kodomo,,6.2,36
+Gigantic,,,
+Thunderbirds,50,7.9,"3,542"
+Shaun the Sheep Movie,85,7.4,$19.38M
+Mia and Me,20,6.9,412
+Omohide poro poro,118,7.7,$0.45M
+Bishôjo senshi Sêrâ Mûn,30,7.7,"4,594"
+Kaguya-sama: Love Is War,24,8.0,790
+Skylanders Academy,25,6.8,467
+Star Wars: Clone Wars,15,7.8,"20,100"
+Monkeybone,93,4.7,$5.41M
+Mao Mao: Heroes of Pure Heart,11,8.6,27
+Bravest Warriors,5,7.9,"2,877"
+Supernatural: The Animation,23,7.5,"1,628"
+Riley's First Date?,5,7.5,"4,955"
+Grim & Evil,30,7.7,"18,068"
+Tôkyô goddofâzâzu,93,7.9,$0.13M
+Blaze and the Monster Machines,22,6.0,434
+Upin & Ipin: Keris Siamang Tunggal,100,8.0,318
+Chip 'n' Dale Rescue Rangers,22,7.6,"15,179"
+Foster's Home for Imaginary Friends,30,7.7,"16,537"
+SuperMansion,30,7.5,864
+Drawn Together,22,7.0,"17,992"
+Aliens in the Attic,86,5.4,$25.20M
+Home on the Range,76,5.4,$50.03M
+Pocahontas II: Journey to a New World,72,4.9,"12,245"
+The Hollow,24,7.3,"2,176"
+Gekijôban Shingeki no Kyojin Season 2: Kakusei no hôkô,120,7.4,407
+The Marvelous Misadventures of Flapjack,11,7.9,"9,353"
+Joseph: King of Dreams,75,6.5,"9,609"
+The Penguins of Madagascar,11,7.6,"14,355"
+B: The Beginning,25,7.2,"2,520"
+Luis and His Friends from Outer Space,86,6.0,$0.15M
+Mickey and the Roadster Racers,21,6.6,280
+Mars Needs Moms,88,5.4,$21.38M
+The Nut Job,85,5.7,$64.25M
+Partysaurus Rex,7,7.6,"4,700"
+Ôran kôkô hosutobu,24,8.3,"6,994"
+Caillou,30,4.2,"2,165"
+Buzz Lightyear of Star Command: The Adventure Begins,70,6.1,"3,698"
+StarDog and TurboCat,,,
+When the Wind Blows,84,7.8,$0.01M
+Mike Tyson Mysteries,12,8.1,"3,020"
+Vykradena pryntsesa: Ruslan i Lyudmyla,85,6.2,"1,467"
+Tinker Bell,78,6.9,"10,650"
+Casper Meets Wendy,90,5.4,"5,972"
+The Casagrandes,,,
+Invader ZIM: Enter the Florpus,70,,
+Animal Crackers,94,5.6,429
+Evil Toons,90,3.9,"2,087"
+Batman Beyond: Return of the Joker,76,7.8,"21,005"
+Kung Fu Panda: The Paws of Destiny,24,8.0,378
+Victor & Valentino,,6.3,214
+Fantasia 2000,75,7.2,$60.66M
+Clarence,23,6.5,"5,650"
+How the Grinch Stole Christmas!,26,8.4,"40,995"
+The Super Mario Bros. Super Show!,30,6.3,"2,822"
+Jackie Chan Adventures,30,7.4,"16,472"
+The Boss Baby 2,,,
+Ma vie de Courgette,66,7.8,$0.29M
+Fate/stay night: Unlimited Blade Works,24,8.0,"4,641"
+Duck Duck Goose,91,5.7,"2,349"
+Yojo Senki: Saga of Tanya the Evil,24,7.7,"1,145"
+The Plague Dogs,103,7.9,"6,038"
+She-Ra: Princess of Power,22,6.8,"4,454"
+Happy Family,93,4.8,$0.11M
+Tinker Bell and the Legend of the NeverBeast,76,7.3,"6,664"
+"Mune, le gardien de la lune",85,7.2,"5,219"
+Ano hi mita hana no namae o bokutachi wa mada shiranai.,23,8.3,"5,838"
+Hey Duggee,7,8.9,469
+Justice League vs. Teen Titans,78,7.0,"15,167"
+Muppet Babies,23,7.4,256
+Talking Tom and Friends,11,6.3,161
+Seinto Seiya,24,8.6,"7,964"
+Ergo Proxy,25,8.0,"10,824"
+One Piece: Stampede,,,
+FLCL,151,8.3,"13,580"
+Clifford the Big Red Dog,30,6.7,"3,140"
+The Power of the Dark Crystal,,,
+Anazâ,300,7.7,"8,221"
+Hercules,30,6.7,"8,966"
+Date a Live,25,7.1,"1,586"
+Animal Farm,72,7.2,"13,402"
+"Ruben Brandt, Collector",96,7.5,$0.12M
+Watch the Skies,110,,
+Aggressive Retsuko,,8.2,389
+Vals Im Bashir,90,8.0,$2.28M
+Toradora!,24,8.1,"6,829"
+The Octonauts,11,7.4,623
+Jonny Quest,30,7.9,"3,716"
+Eight Crazy Nights,76,5.4,$23.44M
+Astérix: Le domaine des dieux,85,6.9,$1.66M
+The Emperor's New School,30,6.7,"3,481"
+Baki the Grappler,24,7.7,675
+ReBoot,30,7.9,"4,691"
+An Extremely Goofy Movie,79,6.4,"8,452"
+Masha i Medved,7,7.7,"2,071"
+Chowder,11,7.4,"10,053"
+TRON: Uprising,30,8.1,"7,194"
+Peter Rabbit 2,,,
+"Harvey Birdman, Attorney at Law",15,8.0,"9,800"
+Resident Evil: Vendetta,97,6.3,"9,028"
+Johnny Bravo,30,7.3,"29,752"
+Rocko's Modern Life,30,8.0,"17,375"
+Pete the Cat,22,8.5,93
+Wendell and Wild,,,
+Barbie: Life in the Dreamhouse,3,7.4,"1,059"
+Dungeons & Dragons,30,8.0,"3,960"
+True and the Rainbow Kingdom,22,7.2,225
+Tiny Toon Adventures,23,7.6,"10,567"
+Barbie Dreamhouse Adventures,22,6.9,150
+Yu-Gi-Oh! GX,30,6.7,"3,209"
+Tokyo Ghoul: Root A,24,7.8,"7,635"
+Here comes the Grump,97,4.8,$0.00M
+Star Trek,30,7.5,"5,201"
+Scooby-Doo and the Witch's Ghost,70,7.3,"5,053"
+Surf's Up 2: WaveMania,84,4.7,"1,340"
+Samâ uôzu,114,7.5,$0.08M
+Dragon Ball GT: Doragon bôru jîtî,24,6.9,"21,390"
+Innocence,100,7.6,$1.04M
+"What's New, Scooby-Doo?",30,7.2,"6,624"
+J'ai perdu mon corps,81,7.9,34
+Tigtone,,6.6,186
+Joshua and the Promised Land,55,2.1,340
+Madagascar 4,,,
+Lego Batman: The Movie - DC Super Heroes Unite,71,6.5,"4,394"
+Eiga Doraemon: Nobita no Getsumen Tansaki,111,7.2,64
+Vampire Hunter D: Bloodlust,103,7.7,$0.15M
+Spider-Man: Into the Spider-Verse 2,,,
+Batman: Year One,64,7.4,"27,941"
+Bless the Harts,,,
+Cinderella III: A Twist in Time,74,6.0,"7,958"
+Craig of the Creek,30,7.5,579
+Descendants: Wicked World,2,7.1,631
+Sennen joyû,87,7.9,$0.04M
+Sealab 2021,11,7.9,"6,644"
+"Kumo no mukô, yakusoku no basho",91,7.1,"11,479"
+Shaun the Sheep,7,8.2,"10,366"
+The Backyardigans,23,6.9,"1,854"
+Tarzan II,72,5.6,"8,287"
+Frisky Dingo,11,8.2,"6,344"
+Batman: The Brave and the Bold,30,7.3,"6,779"
+The Little Mermaid,25,6.9,"3,194"
+All Hail King Julien,23,7.2,"1,208"
+Gojira: kessen kidô zôshoku toshi,101,5.8,"3,313"
+Memorîzu,113,7.6,"13,946"
+The Thief and the Cobbler,90,7.1,$0.67M
+Jurassic World: Camp Cretaceous,,,
+Curious George,30,7.3,"1,218"
+Sangatsu no Lion,25,8.3,673
+A kaito,50,6.7,"3,496"
+Lilo & Stitch 2: Stitch Has a Glitch,68,6.3,"10,402"
+The Epic Tales of Captain Underpants,24,6.8,386
+DC Super Hero Girls,11,7.4,78
+The Owl House,,,
+Rakudai Kishi no Cavalry,24,7.5,"1,356"
+Maho Shojo Madoka Magica,24,8.3,"5,768"
+The Ricky Gervais Show,30,8.3,"14,608"
+Hell and Back,86,5.4,$0.16M
+Dororo,,8.2,93
+Escape from Planet Earth,89,5.9,$57.01M
+Spider-Man,,7.4,"2,835"
+Captain Planet and the Planeteers,23,6.7,"9,642"
+Gantz,22,7.3,"6,321"
+Pinky and the Brain,30,7.9,"26,096"
+Pinky Malinky,12,5.5,238
+Igor,87,6.0,$19.53M
+Bao,8,7.5,"17,791"
+Magi: The Kingdom of Magic,25,7.9,"2,340"
+Ben & Holly's Little Kingdom,10,7.4,712
+Redline,102,7.5,"9,344"
+Deadman Wonderland,24,7.3,"7,663"
+Heisei tanuki gassen ponpoko,119,7.3,"19,594"
+The Jungle Book 2,72,5.4,$47.89M
+Nature Cat,,7.3,219
+Kanashimi no beradonna,86,7.4,$0.11M
+Kureimoa,24,8.1,"11,025"
+The Powerpuff Girls,60,3.6,"2,664"
+Hazbin Hotel,,,
+The Garfield Show,25,5.6,"1,630"
+Rudolph the Red-Nosed Reindeer,47,8.1,"23,060"
+Isekai Mao to Shokan Shojo no Dorei Majutsu,23,7.0,694
+The Last: Naruto the Movie,112,7.7,"9,400"
+Barbie as the Princess and the Pauper,85,6.8,"4,236"
+Naya Legend of the Golden Dolphin,100,,
+Rapsittie Street Kids: Believe in Santa,40,1.2,633
+Uncle Grandpa,15,4.5,"4,529"
+Arkie,,,
+The Pirate Fairy,78,6.7,"11,279"
+Super Wings!,15,6.2,144
+Tenacious D: Post-Apocalypto,,7.8,240
+Toy Story 3: The Video Game,,7.8,410
+The Looney Tunes Show,23,6.7,"9,966"
+Rocket Power,30,6.9,"7,331"
+Zankyou No Terror,23,7.9,"6,161"
+Evangerion shin gekijôban: Ha,112,8.0,$0.13M
+The Cat in the Hat Knows a Lot About That!,26,6.7,347
+Cyberchase,30,6.8,"1,727"
+The Loud House,,,
+Æon Flux,30,7.8,"5,034"
+The Adventures of Puss in Boots,23,6.8,"1,105"
+Dragon Tales,30,6.3,"2,782"
+The Son of Bigfoot,92,6.1,$0.29M
+Neon Genesis Evangelion,,,
+Kung Fu Panda: Legends of Awesomeness,22,7.2,"4,621"
+The Land of Sometimes,,,
+Voltron: Defender of the Universe,24,8.0,"3,742"
+Handy Manny,24,5.8,"1,206"
+Gekijouban Poketto monsutâ: Minna no Monogatari,97,6.5,$0.79M
+101 Dalmatian Street,,7.1,46
+Tenshi no tamago,71,7.7,"5,493"
+Justice League: Doom,75,7.5,"27,666"
+Napoleon Dynamite,30,6.4,"2,686"
+Wolf Tracer's Dinosaur Island,45,3.4,61
+Rurouni Kenshin: Meiji Kenkaku Romantan: Tsuioku Hen,118,8.6,"11,743"
+Batman vs. Robin,80,7.1,"16,445"
+Klaus,,,
+B.O.O.: Bureau of Otherworldly Operations,,,
+The Critic,522,7.9,"6,955"
+Angel Beats!,25,7.8,"9,302"
+Trolls Holiday,26,6.2,"1,494"
+The Stinky & Dirty Show,11,7.0,167
+Yuri!!! On Ice,20,8.4,"3,850"
+Thundercats,,7.9,"5,845"
+Chip and Potato,,7.1,28
+Harvey Street Kids,23,6.7,131
+DuckTales the Movie: Treasure of the Lost Lamp,74,6.9,$18.12M
+Cinderella II: Dreams Come True,73,5.1,"9,279"
+Hoodwinked Too! Hood vs. Evil,86,4.8,$10.14M
+Inspector Gadget,30,6.8,"16,614"
+Evangerion shin gekijôban: Kyu,96,7.0,$0.17M
+Moral Orel,11,7.9,"4,454"
+The Big Trip,90,6.2,240
+Clone High,,8.2,"5,428"
+Henchmen,89,5.1,$0.00M
+Inuyashiki,24,7.8,"1,530"
+Gekijouban Fate/Stay Night: Heaven's Feel - II. Lost Butterfly,117,7.9,272
+Son of Batman,74,6.7,"20,513"
+Hump,,,
+Valiant,76,5.5,$19.45M
+Alpha and Omega,90,5.3,$25.08M
+Superman/Shazam!: The Return of Black Adam,25,7.2,"6,208"
+American Dragon: Jake Long,30,6.6,"8,386"
+Open Season 2,76,5.6,"19,961"
+Beruseruku: Ougon jidai-hen I - Haou no tamago,76,7.7,"8,980"
+Happy Tree Friends,74,7.0,"15,602"
+"Fortunately, the Milk",,,
+The Bugs Bunny Show,30,8.6,"28,327"
+Scooby-Doo! and the Curse of the 13th Ghost,72,6.4,554
+Kobayashi-san Chi No Maid Dragon,,7.7,"1,614"
+Jojo no kimyô na bôken,,8.0,568
+Lil Nas X: Old Town Road (I Got the Horses in the Back) (Visualizer),2,7.9,12
+Shimmer and Shine,30,5.7,306
+Gandahar,78,7.1,$0.37M
+Blame!,106,6.7,"5,693"
+Generator Rex,,7.5,"2,630"
+Immortel (ad vitam),103,6.0,"19,792"
