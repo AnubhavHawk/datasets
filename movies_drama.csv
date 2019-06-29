@@ -1,0 +1,251 @@
+title,runtime,rating,profit
+Rocketman,121,7.7,$71.68M
+A Star Is Born,136,7.8,$215.29M
+Bohemian Rhapsody,134,8,$216.43M
+Logan,137,8.1,$226.28M
+The Shining,146,8.4,$44.02M
+Green Book,130,8.2,$85.08M
+The Dark Knight,152,9,$534.86M
+The Shawshank Redemption,142,9.3,$28.34M
+Baby Driver,113,7.6,$107.83M
+Pulp Fiction,154,8.9,$107.93M
+The Godfather,175,9.2,$134.97M
+Interstellar,169,8.6,$188.02M
+The Lion King,88,8.5,$312.90M
+Saving Private Ryan,169,8.6,$216.54M
+Titanic,194,7.8,$659.33M
+The Favourite,119,7.6,$34.24M
+Inglourious Basterds,153,8.3,$120.54M
+The Wolf of Wall Street,180,8.2,$116.90M
+The Longest Day,178,7.8,$39.10M
+A Quiet Place,90,7.6,$188.02M
+Blade Runner 2049,164,8,$92.05M
+The Lord of the Rings: The Fellowship of the Ring,178,8.8,$315.54M
+Call Me by Your Name,132,7.9,$18.10M
+Gladiator,155,8.5,$187.71M
+Harry Potter and the Deathly Hallows: Part 2,130,8.1,$381.01M
+Gone Girl,149,8.1,$167.77M
+Django Unchained,165,8.4,$162.81M
+Fight Club,139,8.8,$37.03M
+The Lord of the Rings: The Return of the King,201,8.9,$377.85M
+Dunkirk,106,7.9,$188.37M
+Léon,110,8.6,$19.50M
+Goodfellas,146,8.7,$46.84M
+Good Will Hunting,126,8.3,$138.43M
+The Prestige,130,8.5,$53.09M
+Apocalypse Now,147,8.5,$83.47M
+Forrest Gump,142,8.8,$330.25M
+Schindler's List,195,8.9,$96.07M
+The Hateful Eight,168,7.8,$54.12M
+American Psycho,101,7.6,$15.07M
+The Silence of the Lambs,118,8.6,$130.74M
+The Departed,151,8.5,$132.38M
+Dead Poets Society,128,8.1,$95.86M
+The Notebook,123,7.9,$81.00M
+The Sandlot,101,7.8,$32.42M
+Searching,102,7.7,$26.02M
+About Time,123,7.8,$15.32M
+"Three Billboards Outside Ebbing, Missouri",115,8.2,$54.51M
+Watchmen,162,7.6,$107.51M
+Zodiac,157,7.7,$33.08M
+Reservoir Dogs,99,8.3,$2.83M
+Whiplash,106,8.5,$13.09M
+Se7en,127,8.6,$100.13M
+Braveheart,178,8.4,$75.60M
+A Clockwork Orange,136,8.3,"6,91,160"
+Room,118,8.2,$14.68M
+Arrival,116,7.9,$100.55M
+Moneyball,133,7.6,$75.61M
+The Green Mile,189,8.6,$136.80M
+Apollo 13,140,7.6,$173.84M
+Jaws,124,8,$260.00M
+Scarface,170,8.3,$45.60M
+No Country for Old Men,122,8.1,$74.28M
+The Breakfast Club,97,7.9,$45.88M
+Hacksaw Ridge,139,8.1,$67.21M
+American Beauty,122,8.4,$130.10M
+Requiem for a Dream,102,8.3,$3.64M
+The Martian,144,8,$228.43M
+The Lord of the Rings: The Two Towers,179,8.7,$342.55M
+Tombstone,130,7.8,$56.51M
+The Revenant,156,8,$183.64M
+Lawrence of Arabia,216,8.3,$44.82M
+Ex Machina,108,7.7,$25.44M
+Rush,123,8.1,$26.95M
+12 Angry Men,96,8.9,$4.36M
+Heat,170,8.2,$67.44M
+Mystic River,138,8,$90.14M
+Her,126,8,$25.57M
+50/50,100,7.7,$35.01M
+The Intouchables,112,8.5,$13.18M
+La vie d'Adèle,180,7.8,$2.20M
+The Imitation Game,114,8,$91.13M
+The Help,146,8.1,$169.71M
+Sicario,121,7.6,$46.89M
+Prisoners,153,8.1,$61.00M
+Stand by Me,89,8.1,$52.29M
+Donnie Darko,113,8.1,$1.48M
+The Grand Budapest Hotel,99,8.1,$59.10M
+Wonder,113,8,$132.42M
+Taxi Driver,114,8.3,$28.26M
+Cast Away,143,7.8,$233.63M
+The Godfather: Part II,202,9,$57.30M
+The Big Short,130,7.8,$70.26M
+One Flew Over the Cuckoo's Nest,133,8.7,$112.00M
+Catch Me If You Can,141,8.1,$164.62M
+Black Swan,108,8,$106.95M
+Pan's Labyrinth,118,8.2,$37.63M
+La La Land,128,8,$151.10M
+The Girl with the Dragon Tattoo,158,7.8,$102.52M
+Drive,100,7.8,$35.06M
+Wind River,107,7.7,$33.80M
+Full Metal Jacket,116,8.3,$46.36M
+Butch Cassidy and the Sundance Kid,110,8.1,$102.31M
+The Fugitive,130,7.8,$183.88M
+American Gangster,157,7.8,$130.16M
+There Will Be Blood,158,8.2,$40.22M
+Fargo,98,8.1,$24.61M
+Platoon,120,8.1,$138.53M
+Remember the Titans,113,7.8,$115.65M
+Mulholland Dr.,147,8,$7.22M
+"Love, Simon",110,7.6,$40.83M
+Pride & Prejudice,129,7.8,$38.41M
+Inside Out,95,8.2,$356.46M
+Eternal Sunshine of the Spotless Mind,108,8.3,$34.40M
+Love Actually,135,7.6,$59.70M
+The Curious Case of Benjamin Button,166,7.8,$127.51M
+Midnight Cowboy,113,7.9,$44.79M
+The Town,125,7.6,$92.19M
+The Sixth Sense,107,8.1,$293.51M
+The Social Network,120,7.7,$96.96M
+Black Hawk Down,144,7.7,$108.64M
+Kimi no na wa.,106,8.4,$5.02M
+V for Vendetta,132,8.2,$70.51M
+Hidden Figures,127,7.8,$169.61M
+Walk the Line,136,7.9,$119.52M
+Cidade de Deus,130,8.6,$7.56M
+Lo imposible,114,7.6,$19.02M
+Into the Wild,148,8.1,$18.35M
+Boogie Nights,155,7.9,$26.40M
+Once Upon a Time in America,229,8.4,$5.32M
+Brokeback Mountain,134,7.7,$83.04M
+Isle of Dogs,101,7.9,$32.02M
+Gran Torino,116,8.1,$148.10M
+American History X,119,8.5,$6.72M
+Birdman or (The Unexpected Virtue of Ignorance),119,7.7,$42.34M
+True Romance,119,7.9,$12.28M
+Spotlight,129,8.1,$45.06M
+Roma,135,7.8,"1,07,680"
+The Deer Hunter,183,8.1,$48.98M
+Network,121,8.1,"1,31,452"
+Oldeuboi,101,8.4,$0.71M
+Lost in Translation,102,7.8,$44.59M
+The Fault in Our Stars,126,7.7,$124.87M
+Atonement,123,7.8,$50.93M
+Ah-ga-ssi,145,8.1,$2.01M
+Nightcrawler,117,7.9,$32.38M
+Apocalypto,139,7.8,$50.87M
+Almost Famous,122,7.9,$32.53M
+Lion,118,8.1,$51.74M
+The Pianist,150,8.5,$32.57M
+The Perks of Being a Wallflower,103,8,$17.74M
+Slumdog Millionaire,120,8,$141.32M
+Big Fish,125,8,$66.26M
+12 Years a Slave,134,8.1,$56.67M
+A Beautiful Mind,135,8.2,$170.74M
+Casino,178,8.2,$42.44M
+Rocky,120,8.1,$117.24M
+La vita è bella,116,8.6,$57.60M
+Silver Linings Playbook,122,7.7,$132.09M
+The Sound of Music,172,8,$163.21M
+Trainspotting,93,8.2,$16.50M
+Ratatouille,111,8,$206.45M
+Gone with the Wind,238,8.2,$198.68M
+Koe no katachi,130,8.2,"25,540"
+The Truman Show,103,8.1,$125.62M
+West Side Story,153,7.6,$43.66M
+Hell or High Water,102,7.6,$26.86M
+The Station Agent,89,7.7,$5.74M
+Billy Elliot,110,7.7,$22.00M
+Casablanca,102,8.5,$1.02M
+The Blind Side,129,7.7,$255.96M
+Training Day,122,7.7,$76.63M
+Dangal,161,8.5,$12.39M
+Blue Velvet,120,7.8,$8.55M
+The Lives of Others,137,8.4,$11.29M
+Argo,120,7.7,$136.03M
+Gifted,101,7.6,$24.80M
+Gangs of New York,167,7.5,$77.81M
+Warrior,140,8.2,$13.66M
+Deliverance,109,7.7,"91,430"
+Creed,133,7.6,$109.77M
+Bridge of Spies,142,7.6,$72.31M
+Jagten,115,8.3,$0.69M
+Stalker,162,8.1,$0.23M
+Sling Blade,135,8,$24.48M
+The Last of the Mohicans,112,7.8,$75.51M
+Million Dollar Baby,132,8.1,$100.49M
+The Boy in the Striped Pyjamas,94,7.8,$9.03M
+Crash,112,7.8,$54.58M
+What's Eating Gilbert Grape,118,7.8,$9.17M
+Moulin Rouge!,127,7.6,$57.39M
+The Hurt Locker,131,7.6,$17.02M
+The Theory of Everything,123,7.7,$35.89M
+The Last Picture Show,118,8.1,$29.13M
+Captain Fantastic,118,7.9,$5.88M
+28 Days Later...,113,7.6,$45.06M
+The Pursuit of Happyness,117,8,$163.57M
+Fear and Loathing in Las Vegas,118,7.7,$10.68M
+Shichinin no samurai,207,8.7,$0.27M
+Gone Baby Gone,114,7.7,$20.30M
+The Butterfly Effect,113,7.7,$57.94M
+The Big Sick,120,7.6,$42.87M
+The Thin Red Line,170,7.6,$36.40M
+Manbiki kazoku,121,8,$3.31M
+Man on Fire,146,7.7,$77.91M
+The Graduate,106,8,$104.95M
+Close Encounters of the Third Kind,138,7.7,$132.09M
+Dallas Buyers Club,117,8,$27.30M
+Moonrise Kingdom,94,7.8,$45.51M
+Manchester by the Sea,137,7.8,$47.70M
+Children of Men,109,7.9,$35.55M
+Sense and Sensibility,136,7.7,$43.18M
+In Bruges,107,7.9,$7.76M
+Spartacus,197,7.9,$30.00M
+Gattaca,106,7.8,$12.34M
+Amadeus,160,8.3,$51.97M
+Dances with Wolves,181,8,$184.21M
+Gravity,91,7.7,$274.09M
+Empire of the Sun,153,7.8,$22.24M
+Breaking the Waves,159,7.9,$4.04M
+The King's Speech,118,8,$138.80M
+Breakfast at Tiffany's,115,7.7,"1,51,735"
+The Machinist,101,7.7,$1.08M
+As Good as It Gets,139,7.7,$148.48M
+Moon,97,7.9,$5.01M
+Collateral,120,7.5,$101.01M
+Unforgiven,130,8.2,$101.16M
+Inside Man,129,7.6,$88.51M
+Edward Scissorhands,105,7.9,$56.36M
+Match Point,124,7.6,$23.09M
+The Last Samurai,154,7.7,$111.11M
+To Kill a Mockingbird,129,8.3,"2,73,239"
+The Godfather Part III,162,7.6,$66.67M
+Only the Brave,134,7.7,$18.34M
+3 Idiots,170,8.4,$6.53M
+L.A. Confidential,138,8.3,$64.62M
+Straight Outta Compton,147,7.9,$161.20M
+Interview with the Vampire: The Vampire Chronicles,123,7.6,$105.26M
+Rain Man,133,8,$178.80M
+Der Untergang,156,8.2,$5.51M
+Män som hatar kvinnor,152,7.8,$10.10M
+Little Miss Sunshine,101,7.8,$59.89M
+The Crow,102,7.6,$50.69M
+Cabaret,124,7.8,$42.77M
+Misery,107,7.8,$61.28M
+A Few Good Men,138,7.7,$141.34M
+Metropolis,153,8.3,$1.24M
+Magnolia,188,8,$22.46M
+The Reader,124,7.6,$34.19M
+Traffic,147,7.6,$124.12M
+Zwartboek,145,7.8,$4.40M
