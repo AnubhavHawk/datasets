@@ -1,0 +1,4251 @@
+title,runtime,rating,profit
+Murder Mystery,97,6.0,"39,675"
+Toy Story 4,100,8.4,$178.99M
+Men in Black: International,114,5.7,$58.48M
+Good Omens,60,8.4,"22,785"
+Aladdin,128,7.4,$296.52M
+Once Upon a Time ... in Hollywood,159,9.6,"6,564"
+The Dead Don't Die,104,6.0,$5.36M
+Yesterday,116,6.9,"3,246"
+Always Be My Maybe,101,6.9,"24,187"
+Friends,22,8.9,"681,682"
+The Office,22,8.8,"300,707"
+The Secret Life of Pets 2,86,6.6,$124.11M
+Shaft,111,6.3,$17.42M
+Ralph Breaks the Internet,112,7.1,$201.09M
+GLOW,35,8.1,"30,820"
+Brooklyn Nine-Nine,22,8.4,"153,570"
+Booksmart,102,7.4,$20.98M
+Dead to Me,30,8.2,"22,496"
+The Big Bang Theory,22,8.2,"652,328"
+Trolls 2,,,
+PokÃ©mon Detective Pikachu,104,6.8,$142.28M
+Good Girls,43,7.9,"18,042"
+Late Night,102,6.4,$11.98M
+Catch-22,45,7.9,"6,385"
+Fleabag,27,8.6,"24,402"
+Frozen II,,,
+Toy Story,81,8.3,$191.80M
+Toy Story 3,103,8.3,$415.00M
+Suits,44,8.5,"328,208"
+The Boys,60,,
+Happy!,60,8.3,"24,957"
+Veronica Mars,44,8.4,"60,924"
+Shameless,46,8.7,"171,568"
+What We Do in the Shadows,30,8.4,"10,346"
+Jane the Virgin,60,7.8,"30,004"
+Men in Black 3,106,6.8,$179.02M
+"Oh, Ramona!",109,5.0,"4,222"
+Crazy Rich Asians,120,7.0,$174.53M
+Parks and Recreation,22,8.6,"177,858"
+Orange Is the New Black,59,8.1,"256,082"
+The Beach Bum,95,5.7,$3.49M
+Men in Black,98,7.3,$250.69M
+Schitt's Creek,22,8.2,"17,919"
+How I Met Your Mother,22,8.3,"543,796"
+The Umbrella Academy,60,8.1,"72,943"
+Doom Patrol,60,8.2,"15,060"
+Fast & Furious Presents: Hobbs & Shaw,,,
+Green Book,130,8.2,$85.08M
+Modern Family,22,8.4,"313,853"
+One Punch Man: Wanpanman,24,8.9,"86,588"
+Rick and Morty,23,9.3,"278,351"
+Deadpool 2,119,7.8,$324.59M
+Shazam!,132,7.4,$140.02M
+Bill & Ted Face the Music,,,
+Sex Education,45,8.4,"67,815"
+It's Always Sunny in Philadelphia,22,8.7,"171,313"
+Rim of the World,98,5.1,"11,833"
+Toy Story 2,92,7.9,$245.85M
+L.A.'s Finest,60,5.6,"1,174"
+Younger,22,7.8,"14,162"
+Barry,30,8.3,"24,676"
+Cobra Kai,30,8.8,"33,872"
+Bones,40,7.9,"130,157"
+"Love, Death & Robots",15,8.7,"57,424"
+Thor: Ragnarok,130,7.9,$315.06M
+Letterkenny,30,8.5,"6,804"
+Fighting with My Family,108,7.2,$22.96M
+Wonder Park,85,5.7,$45.22M
+Mr. Iglesias,30,7.2,"1,633"
+Charlie's Angels,,,
+Vice,132,7.2,$47.84M
+Guardians of the Galaxy Vol. 2,136,7.7,$389.81M
+Long Shot,125,7.2,$30.32M
+Archer,22,8.7,"124,513"
+Psych,44,8.4,"77,614"
+The Good Place,22,8.2,"61,778"
+How to Train Your Dragon: The Hidden World,104,7.6,$160.80M
+Easy,30,6.8,"9,002"
+Year of the Rabbit,30,7.5,554
+That '70s Show,22,8.1,"140,629"
+Stuber,93,6.1,573
+Two and a Half Men,22,7.1,"227,054"
+Men in Black II,88,6.1,$190.42M
+iZombie,42,7.9,"54,081"
+Deadpool,108,8.0,$363.07M
+Plus One,99,6.5,752
+This Is Us,45,8.7,"77,496"
+How to Sell Drugs Online (Fast),30,8.1,"6,938"
+The Marvelous Mrs. Maisel,57,8.7,"44,739"
+The Secret Life of Pets,87,6.5,$368.38M
+Guardians of the Galaxy,121,8.1,$333.18M
+Zombieland: Double Tap,,,
+Seinfeld,22,8.8,"226,437"
+Family Guy,22,8.2,"284,209"
+Gilmore Girls,44,8.2,"87,185"
+The Upside,126,6.7,$108.25M
+The Simpsons,22,8.7,"334,788"
+Community,22,8.5,"175,425"
+Just Go with It,117,6.4,$103.03M
+New Girl,22,7.7,"170,602"
+The Orville,44,8.0,"49,733"
+Arrested Development,22,8.8,"256,940"
+Chef,114,7.3,$30.64M
+Blazing Saddles,93,7.8,$119.50M
+Good Trouble,45,7.5,"1,857"
+Silicon Valley,28,8.5,"104,132"
+Beats,101,7.6,599
+Aladdin,90,8.0,$217.35M
+Veep,28,8.3,"37,799"
+Mamma Mia! Here We Go Again,114,6.7,$120.63M
+Baywatch,116,5.6,$58.06M
+A.P. Bio,21,7.2,"7,236"
+Then Came You,97,7.0,"4,001"
+Claws,45,7.3,"4,425"
+Clue,94,7.3,$14.64M
+The Grinch,85,6.3,$270.62M
+The Dirt,107,7.0,"27,797"
+Wine Country,103,5.5,"12,033"
+Fast Times at Ridgemont High,90,7.2,$27.09M
+Ocean's Eight,110,6.2,$139.38M
+Frasier,22,8.1,"66,987"
+South Park,22,8.7,"301,960"
+Glee,44,6.8,"125,419"
+The Lego Movie 2: The Second Part,107,6.7,$105.81M
+Instant Family,118,7.4,$67.36M
+Uncut Gems,,,
+Kingsman: The Secret Service,129,7.7,$128.26M
+The Goonies,114,7.8,$61.50M
+Los Espookys,,7.2,310
+Good Witch,48,7.3,"5,145"
+Under the Silver Lake,139,6.4,$0.05M
+BoJack Horseman,25,8.5,"71,325"
+Jumanji: Welcome to the Jungle,119,7.0,$404.52M
+Scott Pilgrim vs. the World,112,7.5,$31.49M
+Mary Poppins Returns,130,6.9,$171.96M
+Isn't It Romantic,89,5.9,$48.79M
+Russian Doll,30,8.0,"40,510"
+Life in Pieces,22,8.0,"10,510"
+Castle,43,8.1,"133,037"
+The Angry Birds Movie 2,,,
+Ghostbusters,105,7.8,$238.63M
+Young Sheldon,30,7.3,"24,053"
+Cheers,22,7.9,"43,001"
+The Ranch,30,7.6,"26,833"
+The Goldbergs,22,8.1,"26,720"
+Imposters,41,7.8,"8,186"
+Desperate Housewives,45,7.5,"107,378"
+Blended,117,6.5,$46.29M
+The Detour,30,7.8,"4,962"
+The Hustle,93,5.3,$35.16M
+Tag,100,6.5,$54.55M
+Good Boys,89,6.1,288
+Santa Clarita Diet,30,7.9,"47,543"
+The King's Man,,,
+About Time,123,7.8,$15.32M
+The Blues Brothers,133,7.9,$57.23M
+The Sandlot,101,7.8,$32.42M
+Mean Girls,97,7.0,$86.06M
+The Professor,90,6.7,"6,854"
+Snatch,104,8.3,$30.33M
+Chuck,43,8.2,"120,973"
+Scrubs,22,8.4,"224,344"
+Grace and Frankie,30,8.3,"29,602"
+Pitch Perfect,112,7.2,$65.00M
+A Simple Favor,117,6.9,$53.54M
+Bill & Ted's Excellent Adventure,90,6.9,$40.49M
+Back to the Future,116,8.5,$210.61M
+What We Do in the Shadows,86,7.7,$3.33M
+Kingsman: The Golden Circle,141,6.8,$100.23M
+Sing,108,7.1,$270.40M
+Last Man Standing,30,7.6,"26,045"
+Bob's Burgers,22,8.1,"56,488"
+M*A*S*H,25,8.4,"46,865"
+Girlfriends' Guide to Divorce,60,6.9,"3,425"
+Ghostbusters,116,5.2,$128.34M
+Stockholm,92,6.2,$0.27M
+Californication,28,8.3,"164,057"
+Ballers,30,7.6,"32,651"
+Coco,105,8.4,$209.73M
+Historical Roasts,30,5.3,"1,183"
+Top Gear,60,8.7,"101,254"
+Superstore,22,7.8,"16,110"
+Monk,44,8.0,"59,318"
+Wreck-It Ralph,101,7.7,$189.42M
+Documentary Now!,23,8.1,"4,150"
+Ant-Man and the Wasp,118,7.1,$216.65M
+Dodgeball: A True Underdog Story,92,6.7,$114.33M
+The Ballad of Buster Scruggs,133,7.3,"88,692"
+Sex and the City,30,7.1,"96,388"
+A Dog's Journey,109,7.3,$22.17M
+Big Mouth,30,8.1,"36,567"
+Curb Your Enthusiasm,28,8.7,"85,970"
+Someone Great,92,6.2,"9,928"
+The End of the F***ing World,25,8.1,"93,815"
+Parenthood,60,8.2,"28,253"
+Entourage,28,8.5,"152,180"
+The O.C.,44,7.5,"75,517"
+Airplane!,88,7.8,$83.40M
+Frozen,102,7.5,$400.74M
+American Dad!,22,7.4,"107,176"
+The Art of Racing in the Rain,,,
+Hercules,93,7.3,$99.05M
+Mom,30,7.2,"24,203"
+The Kissing Booth,105,6.1,"44,900"
+Married with Children,22,8.1,"89,940"
+American Pie,95,7.0,$102.56M
+Sixteen Candles,93,7.1,$23.69M
+In the Dark,42,6.9,"1,272"
+The Hangover,100,7.7,$277.32M
+The Babysitter,85,6.3,"46,723"
+The Golden Girls,30,7.9,"27,807"
+Moana,107,7.6,$248.76M
+Mid90s,85,7.4,$7.36M
+Charlie and the Chocolate Factory,115,6.6,$206.46M
+Home Improvement,22,7.2,"36,635"
+Game Night,100,7.0,$69.00M
+The Tick,29,7.4,"12,531"
+Lethal Weapon,44,8.0,"32,412"
+The Morning Show,,,
+Finding Nemo,100,8.1,$380.84M
+Deep Murder,95,3.9,193
+Spaceballs,96,7.1,$38.12M
+The Queen's Corgi,85,4.9,"1,433"
+Ratatouille,111,8.0,$206.45M
+What a Girl Wants,105,5.9,$35.99M
+The Big Lebowski,117,8.1,$17.50M
+What Men Want,117,4.9,$54.61M
+Drunk History,22,7.8,"7,627"
+The Art of Self-Defense,104,7.2,239
+Beetlejuice,92,7.5,$73.71M
+The IT Crowd,25,8.5,"118,493"
+Blockers,102,6.2,$59.84M
+Catch-22,122,7.2,$24.91M
+Cult of Chucky,91,5.2,"17,287"
+Love Actually,135,7.6,$59.70M
+A Series of Unfortunate Events,50,7.8,"47,166"
+Onward,,,
+This Is 40,134,6.2,$67.54M
+The Big Short,130,7.8,$70.26M
+Fresh Off the Boat,22,7.9,"19,571"
+Weeds,28,8.0,"97,435"
+Smallfoot,96,6.7,$83.24M
+The Andy Griffith Show,30,8.3,"10,711"
+The Addams Family,,,
+Six Feet Under,55,8.7,"111,060"
+Zombieland,88,7.6,$75.59M
+The Grand Budapest Hotel,99,8.1,$59.10M
+Mary Poppins,139,7.8,$102.27M
+Gavin & Stacey,29,8.0,"13,200"
+Untitled Jumanji: Welcome to the Jungle Sequel,,,
+The Spy Who Dumped Me,117,6.0,$33.56M
+Night School,111,5.6,$77.34M
+Dazed and Confused,102,7.7,$7.99M
+Slaughterhouse Rulez,104,5.3,$0.00M
+30 Rock,22,8.2,"104,313"
+Space Jam 2,,,
+Lady Bird,94,7.4,$48.96M
+Baskets,30,7.5,"8,836"
+Police Academy,96,6.7,$81.20M
+Will & Grace,22,7.3,"47,388"
+After Life,30,8.5,"38,190"
+Whiskey Cavalier,60,7.1,"6,168"
+Office Space,89,7.8,$10.82M
+Changeland,86,5.5,375
+The Last Summer,109,5.6,"6,270"
+Wedding Crashers,119,7.0,$209.22M
+The Breakfast Club,97,7.9,$45.88M
+The Perfect Date,89,5.9,"20,269"
+Inside Out,95,8.2,$356.46M
+Ferris Bueller's Day Off,103,7.8,$70.14M
+Home Again,97,5.8,$27.02M
+SpongeBob SquarePants,23,8.1,"73,912"
+Bull,60,6.9,"11,890"
+Aggretsuko,15,8.0,"2,959"
+The Girl Next Door,109,6.7,$14.59M
+We're the Millers,110,7.0,$150.39M
+Holmes & Watson,90,3.8,$30.57M
+La La Land,128,8.0,$151.10M
+Boston Legal,44,8.4,"40,280"
+"Love, Simon",110,7.6,$40.83M
+Black-ish,22,7.1,"16,944"
+Mamma Mia!,108,6.4,$144.13M
+Ant-Man,117,7.3,$180.20M
+American Made,115,7.2,$51.34M
+Eddie the Eagle,106,7.4,$15.79M
+Easy A,92,7.1,$58.40M
+Hart of Dixie,60,7.7,"41,169"
+Up,96,8.2,$293.00M
+Superbad,113,7.6,$121.46M
+Malcolm in the Middle,22,8.0,"108,830"
+Batman vs Teenage Mutant Ninja Turtles,87,7.2,"3,814"
+Crazy Ex-Girlfriend,42,7.8,"13,876"
+"Hail, Caesar!",106,6.3,$30.08M
+White Collar,40,8.3,"110,479"
+The Intouchables,112,8.5,$13.18M
+The Great Outdoors,91,6.6,$41.46M
+Say My Name,83,5.5,135
+Dead Poets Society,128,8.1,$95.86M
+Gloria Bell,102,6.5,$5.61M
+Hotel Transylvania 3: Summer Vacation,97,6.3,$167.51M
+Girls,28,7.3,"61,189"
+50/50,100,7.7,$35.01M
+Boku no Hero Academia,24,8.4,"17,367"
+The Witches,91,6.8,$10.36M
+Christopher Robin,104,7.3,$99.22M
+Futurama,22,8.5,"196,506"
+Atlanta,30,8.6,"39,898"
+Z Nation,44,6.7,"29,703"
+Destination Wedding,87,6.0,"15,847"
+Pretty Woman,119,7.0,$178.41M
+Napoleon Dynamite,96,6.9,$44.54M
+Life of the Party,105,5.6,$52.86M
+A Madea Family Funeral,109,4.3,$73.26M
+Private Eyes,43,7.4,"2,364"
+Everybody Loves Raymond,22,7.1,"58,231"
+Bob & Carol & Ted & Alice,105,6.7,$31.90M
+Legally Blonde,96,6.3,$96.52M
+Full House,22,6.7,"48,914"
+Clueless,97,6.8,$56.63M
+Zootopia,108,8.0,$341.27M
+Bridesmaids,125,6.8,$169.11M
+Mrs. Doubtfire,125,7.0,$219.20M
+Waiting...,94,6.8,$16.12M
+Dirty Grandpa,102,5.9,$35.54M
+Kick-Ass,117,7.6,$48.07M
+Captain Fantastic,118,7.9,$5.88M
+Dumplin',110,6.7,"20,528"
+Les frères Sisters,122,7.0,$3.14M
+War Dogs,114,7.1,$43.02M
+Spring Breakers,94,5.3,$14.12M
+I Think You Should Leave with Tim Robinson,16,7.5,"2,559"
+Trailer Park Boys,30,8.4,"33,454"
+The 40 Year Old Virgin,116,7.1,$109.45M
+Book Club,104,6.1,$68.57M
+Heathers,103,7.3,$1.11M
+Seven Brides for Seven Brothers,102,7.4,"19,539"
+Bride of Chucky,89,5.4,$32.38M
+Revenge of the Nerds,90,6.6,$40.90M
+Ash vs Evil Dead,30,8.5,"57,341"
+Welcome to Marwen,116,6.1,$10.76M
+Broad City,22,8.3,"23,322"
+Final Space,30,8.4,"21,313"
+Bunk'd,30,5.7,"1,924"
+The Fresh Prince of Bel-Air,22,7.9,"107,434"
+10 Things I Hate About You,97,7.3,$38.18M
+Unbreakable Kimmy Schmidt,30,7.7,"55,849"
+Birdman or (The Unexpected Virtue of Ignorance),119,7.7,$42.34M
+Ghostbusters II,108,6.5,$112.49M
+The Banana Splits,,,
+Isle of Dogs,101,7.9,$32.02M
+Caddyshack,98,7.3,$39.85M
+The Nanny,22,6.9,"33,925"
+Luka Chuppi,126,6.4,$1.04M
+Hot Fuzz,121,7.9,$23.64M
+21 Jump Street,109,7.2,$138.45M
+"Crazy, Stupid, Love.",118,7.4,$84.35M
+Jay and Silent Bob Reboot,,,
+The Middle,22,7.5,"41,340"
+Adventure Time with Finn & Jake,11,8.6,"66,286"
+Maniac,40,7.9,"51,093"
+Blinded by the Light,117,6.1,205
+The Hitman's Bodyguard,118,6.9,$75.47M
+Grown Ups,102,6.0,$162.00M
+Pew News,15,10.0,"4,205"
+The King of Queens,22,7.3,"69,855"
+"Monsters, Inc.",92,8.1,$289.92M
+Overboard,112,6.0,$50.32M
+Grown Ups 2,101,5.4,$133.67M
+Not Another Teen Movie,89,5.7,$38.25M
+Bad Boys for Life,,,
+Hagane no renkinjutsushi,24,9.0,"90,690"
+Così fan tutte,93,5.3,"3,229"
+The Courtship of Eddie's Father,118,6.8,"2,262"
+That's My Boy,116,5.6,$36.93M
+Eureka,60,7.9,"44,791"
+The Nice Guys,116,7.4,$36.26M
+The Devil Wears Prada,109,6.9,$124.74M
+The Week Of,116,5.1,"13,900"
+The Voyage of Doctor Dolittle,,,
+Matilda,98,6.9,$33.08M
+Don't Tell Mom the Babysitter's Dead,102,6.2,$25.20M
+Atypical,30,8.3,"37,530"
+The Boat That Rocked,135,7.4,$7.99M
+Sorry to Bother You,111,7.0,$17.49M
+The Ridiculous 6,119,4.8,"38,913"
+Trolls,92,6.5,$153.71M
+Risky Business,99,6.8,$63.50M
+Tropic Thunder,107,7.0,$110.52M
+Boy Meets World,23,8.1,"36,060"
+She's Gotta Have It,30,6.7,"3,248"
+Weird Science,94,6.6,$23.83M
+Future Man,30,7.9,"15,342"
+Fuller House,30,6.9,"21,488"
+RED,111,7.1,$90.38M
+Assassination Nation,108,5.9,$1.96M
+Shaun of the Dead,99,7.9,$13.54M
+La vita è bella,116,8.6,$57.60M
+The Lego Batman Movie,104,7.3,$175.75M
+"I, Tonya",120,7.5,$30.01M
+Workaholics,22,8.1,"42,763"
+Tusk,102,5.3,$1.82M
+All That,30,7.5,"6,226"
+Movie 43,94,4.3,$8.83M
+Stan & Ollie,98,7.3,$5.47M
+The Office,30,8.5,"87,237"
+The Librarians,42,7.3,"17,495"
+Zeroville,96,,
+The Lobster,119,7.1,$8.70M
+Jumanji,104,7.0,$100.48M
+Untitled Ghostbusters Project,,,
+The Mask,101,6.9,$119.94M
+The Do-Over,108,5.7,"33,643"
+Jennifer's Body,102,5.2,$16.20M
+The Lost Boys,97,7.3,$32.22M
+Iron Sky: The Coming Race,90,5.0,"3,432"
+Goosebumps 2: Haunted Halloween,90,5.6,$46.70M
+Saturday Night Live,90,8.1,"39,319"
+Big Daddy,93,6.4,$163.48M
+Chopsticks,100,6.5,"2,128"
+Freaks and Geeks,44,8.8,"119,334"
+Second Act,103,5.8,$39.28M
+Can You Ever Forgive Me?,106,7.1,$8.80M
+Happy Gilmore,92,7.0,$38.62M
+Gravity Falls,23,8.9,"54,011"
+Crashing,30,7.7,"5,965"
+Something Borrowed,112,5.9,$39.05M
+Forgetting Sarah Marshall,111,7.2,$63.17M
+Sabrina,113,7.7,"53,625"
+Sex and the City 2,146,4.4,$95.35M
+Hook,142,6.7,$119.65M
+Leprechaun Returns,86,5.2,"1,606"
+White Chicks,109,5.6,$70.83M
+Mike and Dave Need Wedding Dates,98,6.0,$46.01M
+Andi Mack,25,7.3,"1,542"
+A Rainy Day in New York,92,,
+The Waterboy,90,6.1,$161.49M
+The Change-Up,112,6.3,$37.08M
+Tangled,100,7.8,$200.82M
+The School of Rock,109,7.1,$81.26M
+Malèna,108,7.5,$3.43M
+King of the Hill,30,7.3,"42,152"
+The Duff,101,6.5,$34.02M
+The Edge of Seventeen,104,7.3,$14.26M
+White Gold,30,7.4,"6,978"
+Inside No. 9,30,8.4,"8,602"
+Scooby-Doo,86,5.0,$153.29M
+Yuk po tuen: Tau ching bo gam,99,5.7,$0.40M
+The Man Who Killed Don Quixote,132,6.5,$0.39M
+Jerry Maguire,139,7.3,$153.95M
+Old School,88,7.1,$75.59M
+Knocked Up,129,7.0,$148.73M
+Bring It On,98,6.0,$68.38M
+There Was a Crooked Man...,126,7.0,"3,554"
+The Mindy Project,30,7.4,"26,860"
+Free Guy,,,
+Idiocracy,84,6.6,$0.44M
+Casper,100,6.1,$100.33M
+Dirk Gently's Holistic Detective Agency,60,8.3,"35,319"
+The Man from U.N.C.L.E.,116,7.3,$45.45M
+Despicable Me 3,89,6.3,$264.62M
+Austin Powers: International Man of Mystery,94,7.0,$53.88M
+Scoob,,,
+Shrek,90,7.9,$267.67M
+Only Lovers Left Alive,123,7.3,$1.88M
+A Million Little Things,43,7.9,"5,240"
+The Truman Show,103,8.1,$125.62M
+Galaxy Quest,102,7.3,$71.58M
+The Extraordinary Journey of the Fakir,92,6.9,"4,121"
+Bonding,107,7.3,"7,354"
+Horrible Bosses,98,6.9,$117.54M
+The Parent Trap,128,6.5,$66.31M
+Death at a Funeral,90,7.4,$8.58M
+Almost Famous,122,7.9,$32.53M
+Summer Rental,87,6.3,$24.69M
+Doc Martin,46,8.3,"10,159"
+The Disaster Artist,104,7.4,$21.12M
+Brittany Runs a Marathon,103,5.9,165
+"Lock, Stock and Two Smoking Barrels",107,8.2,$3.90M
+The Big Sick,120,7.6,$42.87M
+Grosse Pointe Blank,107,7.4,$28.01M
+Wings,30,7.3,"9,423"
+Grown-ish,22,6.4,"2,832"
+On My Block,30,8.1,"6,758"
+The Grand Tour,60,8.7,"54,668"
+Take Me Home Tonight,97,6.3,$6.92M
+Death at a Funeral,92,5.7,$42.74M
+Roseanne,21,7.0,"37,490"
+Logan Lucky,118,7.0,$27.78M
+The Men Who Stare at Goats,94,6.2,$32.42M
+Hairspray,117,6.7,$118.87M
+A League of Their Own,128,7.2,$107.53M
+The Emperor's New Groove,78,7.4,$89.30M
+Keanu,100,6.3,$20.57M
+True Lies,141,7.2,$146.28M
+The Witches,,,
+The Rocky Horror Picture Show,100,7.4,$139.88M
+Silver Linings Playbook,122,7.7,$132.09M
+Mars Attacks!,106,6.3,$37.77M
+A Dog's Purpose,100,7.1,$64.51M
+Hunter x Hunter,24,8.7,"35,912"
+Piranha 3D,88,5.4,$25.00M
+Keeping Up with the Joneses,105,5.9,$14.90M
+The Durrells,46,8.1,"5,160"
+Derry Girls,30,8.3,"8,342"
+Sausage Party,89,6.2,$97.66M
+One Piece: Wan pîsu,24,8.6,"56,581"
+There's Something About Mary,119,7.1,$176.48M
+Jojo Rabbit,,,
+Little Italy,102,5.7,$0.99M
+Ramy,30,8.0,"1,650"
+Shameless,90,8.0,"13,281"
+As Good as It Gets,139,7.7,$148.48M
+PEN15,30,7.9,"2,324"
+Uncle Buck,100,7.0,$66.76M
+Insatiable,45,6.6,"16,402"
+Small Soldiers,108,6.2,$54.68M
+Horrible Histories: The Movie,,,
+The Old Man & the Gun,93,6.8,$11.28M
+Kindergarten Cop,111,6.1,$91.46M
+Ace Ventura: Pet Detective,86,6.9,$72.22M
+American Housewife,30,7.4,"5,855"
+The Happytime Murders,91,5.3,$20.71M
+The Emoji Movie,86,3.2,$86.09M
+Cuckoo,30,7.3,"6,447"
+The Descendants,115,7.3,$82.58M
+Amélie,122,8.3,$33.23M
+The Inbetweeners,25,8.3,"72,525"
+The Death of Stalin,107,7.2,$8.04M
+My Name Is Earl,22,7.8,"91,435"
+50 First Dates,99,6.8,$120.91M
+Eighth Grade,93,7.5,$13.54M
+Brave,93,7.1,$237.28M
+Saving Mr. Banks,125,7.5,$83.30M
+The Last Man on Earth,22,7.4,"48,570"
+Saved by the Bell,30,7.1,"28,821"
+Cars 3,102,6.8,$152.90M
+National Lampoon's Animal House,109,7.5,$0.20M
+Bill & Ted's Bogus Journey,93,6.3,$38.04M
+The Other Guys,107,6.7,$119.22M
+Fear and Loathing in Las Vegas,118,7.7,$10.68M
+"Love, Rosie",102,7.2,$0.01M
+Rock of Ages,123,5.9,$38.52M
+90210,60,6.1,"40,491"
+A Bug's Life,95,7.2,$162.80M
+Naruto: Shippûden,24,8.4,"65,896"
+Uncle Drew,103,5.7,$42.47M
+Space Jam,88,6.4,$90.46M
+Scary Movie,88,6.2,$157.02M
+Step Brothers,98,6.9,$100.47M
+Fubar,85,5.0,163
+This Is the End,107,6.6,$101.47M
+Morning Glory,107,6.5,$31.01M
+Gosford Park,131,7.3,$41.31M
+Home Alone,103,7.5,$285.76M
+Pineapple Express,111,7.0,$87.34M
+Love & Other Drugs,112,6.7,$32.37M
+The Addams Family,99,6.9,$113.50M
+She's Out of My League,104,6.4,$31.58M
+Seed of Chucky,87,4.9,$17.08M
+Don Jon,90,6.6,$24.48M
+"Honey, I Shrunk the Kids",93,6.3,$130.72M
+Gilmore Girls: A Year in the Life,90,7.8,"24,154"
+American Graffiti,110,7.5,$115.00M
+Summer School,97,6.6,$35.66M
+Madagascar: Escape 2 Africa,89,6.7,$180.01M
+Finding Dory,97,7.3,$486.30M
+Striptease,115,4.4,$33.11M
+Empire Records,90,6.7,$0.30M
+Parenthood,124,7.0,$100.05M
+"Where'd You Go, Bernadette",,,
+Life with Father,118,7.3,"4,205"
+"Sabrina, the Teenage Witch",22,6.7,"31,059"
+Steel Magnolias,117,7.3,$83.76M
+The Proposal,108,6.7,$163.96M
+Better Things,22,7.7,"9,463"
+Big Hero 6,102,7.8,$222.53M
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,95,8.4,$0.28M
+Limitless,42,7.8,"56,482"
+The Lego Movie,100,7.8,$257.76M
+2 Broke Girls,22,6.7,"84,996"
+Coming to America,116,7.0,$128.15M
+The French Dispatch,,,
+Gremlins,106,7.3,$148.17M
+Fletch,98,6.9,$50.61M
+Spy,119,7.0,$110.83M
+The Spectacular Now,95,7.1,$6.85M
+Vacation,99,6.1,$58.88M
+Descendants,112,6.4,"12,141"
+Spies in Disguise,,,
+RED 2,116,6.6,$53.26M
+The Farewell,98,6.8,283
+Ted,106,6.9,$218.82M
+Nanatsu no taizai,24,8.2,"13,271"
+DuckTales,21,8.2,"4,029"
+The Graduate,106,8.0,$104.95M
+The Princess and the Frog,97,7.1,$104.40M
+Paul,104,7.0,$37.41M
+Palm Springs Weekend,100,6.0,727
+Mr. & Mrs. Smith,120,6.5,$186.34M
+The Little Rascals,82,6.3,$51.76M
+The World's End,109,7.0,$26.00M
+Mum,30,8.2,"1,566"
+Tully,95,7.0,$9.23M
+UglyDolls,87,4.5,$20.10M
+The Wedding Singer,100,6.8,$80.25M
+Monty Python and the Holy Grail,91,8.3,$1.23M
+Just Friends,96,6.2,$32.62M
+The Love Boat,60,6.1,"7,725"
+Paterson,118,7.4,$2.14M
+Holes,117,7.0,$67.41M
+Pitch Perfect 3,93,5.8,$104.90M
+Son in Law,95,5.8,$36.45M
+Inherent Vice,148,6.7,$8.11M
+Catastrophe,24,8.2,"12,696"
+Shake It Up,30,4.9,"10,362"
+Only Fools and Horses....,95,8.9,"41,177"
+Rough Night,101,5.2,$22.06M
+Raven's Home,22,7.7,"1,800"
+In Bruges,107,7.9,$7.76M
+The House with a Clock in Its Walls,105,6.0,$68.55M
+Hannah Montana,23,5.0,"33,834"
+Kick-Ass 2,103,6.6,$28.80M
+Teenage Mutant Ninja Turtles,93,6.8,$135.27M
+Austin Powers: The Spy Who Shagged Me,95,6.6,$206.04M
+Midnight in Paris,94,7.7,$56.82M
+Irma la Douce,147,7.4,$25.25M
+Why Him?,111,6.2,$60.27M
+Chicago,113,7.2,$170.69M
+Drunk Parents,97,3.6,"1,997"
+Misfits,60,8.2,"86,866"
+Magic Mike,110,6.1,$113.72M
+Gake no ue no Ponyo,101,7.7,$15.09M
+Love,50,7.7,"31,838"
+Dark Shadows,113,6.2,$79.73M
+Dumb and Dumber,107,7.3,$127.18M
+"Game Over, Man!",101,5.4,"21,582"
+Tacoma FD,30,7.9,"1,127"
+The Little Hours,90,5.8,$1.65M
+Gilligan's Island,30,7.4,"11,268"
+Into the Woods,125,6.0,$128.00M
+Master of None,30,8.3,"57,403"
+Friday,91,7.3,$27.47M
+EuroTrip,92,6.6,$17.72M
+Friday Night Dinner,24,8.1,"9,283"
+Now Apocalypse,30,6.2,"1,854"
+Wet Hot American Summer,97,6.7,$0.29M
+Bugsy Malone,93,6.9,$2.78M
+Miranda,30,8.1,"11,011"
+The 'Burbs,101,6.9,$36.60M
+Click,107,6.4,$137.36M
+How to Train Your Dragon 2,102,7.8,$177.00M
+Henry Danger,30,5.7,"2,346"
+The Cat in the Hat,82,3.9,$101.15M
+One Day at a Time,30,8.3,"9,854"
+Ugly Betty,60,6.6,"37,660"
+I Feel Pretty,110,5.4,$48.80M
+Malibu Rescue,,5.0,367
+American Princess,60,5.4,246
+Dead Like Me,60,8.1,"38,090"
+Moonrise Kingdom,94,7.8,$45.51M
+Hall Pass,105,5.9,$45.06M
+Batman,25,7.5,"16,820"
+Happy Days,30,7.5,"14,314"
+Kung fu,99,7.8,$17.11M
+Notting Hill,124,7.1,$116.09M
+"O Brother, Where Art Thou?",107,7.8,$45.51M
+Cats,,,
+The House Bunny,97,5.5,$48.24M
+Masterminds,95,5.8,$17.36M
+EverAfter,121,7.0,$65.71M
+Stripes,106,6.9,$85.30M
+The Princess Diaries,111,6.3,$108.25M
+Kidding,30,7.9,"9,859"
+Bad Boys,119,6.9,$65.81M
+God Friended Me,43,6.9,"4,704"
+Miracle Workers,30,7.0,"3,867"
+The Secret Life of Walter Mitty,114,7.3,$58.24M
+The Unauthorized Bash Brothers Experience,30,7.1,"2,314"
+Party Down,30,8.3,"25,816"
+Madagascar,86,6.9,$193.60M
+Whisky Galore!,80,7.3,"4,489"
+Guava Island,55,6.8,"5,869"
+Pixels,105,5.6,$78.75M
+All That,30,6.9,41
+No Strings Attached,108,6.2,$70.66M
+Now You See Me 2,129,6.5,$65.08M
+Amphibia,,8.4,143
+The Ugly Truth,96,6.4,$88.92M
+On Becoming a God in Central Florida,,,
+Cry-Baby,85,6.5,$8.27M
+The Intern,121,7.1,$75.76M
+Bewitched,25,7.6,"14,640"
+Burnt,101,6.6,$13.65M
+Big,104,7.3,$114.97M
+Hitch,118,6.6,$179.50M
+Shrek 2,93,7.2,$436.47M
+According to Jim,30,6.4,"32,320"
+Kevin Can Wait,30,5.7,"7,765"
+Toast of London,30,8.2,"4,328"
+Little Miss Sunshine,101,7.8,$59.89M
+The Dictator,83,6.4,$59.65M
+Last Week Tonight with John Oliver,30,8.9,"68,313"
+Spy Kids,88,5.5,$112.72M
+Trainwreck,125,6.2,$110.21M
+13 Going on 30,98,6.2,$57.23M
+Peep Show,25,8.6,"46,108"
+Pride and Prejudice and Zombies,108,5.8,$10.91M
+Major League,107,7.2,$49.80M
+Lilo & Stitch,85,7.2,$145.79M
+The Whole Nine Yards,98,6.7,$57.26M
+Friends with Benefits,109,6.6,$55.80M
+Hot Tub Time Machine,101,6.4,$50.29M
+Juno,96,7.5,$143.50M
+Royal Pains,42,7.1,"18,025"
+Marriage on the Rocks,109,5.8,859
+In Fabric,118,7.0,824
+Patriot,58,8.3,"8,422"
+Hit the Deck,112,6.6,631
+Deadpool 3,,,
+Black Monday,60,7.4,"2,119"
+Transparent,30,7.7,"19,823"
+3 Idiots,170,8.4,$6.53M
+3rd Rock from the Sun,60,7.8,"43,505"
+Bridget Jones's Diary,97,6.7,$71.54M
+Never Been Kissed,107,6.1,$55.47M
+Twins,107,6.0,$111.94M
+Growing Pains,30,6.7,"12,217"
+Punch-Drunk Love,95,7.3,$17.84M
+Poketto monsutâ,24,7.4,"33,785"
+(500) Days of Summer,95,7.7,$32.39M
+iCarly,30,6.6,"28,956"
+Back to the Future Part II,108,7.8,$118.50M
+You Can Choose Your Family,109,6.0,$0.04M
+Hotel Transylvania,91,7.1,$148.31M
+Beverly Hills Cop,105,7.3,$234.76M
+Abby's,30,5.1,932
+The Hitchhiker's Guide to the Galaxy,109,6.8,$51.09M
+The Wonder Years,22,8.3,"31,885"
+Get Smart,110,6.5,$130.32M
+An American Werewolf in London,97,7.6,$30.57M
+CHIPS,100,6.0,$18.59M
+Father Knows Best,30,7.5,"1,617"
+Bedtime Stories,99,6.1,$110.10M
+The Night Sitter,88,4.8,192
+Little,109,5.3,$40.67M
+Red Dwarf,30,8.3,"30,821"
+The Suite Life of Zack & Cody,30,6.5,"29,279"
+The Sting,129,8.3,$159.60M
+Fairy Tail,24,8.1,"17,260"
+Grease 2,115,4.3,$15.17M
+She's the Man,105,6.4,$2.34M
+Johnny English Strikes Again,89,6.2,$4.28M
+The Mighty Ducks,100,6.5,$50.75M
+Despicable Me,95,7.7,$251.51M
+22 Jump Street,112,7.0,$191.72M
+The Cosby Show,30,7.4,"29,118"
+Rango,107,7.2,$123.48M
+Ghost Light,102,5.0,119
+Lars and the Real Girl,106,7.3,$5.97M
+Bad Boys II,147,6.6,$138.61M
+"Juliet, Naked",97,6.6,$3.44M
+My Little Pony: Friendship Is Magic,22,7.7,"17,916"
+Last Christmas,,,
+Groundhog Day,101,8.0,$70.91M
+She's All That,95,5.9,$63.37M
+The Secret Life of the American Teenager,43,5.1,"18,650"
+The Amazing World of Gumball,11,8.2,"16,198"
+The Boss Baby,97,6.3,$175.00M
+Austin Powers in Goldmember,94,6.2,$213.31M
+The Terminal,128,7.3,$77.87M
+Eastbound & Down,28,8.3,"47,507"
+Charlie's Angels,98,5.5,$125.31M
+The Brady Bunch,30,6.7,"10,957"
+Little Nicky,90,5.3,$39.46M
+Steven Universe,11,8.2,"21,182"
+Three's Company,30,7.5,"10,700"
+Breakfast at Tiffany's,115,7.7,"151,823"
+Pretty in Pink,97,6.8,$40.47M
+About a Boy,101,7.1,$41.39M
+Leprechaun,92,4.7,$8.56M
+Marlon,22,7.0,"2,545"
+Secretary,107,7.0,$4.06M
+The League,22,8.3,"41,092"
+Anchorman: The Legend of Ron Burgundy,94,7.2,$85.29M
+Un tè con Mussolini,117,6.9,$14.35M
+Tuca & Bertie,26,7.4,"2,254"
+Central Intelligence,107,6.3,$127.44M
+Hogan's Heroes,25,7.9,"7,549"
+Scary Movie 2,83,5.3,$71.31M
+Focus,105,6.6,$53.86M
+Big Trouble in Little China,99,7.3,$11.10M
+The Adventures of Sharkboy and Lavagirl 3-D,93,3.5,$39.18M
+You're the Worst,30,8.1,"21,003"
+Heartbeat,50,6.8,"2,175"
+Disenchantment,30,7.2,"29,138"
+You Don't Mess with the Zohan,113,5.5,$100.02M
+Playmobil: The Movie,99,5.1,51
+Jessie,30,5.9,"10,744"
+National Lampoon's Vacation,98,7.4,$61.40M
+Bless This Mess,30,6.1,"1,138"
+You Me Her,28,7.0,"6,791"
+Mr. Mom,91,6.5,$64.80M
+Abominable,,,
+Project X,88,6.7,$54.73M
+Barbarella,98,5.9,"29,317"
+Unicorn Store,92,5.5,"13,051"
+Wayne's World,94,7.0,$121.70M
+Private Practice,60,6.7,"20,671"
+Divorce,30,6.8,"5,306"
+Daddy Day Care,92,5.6,$104.30M
+Family Ties,30,7.2,"14,336"
+Dick Tracy,105,6.1,$103.74M
+The Sweetest Thing,88,5.1,$24.72M
+The Heat,117,6.6,$159.58M
+Shark Tale,90,6.0,$160.86M
+Set It Up,105,6.5,"32,632"
+Episodes,30,7.9,"30,517"
+The Boondocks,22,8.4,"24,590"
+The Kominsky Method,30,8.2,"11,974"
+Enchanted,107,7.1,$127.81M
+Up in the Air,109,7.4,$83.82M
+Hampstead,102,5.9,$0.03M
+Flower,90,6.0,$0.33M
+Girls Trip,122,6.2,$115.11M
+Tremors,96,7.2,$16.67M
+Sometimes Always Never,91,7.1,294
+Out Cold,89,6.3,$13.90M
+The Sisterhood of the Traveling Pants,119,6.5,$39.01M
+Raising Arizona,94,7.4,$22.85M
+Road Trip,93,6.5,$68.54M
+Swingers,96,7.3,$4.51M
+Sword Art Online,24,7.7,"29,715"
+Bad Moms,100,6.2,$113.26M
+Kung Fu Panda,92,7.6,$215.43M
+The Good Dinosaur,93,6.7,$123.09M
+The Other Woman,109,6.0,$83.91M
+Some Like It Hot,121,8.2,$25.00M
+Blindspotting,95,7.4,$4.33M
+Sandy Wexler,130,5.1,"12,055"
+My Mad Fat Diary,47,8.4,"13,877"
+Lost in Space,60,7.3,"5,715"
+Sex Drive,109,6.5,$8.40M
+The Longest Yard,113,6.4,$158.12M
+Bombshell,96,7.3,"2,068"
+When in Rome,91,5.6,$32.67M
+Student of the Year 2,145,2.1,$0.78M
+Pitch Perfect 2,115,6.4,$184.30M
+Four Weddings and a Funeral,117,7.1,$52.70M
+BH90210,,,
+The F Word,98,6.8,$3.45M
+Sideways,127,7.5,$71.50M
+Victorious,30,6.9,"17,014"
+Ingrid Goes West,98,6.6,$3.02M
+Daddy's Home Two,100,6.0,$104.03M
+State of the Union,10,8.0,872
+Ferdinand,108,6.7,$84.41M
+Don't Trust the B---- in Apartment 23,22,7.3,"32,043"
+Swiss Army Man,97,7.0,$4.21M
+Babe,91,6.8,$66.60M
+Nurse Jackie,27,7.7,"22,834"
+Everybody Wants Some!!,117,7.0,$3.37M
+The Dukes of Hazzard,104,5.1,$80.27M
+He's Just Not That Into You,129,6.4,$93.95M
+Forever,30,7.3,"3,482"
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,84,7.3,$128.51M
+Last Action Hero,130,6.3,$50.02M
+Death Becomes Her,104,6.5,$58.42M
+Burn After Reading,96,7.0,$60.36M
+The Righteous Gemstones,,,
+Pan,111,5.8,$35.09M
+Zoolander,90,6.6,$45.17M
+Family Matters,30,6.6,"22,256"
+The Facts of Life,30,6.8,"5,115"
+Ally McBeal,45,6.8,"27,888"
+The Interview,112,6.5,$6.11M
+Daddy's Home,96,6.2,$150.36M
+Step by Step,30,6.5,"11,235"
+Star vs. the Forces of Evil,23,8.1,"8,507"
+Cougar Town,22,7.0,"38,800"
+Scream Queens,45,7.1,"31,380"
+Kingpin,114,6.9,$24.94M
+Super Troopers 2,99,6.1,$30.62M
+High School Musical,98,5.4,"73,097"
+The Wedding Date,90,6.1,$31.73M
+Say Anything...,100,7.4,$20.78M
+My Cousin Vinny,120,7.6,$52.93M
+This Is Spinal Tap,82,8.0,$0.19M
+Young Frankenstein,106,8.0,$86.30M
+How the Grinch Stole Christmas,104,6.1,$260.04M
+Lodge 49,51,7.3,"1,704"
+The Thick of It,29,8.7,"17,552"
+Unda,130,8.9,"1,205"
+Sabrina,127,6.3,$53.67M
+Colossal,109,6.2,$3.02M
+Republic of Doyle,60,7.3,"2,747"
+Stree,128,7.7,"20,193"
+Cashback,102,7.2,$0.02M
+The Inbetweeners Movie,97,6.8,$0.04M
+The Monuments Men,118,6.1,$78.03M
+Kelly's Heroes,144,7.7,"41,532"
+F Is for Family,30,8.0,"21,590"
+Neighbors 2: Sorority Rising,92,5.7,$55.29M
+"Planes, Trains & Automobiles",93,7.6,$49.53M
+Night at the Museum: Secret of the Tomb,98,6.2,$113.75M
+The Hangover Part II,102,6.5,$254.46M
+Addams Family Values,94,6.7,$48.92M
+The Hangover Part III,100,5.8,$112.20M
+The Conners,30,5.1,"5,896"
+Who Framed Roger Rabbit,104,7.7,$156.45M
+Naruto,24,8.3,"56,747"
+Relatos salvajes,122,8.1,$3.11M
+Seven Psychopaths,110,7.2,$15.02M
+Zack and Miri Make a Porno,101,6.6,$31.46M
+Good Sam,89,5.6,"1,349"
+Madagascar 3: Europe's Most Wanted,93,6.8,$216.39M
+Talladega Nights: The Ballad of Ricky Bobby,108,6.6,$148.21M
+Grand Theft Auto V,,9.6,"42,561"
+Drake & Josh,23,7.7,"31,945"
+Sex Tape,94,5.1,$38.54M
+Dinner for Schmucks,114,5.9,$73.03M
+Zero,164,5.7,"20,339"
+Adventures in Babysitting,102,6.9,$34.37M
+The Game Plan,110,6.2,$90.65M
+Tucker and Dale vs Evil,89,7.6,$0.22M
+Joey,22,6.0,"39,213"
+Your Pretty Face Is Going to Hell,11,7.6,"1,426"
+A Series of Unfortunate Events,108,6.8,$118.63M
+Shakespeare in Love,123,7.1,$100.32M
+Porky's,94,6.2,$111.29M
+Girl Meets World,23,7.2,"11,721"
+Summer Night,98,7.8,58
+The Voices,103,6.4,"48,483"
+Teenage Mutant Ninja Turtles: Out of the Shadows,112,6.0,$82.05M
+The Italian Job,99,7.3,"37,498"
+Billy Madison,89,6.4,$25.59M
+Impractical Jokers,30,8.6,"28,224"
+Leap Year,100,6.5,$25.92M
+Moonstruck,102,7.1,$80.64M
+Father of the Bride,92,7.2,"9,242"
+Peter Rabbit,95,6.6,$115.25M
+Planet Terror,105,7.1,"188,907"
+Missing Link,94,7.0,$16.64M
+Couples Retreat,113,5.5,$109.21M
+Ladies in Black,109,6.7,"2,704"
+Cheaper by the Dozen,98,5.9,$138.61M
+Awkward.,22,7.6,"40,948"
+Wally Got Wasted,99,4.4,176
+Hunt for the Wilderpeople,101,7.9,$5.20M
+Agatha Raisin,60,7.4,"1,853"
+Kim's Convenience,22,7.9,"3,930"
+Ice Age,81,7.5,$176.39M
+Do the Right Thing,120,7.9,$27.55M
+Meet the Fockers,115,6.3,$279.26M
+Fantastic Mr. Fox,87,7.9,$21.00M
+My Girl,102,6.9,$59.85M
+Liv and Maddie,22,6.3,"5,647"
+"Don't Worry, He Won't Get Far on Foot",114,6.9,$1.44M
+Broken Flowers,106,7.2,$13.74M
+Teen Titans Go! To the Movies,84,6.8,$29.56M
+Workin' Moms,30,6.6,"3,188"
+Stuart Little,84,5.9,$140.04M
+Nanny McPhee,97,6.6,$47.14M
+Time Freak,104,5.8,"3,629"
+Middle Men,105,6.6,$0.72M
+Shakespeare & Hathaway: Private Investigators,45,7.5,"1,024"
+Leave It to Beaver,30,7.6,"5,904"
+Vamp,93,5.9,$4.94M
+K.C. Undercover,30,6.2,"2,731"
+All in the Family,30,8.3,"12,760"
+Office Christmas Party,105,5.8,$54.73M
+17 Again,102,6.4,$64.17M
+Street Fighter,102,3.9,$33.42M
+Pete's Dragon,102,6.7,$76.23M
+The House,88,5.6,$25.48M
+Summer '03,95,5.4,$17.52M
+Gummo,89,6.7,$0.02M
+Vicky Cristina Barcelona,96,7.1,$23.22M
+Comedians in Cars Getting Coffee,20,8.1,"8,461"
+Monsters University,104,7.3,$268.49M
+Meet the Robinsons,95,6.9,$97.82M
+Tootsie,116,7.4,$177.20M
+John Tucker Must Die,89,5.8,$41.01M
+Annie,126,6.5,$57.06M
+Rat Race,112,6.4,$56.62M
+Disaster Movie,87,1.9,$14.19M
+Smokey and the Bandit,96,6.9,$126.74M
+Mind The Malhotras,25,5.5,416
+Just One of the Guys,90,6.5,$11.50M
+A Cinderella Story,95,5.9,$51.44M
+Coyote Ugly,100,5.7,$60.79M
+Benidorm,30,7.4,"3,161"
+Role Models,99,6.8,$67.29M
+Much Ado About Nothing,111,7.4,$22.55M
+Grandma's Boy,94,7.0,$6.09M
+Popeye,114,5.2,$49.82M
+Erkenci Kus,120,7.7,"2,589"
+Bolt,96,6.8,$114.05M
+Zookeeper,102,5.2,$80.36M
+Everything Sucks!,30,7.5,"12,024"
+Sky High,100,6.2,$63.95M
+Support the Girls,93,6.4,$0.13M
+Lucky,88,7.3,$0.96M
+Neighbors,97,6.3,$150.16M
+Something's Gotta Give,128,6.7,$124.73M
+Angie Tribeca,30,7.0,"7,241"
+Liar Liar,86,6.9,$181.41M
+Sweet Home Alabama,108,6.2,$127.22M
+Swedish Dicks,30,6.6,"1,830"
+Better Off Dead...,97,7.2,$10.30M
+Ella Enchanted,96,6.3,$22.92M
+Aladdin,30,7.3,"8,180"
+Mystic Pizza,104,6.3,$12.79M
+National Lampoon's European Vacation,95,6.2,$49.40M
+Sleeping with Other People,101,6.5,$0.81M
+The Meyerowitz Stories (New and Selected),112,6.9,"30,211"
+Dogma,130,7.3,$30.65M
+Brockmire,30,8.1,"3,323"
+Monster House,91,6.6,$73.66M
+Young & Hungry,22,7.4,"12,859"
+Night Court,30,7.7,"9,217"
+Doubles vies,108,6.7,$0.63M
+Shrill,30,7.4,"2,394"
+Angry Birds,97,6.3,$107.51M
+Coming 2 America,,,
+The Flintstones,91,4.9,$130.51M
+The Drew Carey Show,30,6.9,"14,658"
+Chasing Liberty,101,6.1,$12.19M
+The Addams Family,30,8.0,"11,985"
+Aloha,105,5.4,$20.99M
+Bride Wars,89,5.5,$58.72M
+Splash,111,6.2,$62.10M
+Night at the Museum: Battle of the Smithsonian,105,6.0,$177.24M
+MacGruber,90,5.5,$8.46M
+Can't Buy Me Love,94,6.8,$31.62M
+The Beverly Hillbillies,25,7.2,"6,807"
+Night at the Museum,108,6.4,$250.86M
+The Taming of the Shrew,122,7.2,$8.00M
+Paddington 2,103,7.9,$40.44M
+Astérix: Le secret de la potion magique,85,6.8,$1.27M
+Nothing But Trouble,94,5.0,$8.48M
+Army of Darkness,81,7.6,$11.50M
+Hung,30,7.2,"20,001"
+Shadaa,128,7.5,136
+Footloose,113,5.9,$51.80M
+Kingdom Hearts III,,8.9,965
+Happy Endings,22,7.7,"32,547"
+The Other Two,30,7.4,"1,147"
+American Reunion,113,6.7,$57.01M
+Bridget Jones's Baby,123,6.5,$24.25M
+The Jeffersons,30,7.5,"6,722"
+Teenage Mutant Ninja Turtles,101,5.8,$191.20M
+P.S. I Love You,126,7.1,$53.70M
+Greek,60,7.6,"22,744"
+10,122,6.1,$74.87M
+48 Hrs.,96,6.9,$78.87M
+The Imaginarium of Doctor Parnassus,123,6.8,$7.69M
+Action Point,85,5.0,$5.06M
+Friends from College,30,6.8,"15,187"
+Arachnophobia,109,6.4,$53.21M
+Tales from the Crypt,25,8.0,"19,328"
+SMILF,30,6.7,"4,091"
+Annie Hall,93,8.0,$39.20M
+Horrible Bosses 2,108,6.3,$54.45M
+Man with a Plan,30,7.0,"6,151"
+The Birdcage,117,7.0,$124.06M
+Popstar: Never Stop Never Stopping,87,6.7,$9.39M
+Insecure,30,7.8,"9,134"
+Green Acres,30,7.3,"4,944"
+3D Yuk po tuen: Gik lok bo gam,129,4.4,"2,299"
+Goosebumps,103,6.3,$80.08M
+'Allo 'Allo!,45,8.3,"22,068"
+The Avengers,60,8.3,"5,890"
+War Machine,122,6.0,"34,942"
+Diary of a Wimpy Kid,94,6.2,$64.00M
+Schooled,30,7.0,"1,512"
+The Big Wedding,89,5.6,$21.78M
+PAW Patrol,23,6.6,"1,485"
+Dear White People,30,6.3,"18,619"
+American Vandal,34,8.2,"22,738"
+The Replacements,118,6.6,$44.74M
+Cloudy with a Chance of Meatballs,90,7.0,$124.87M
+Pushing Daisies,44,8.4,"51,337"
+The Monster Squad,79,7.1,$3.77M
+Piranha 3DD,83,3.7,$0.38M
+Robot Chicken,11,7.8,"37,512"
+When We First Met,97,6.4,"35,035"
+Little Shop of Horrors,94,7.0,$38.75M
+Ghosts,30,7.7,"1,454"
+Meatballs,94,6.2,$43.05M
+Mischief,93,6.6,$8.69M
+Barney Miller,30,8.2,"4,227"
+Life of Brian,94,8.1,$20.05M
+Two Pints of Lager and a Packet of Crisps,26,7.1,"3,359"
+Rules of Engagement,22,7.3,"30,030"
+Tourism Australia: Dundee - The Son of a Legend Returns Home,3,8.2,"1,109"
+Bruce Almighty,101,6.7,$242.83M
+The Incredible Burt Wonderstone,100,5.9,$22.53M
+Blossom,30,6.0,"6,100"
+Lemonade Mouth,103,7.0,"12,357"
+Meet the Parents,108,7.0,$166.24M
+Being John Malkovich,113,7.8,$22.86M
+Weekend at Bernie's,97,6.4,$30.22M
+Iron Sky,93,5.9,"87,775"
+How to Lose a Guy in 10 Days,116,6.4,$105.81M
+Single Parents,30,6.8,"2,674"
+Beethoven,87,5.6,$57.11M
+Avengers of Justice: Farce Wars,87,2.3,201
+Pain & Gain,129,6.4,$49.88M
+Northern Exposure,60,8.3,"13,893"
+Hocus Pocus,96,6.8,$39.51M
+Mr Black,23,7.3,665
+Howard the Duck,110,4.6,$16.30M
+The Three Musketeers,105,6.4,$53.90M
+Evolution,101,6.1,$38.35M
+The Last Boy Scout,105,7.0,$59.51M
+D2: The Mighty Ducks,106,6.0,$45.61M
+Dragon Ball Super: Doragon bôru cho,24,8.2,"18,527"
+My Spy,,,
+"The Adventures of Priscilla, Queen of the Desert",104,7.5,$11.22M
+You're Next,95,6.6,$18.47M
+Super Mario Bros.,104,4.0,$20.92M
+Overboard,106,6.9,$26.71M
+Back to School,96,6.6,$91.26M
+Wayne,30,8.5,"4,393"
+That Thing You Do!,108,6.9,$25.81M
+That Awkward Moment,94,6.2,$26.05M
+Aquamarine,104,5.4,$18.60M
+Battle of the Sexes,121,6.7,$12.64M
+8 Simple Rules... for Dating My Teenage Daughter,30,7.1,"22,712"
+Airplane II: The Sequel,85,6.1,$27.15M
+Funny People,146,6.3,$51.86M
+Valentine's Day,125,5.7,$110.49M
+The Mick,30,7.8,"11,829"
+27 Dresses,111,6.1,$76.81M
+Mother's Day,118,5.7,$32.46M
+Romancing the Stone,106,6.9,$76.57M
+American Pie 2,108,6.4,$145.10M
+The Return of the Living Dead,91,7.4,$14.24M
+My Best Friend's Wedding,105,6.3,$127.12M
+Hot Summer Nights,107,6.4,"7,889"
+Sherlock Gnomes,86,5.1,$43.24M
+My Three Sons,30,7.2,"2,688"
+The Royal Tenenbaums,110,7.6,$52.36M
+The Square,151,7.2,$1.50M
+Teen Wolf,91,6.1,$33.09M
+Miss Congeniality,109,6.2,$106.81M
+Bee Movie,91,6.1,$126.63M
+Grimsby,83,6.2,$6.86M
+Good Luck Charlie,22,7.1,"16,326"
+Warm Bodies,98,6.9,$66.38M
+Corner Gas,30,8.0,"4,909"
+Spanglish,131,6.4,$42.04M
+"To Wong Foo Thanks for Everything, Julie Newmar",109,6.5,$36.47M
+Cars 2,106,6.2,$191.45M
+The Odd Life of Timothy Green,105,6.6,$51.85M
+Sierra Burgess Is a Loser,105,5.9,"27,400"
+A Million Ways to Die in the West,116,6.1,$43.14M
+Kim Possible,86,3.9,"1,373"
+The Mask of Zorro,136,6.7,$94.10M
+Half Baked,82,6.7,$17.28M
+Practical Magic,104,6.2,$46.68M
+Poms,91,5.3,$13.63M
+Hairspray,92,7.0,$6.67M
+A Princess for Christmas,91,6.5,"6,012"
+Men Behaving Badly,45,7.7,"6,510"
+Wild at Heart,125,7.2,$14.56M
+Kiss Kiss Bang Bang,103,7.6,$4.24M
+New Tricks,60,7.8,"4,373"
+"Definitely, Maybe",112,7.2,$31.97M
+Bedazzled,93,6.0,$37.88M
+Yes Man,104,6.8,$97.69M
+Joe Dirt,91,5.9,$27.09M
+The Package,94,5.5,"10,420"
+High School DxD,23,7.7,"4,974"
+Going in Style,96,6.6,$45.00M
+Mard Ko Dard Nahin Hota,134,7.5,"2,987"
+Megamind,95,7.3,$148.42M
+Youth,124,7.3,$2.70M
+Trading Places,116,7.5,$90.40M
+No Good Nick,30,5.4,943
+The Croods,98,7.2,$187.17M
+Life as We Know It,114,6.6,$53.37M
+Robin Hood: Men in Tights,104,6.7,$35.74M
+Match Game 73,30,8.3,"1,510"
+Ibiza,94,5.2,"12,823"
+Taxi,30,7.7,"10,310"
+Mozart in the Jungle,29,8.2,"20,514"
+Mako Mermaids,30,7.1,"2,725"
+Borderlands 2,,8.7,"4,440"
+The Kings of Summer,95,7.2,$1.29M
+Scouts Guide to the Zombie Apocalypse,93,6.3,$3.64M
+Magic Mike XXL,115,5.6,$66.01M
+The Heartbreak Kid,116,5.8,$36.79M
+Sydney to the Max,22,5.9,102
+Freaky Friday,97,6.2,$110.23M
+Get Shorty,60,8.1,"3,563"
+Coneheads,88,5.3,$21.27M
+Reba,30,6.5,"12,223"
+The Strange Thing About the Johnsons,28,7.1,"1,417"
+Society,99,6.5,"11,392"
+The Cannonball Run,95,6.2,$72.18M
+Steins;Gate,24,8.7,"33,330"
+The Jerk,94,7.2,$73.69M
+Young Adult,94,6.3,$16.31M
+Back to the Future Part III,118,7.4,$87.73M
+This Is Where I Leave You,103,6.6,$34.29M
+Phineas and Ferb,15,8.0,"28,525"
+Harold & Kumar Go to White Castle,88,7.1,$18.23M
+Nathan for You,30,8.7,"14,131"
+A Good Year,117,7.0,$7.46M
+Buffalo '66,110,7.5,$2.38M
+"Mystery, Alaska",119,6.7,$8.89M
+Still Game,30,8.9,"4,448"
+Super,96,6.8,$0.32M
+Bad Teacher,92,5.7,$100.29M
+Barely Lethal,96,5.4,"17,537"
+Thoroughbreds,92,6.7,$2.83M
+Cocoon,117,6.7,$76.11M
+Tate no Yuusha no Nariagari,24,8.2,"1,462"
+Sisters,118,6.0,$87.04M
+The Layover,88,4.7,"10,281"
+Crashing,30,7.5,"5,065"
+I Dream of Jeannie,30,7.5,"11,376"
+Black Clover,30,7.9,"2,218"
+Wizards of Waverly Place,22,6.9,"25,932"
+The Phantom,100,4.9,$17.30M
+Spice World,93,3.5,$29.34M
+Casino Royale,131,5.2,"25,124"
+Due Date,95,6.5,$100.54M
+Speechless,30,7.6,"6,123"
+Rush Hour,98,7.0,$141.15M
+Wild Wild West,106,4.9,$113.81M
+Filth,97,7.1,$0.03M
+The Bounty Hunter,110,5.6,$67.06M
+Alternatino With Arturo Castro (TV),,7.9,58
+The Dukes of Hazzard,60,7.2,"9,381"
+How to Be Single,110,6.1,$46.81M
+"Me, Myself & Irene",116,6.6,$90.57M
+Fright Night,106,6.4,$18.30M
+Offspring,60,8.2,"2,867"
+Evil Dead II,84,7.8,$5.92M
+Sleepless in Seattle,105,6.8,$126.53M
+The Lego Ninjago Movie,101,6.0,$59.28M
+Year One,97,4.9,$43.34M
+Spy Kids 3: Game Over,84,4.2,$111.76M
+Cactus Flower,103,7.2,$25.89M
+Get Him to the Greek,109,6.4,$60.97M
+When Harry Met Sally...,95,7.6,$92.82M
+Lunatics,35,6.6,"2,165"
+Semi-Pro,91,5.8,$33.47M
+Just Roll With It,,5.4,32
+Singin' in the Rain,103,8.3,$8.82M
+Playing It Cool,94,6.0,"23,220"
+Jack and Jill,91,3.3,$74.16M
+The Way Way Back,103,7.4,$21.50M
+Mr. Right,95,6.3,$0.03M
+Ed Wood,127,7.9,$5.89M
+It's a Mad Mad Mad Mad World,205,7.6,$46.30M
+Hackers,107,6.2,$7.56M
+Petticoat Junction,30,7.1,"2,145"
+Ladybugs,90,5.3,$14.80M
+De De Pyaar De,135,7.0,$0.43M
+Bleach,24,8.2,"39,338"
+Chaplin,143,7.6,$9.49M
+Entourage,104,6.6,$32.36M
+"Auf Wiedersehen, Pet",60,8.5,"2,545"
+Good Luck Chuck,96,5.6,$34.93M
+Before We Go,95,6.8,$0.04M
+Drop Dead Gorgeous,97,6.6,$10.56M
+High Maintenance,30,7.9,"4,703"
+Mortdecai,107,5.5,$7.61M
+The Book of Life,95,7.3,$50.15M
+The Ladykillers,104,6.2,$39.80M
+Storks,87,6.8,$72.68M
+Top Secret!,90,7.2,$20.50M
+Zathura: A Space Adventure,101,6.2,$29.26M
+Buffy the Vampire Slayer,86,5.6,$16.62M
+Can't Hardly Wait,100,6.5,$25.34M
+Romy and Michele's High School Reunion,92,6.2,$29.21M
+Charlie Wilson's War,102,7.1,$66.66M
+Just Shoot Me!,30,6.9,"16,093"
+Lake Placid,82,5.7,$31.77M
+Westside,60,8.0,356
+The Hitman's Wife's Bodyguard,,,
+National Lampoon's Christmas Vacation,97,7.6,$71.32M
+Mallrats,94,7.2,$2.12M
+Looking,30,8.2,"14,257"
+Blues Brothers 2000,123,4.8,$13.98M
+Tra(sgre)dire,91,5.5,"4,328"
+What Women Want,127,6.4,$182.81M
+Melissa & Joey,30,7.0,"16,765"
+Ballerina,89,6.8,$24.48M
+Jay and Silent Bob Strike Back,104,6.9,$30.06M
+Boruto: Naruto Next Generations,23,7.4,"4,701"
+The Life Aquatic with Steve Zissou,119,7.3,$24.01M
+Sahara,124,6.0,$68.67M
+Still Waiting...,88,5.0,"5,659"
+Bend It Like Beckham,112,6.7,$32.54M
+Pride,119,7.8,"46,714"
+Nacho Libre,92,5.7,$80.20M
+Annie,118,5.3,$85.91M
+Zoolander 2,101,4.7,$28.85M
+To Die For,106,6.8,$21.28M
+Trollhunters,23,8.4,"10,377"
+Father of the Bride,105,6.5,$89.33M
+The Golden Child,94,5.9,$79.82M
+Ternet ninja,81,7.7,"1,898"
+Home Alone 2: Lost in New York,120,6.7,$173.59M
+Charlie's Angels: Full Throttle,106,4.9,$100.83M
+Regular Show,23,8.4,"25,786"
+MASH,116,7.6,$81.60M
+Cléo de 5 à 7,90,8.0,"12,487"
+Great News,22,7.0,"3,833"
+Flipped,90,7.7,$1.75M
+My Big Fat Greek Wedding,95,6.6,$241.44M
+House of Lies,28,7.4,"22,750"
+Baby Daddy,22,7.4,"17,834"
+Private Parts,109,6.8,$41.20M
+"Synecdoche, New York",124,7.5,$3.08M
+Patch Adams,115,6.8,$135.03M
+Mr. Deeds,96,5.8,$126.29M
+Splitting Up Together,30,7.0,"2,882"
+Ladyhawke,121,7.0,$18.43M
+Shrek the Third,93,6.1,$320.71M
+This Means War,103,6.3,$54.76M
+Kung Fu Panda 2,90,7.2,$165.25M
+Norbit,102,4.0,$95.67M
+Whose Line Is It Anyway?,30,8.5,"37,548"
+Special,15,7.7,"3,933"
+My So-Called Life,60,8.4,"17,790"
+RV,99,5.5,$71.73M
+Beverly Hills Cop II,100,6.5,$153.67M
+Hot Bot,86,3.4,"2,821"
+Mad About You,22,6.6,"18,842"
+Four Rooms,98,6.8,$4.30M
+The Loud House,22,7.4,"2,671"
+Ice Age: Collision Course,94,5.7,$64.06M
+Creepshow,120,6.9,$19.73M
+House,93,6.2,$19.44M
+"Two Guys, a Girl and a Pizza Place",30,7.4,"14,822"
+Kung Fu Panda 3,95,7.1,$143.53M
+Lois & Clark: The New Adventures of Superman,46,6.8,"19,210"
+Career Opportunities,83,5.9,$11.34M
+Dennis the Menace,94,5.6,$51.27M
+Aladdin and the King of Thieves,81,6.4,"29,949"
+How Do You Know,121,5.4,$30.21M
+Raising Hope,22,8.0,"33,413"
+Teeth,94,5.4,$0.35M
+Australia,165,6.6,$49.55M
+The Internship,119,6.3,$44.67M
+21 & Over,93,5.9,$25.68M
+St. Trinian's,97,5.8,"20,419"
+Robots,91,6.3,$128.20M
+Cocktail,104,5.9,$78.22M
+The Real Bros of Simi Valley,15,9.2,497
+Rescue Me,60,8.4,"23,942"
+Date Night,88,6.3,$98.71M
+"Men, Women & Children",119,6.7,$0.46M
+Vice Principals,30,8.0,"17,165"
+Hit and Run,100,6.1,$13.75M
+I Love Lucy,30,8.3,"20,670"
+A Serious Man,106,7.1,$9.19M
+Over the Hedge,83,6.7,$155.02M
+St. Vincent,102,7.2,$44.13M
+Nick and Norah's Infinite Playlist,90,6.7,$31.49M
+Suburbicon,105,5.6,$5.78M
+The Hot Chick,104,5.5,$35.08M
+ALF,30,7.4,"28,680"
+Suburgatory,22,7.2,"29,383"
+Dharma & Greg,30,6.3,"26,792"
+Are You Here,114,5.3,"14,215"
+Beerfest,110,6.3,$19.19M
+Who's the Boss?,30,6.6,"9,669"
+Fawlty Towers,30,8.8,"76,618"
+Once Upon a Time in Venice,94,5.3,"14,761"
+Tommy Boy,97,7.1,$32.70M
+Free Fire,91,6.4,$1.80M
+The Rocker,102,6.2,$6.41M
+Begin Again,104,7.4,$16.17M
+Ted 2,115,6.3,$81.48M
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze,88,6.0,$78.66M
+Polyester,86,7.0,"6,162"
+Sex and the City,145,5.6,$152.65M
+Turist,120,7.3,$1.36M
+Get Smart,25,8.2,"9,854"
+Stan Helsing,108,3.6,"11,448"
+Last of the Summer Wine,30,7.1,"2,319"
+Vampire Academy,104,5.5,$7.79M
+2 Guns,109,6.7,$75.61M
+Gringo,111,6.1,$4.97M
+The Return of Jafar,69,5.9,"23,900"
+Big Time Rush,25,6.2,"8,455"
+The Munsters,30,7.8,"10,667"
+Game Shakers,30,4.5,"1,222"
+It's a Living,30,7.3,563
+Man Up,88,6.8,"44,508"
+Anger Management,22,6.6,"28,992"
+PK,153,8.2,$10.62M
+Flight of the Conchords,28,8.6,"51,052"
+The Carol Burnett Show,60,8.8,"4,214"
+The Hundred-Foot Journey,122,7.3,$54.24M
+Despicable Me 2,98,7.4,$368.06M
+The Venture Bros.,22,8.5,"21,990"
+Swinging Safari,97,5.4,"1,506"
+Journey 2: The Mysterious Island,94,5.8,$103.86M
+Café Society,96,6.6,$11.10M
+The Dressmaker,119,7.1,$2.02M
+Waitress,108,7.0,$19.07M
+Key and Peele,30,8.3,"14,487"
+Demolition,101,7.0,$1.98M
+Grace Under Fire,30,6.3,"2,957"
+Thunder Road,92,7.1,"8,486"
+American Ultra,96,6.1,$14.43M
+The Carrie Diaries,42,7.1,"24,680"
+The Last O.G.,30,6.9,"2,122"
+Police Academy 4: Citizens on Patrol,88,4.9,$28.06M
+Bull Durham,108,7.1,$50.89M
+Dinosaurs,30,7.5,"14,764"
+The Partridge Family,30,6.5,"2,984"
+Starsky & Hutch,101,6.1,$88.24M
+Gwok chaan Ling Ling Chat,84,7.2,"4,706"
+Horrible Histories,28,8.8,"3,215"
+The Bad News Bears,102,7.3,$42.35M
+The Adventures of Buckaroo Banzai Across the 8th Dimension,103,6.4,$6.25M
+High Fidelity,113,7.5,$27.28M
+Monsters vs. Aliens,94,6.5,$198.35M
+Super Troopers,100,7.1,$18.49M
+The Naked Gun: From the Files of Police Squad!,85,7.6,$78.04M
+Taskmaster,60,9.0,"2,168"
+Pitch Perfect 4,,,
+The Graham Norton Show,60,8.3,"8,696"
+One Red Nose Day and a Wedding,12,6.8,238
+Wrecked,30,7.2,"5,442"
+A Different World,60,6.9,"5,042"
+August: Osage County,121,7.2,$37.74M
+Anchorman 2: The Legend Continues,119,6.3,$127.35M
+The Fundamentals of Caring,97,7.3,"48,979"
+Marley & Me,115,7.1,$143.15M
+Slither,95,6.5,$7.77M
+Hot Rod,88,6.7,$13.92M
+Mary Tyler Moore,30,8.1,"6,019"
+The Rundown,104,6.7,$47.73M
+Detectorists,30,8.6,"8,228"
+You've Got Mail,119,6.6,$115.82M
+Portlandia,22,7.8,"16,549"
+Enes Batur Gerçek Kahraman,99,4.1,"5,809"
+Mannequin,90,5.8,$42.72M
+The Holiday,138,6.9,$63.22M
+Staircase,96,5.4,684
+Bubba Ho-Tep,92,7.1,$2.00M
+101 Dalmatians,103,5.7,$136.19M
+"Mektoub, My Love: Intermezzo",212,4.2,165
+Adaptation.,115,7.7,$22.25M
+Being Human,60,7.8,"22,856"
+Scary Movie 3,84,5.5,$110.00M
+George of the Jungle,92,5.5,$105.26M
+Stick It,103,6.4,$26.87M
+A Bad Moms Christmas,104,5.5,$72.11M
+"Nicky, Ricky, Dicky & Dawn",30,5.3,"1,457"
+Bad Education,30,7.5,"8,397"
+Gay of Thrones,3,6.3,300
+Vikingane,30,7.8,"8,266"
+Nanny McPhee and the Big Bang,109,6.1,$29.20M
+Mike & Molly,30,6.4,"21,219"
+Camp Rock,94,5.2,"26,970"
+The Apartment,125,8.3,$18.60M
+A pesar de todo,78,5.3,"2,131"
+Hotel Transylvania 2,89,6.7,$169.70M
+I'm Sorry.,30,7.8,"2,751"
+Sesame Street,55,8.2,"10,725"
+Imagine Me & You,90,6.8,$0.67M
+Clerks,92,7.8,$3.15M
+Rio,96,6.9,$143.62M
+McLintock!,127,7.2,"11,622"
+Teen Titans Go!,10,5.1,"14,923"
+Toy Story of Terror,22,7.6,"11,681"
+Puppy Dog Pals,24,7.3,494
+Toy Story That Time Forgot,22,7.2,"8,199"
+Tank Girl,104,5.3,$4.06M
+Alice,30,6.9,"3,361"
+The Letdown,30,7.4,"1,595"
+Cheaper by the Dozen 2,94,5.5,$82.57M
+Damsel,113,5.6,$0.31M
+Music and Lyrics,96,6.5,$50.57M
+Love Is Blind,89,8.9,54
+Safety Not Guaranteed,86,7.0,$4.01M
+The Break-Up,106,5.8,$118.70M
+Red Oaks,30,7.9,"8,060"
+Go,102,7.3,$16.84M
+The Cobbler,99,5.8,"47,910"
+Eight Legged Freaks,99,5.4,$17.32M
+Evan Almighty,96,5.4,$100.46M
+Whose Line Is It Anyway?,22,8.3,"6,499"
+The Neighborhood,30,6.1,"2,679"
+Paddington,95,7.2,$76.27M
+Identity Thief,111,5.7,$134.51M
+Pink Flamingos,93,6.1,$0.18M
+Paper Towns,109,6.3,$32.00M
+Nancy Drew and the Hidden Staircase,89,5.7,"1,099"
+Alexa & Katie,25,7.3,"1,632"
+Speed Racer,135,6.0,$43.95M
+Happiness,134,7.8,$2.81M
+Bachelor Party,105,6.3,$38.44M
+Police Academy 2: Their First Assignment,87,5.7,$55.60M
+One Day at a Time,30,6.6,"3,174"
+Observe and Report,86,5.8,$23.99M
+"Good Morning, Vietnam",121,7.3,$123.92M
+Brüno,81,5.8,$60.05M
+Lilyhammer,45,8.0,"23,684"
+Sleepaway Camp II: Unhappy Campers,80,5.8,"8,971"
+Private School,89,5.2,$14.05M
+The Switch,101,6.1,$27.76M
+Me and Earl and the Dying Girl,105,7.8,$6.74M
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",81,6.2,$66.95M
+A Futile and Stupid Gesture,101,6.8,"10,808"
+Kota Factory,45,9.3,"12,890"
+Pure,45,7.3,651
+Le grand bain,122,7.0,"4,431"
+Devious Maids,60,7.8,"20,526"
+The Thundermans,23,5.8,"2,934"
+Minions,91,6.4,$336.05M
+Jawbreaker,87,5.5,$3.07M
+Deuce Bigalow: Male Gigolo,88,5.7,$65.54M
+The Country Bears,88,4.1,$16.99M
+My Father the Hero,90,5.5,$25.48M
+RocketMan,95,5.9,$15.45M
+Maximum Overdrive,98,5.4,$7.43M
+Local Hero,111,7.4,$5.90M
+The Benchwarmers,80,5.6,$57.65M
+Selfie 69,116,6.7,"1,147"
+The Human Centipede III (Final Sequence),102,2.8,"12,654"
+Shallow Hal,114,5.9,$70.84M
+Killers,100,5.4,$47.06M
+The Iron Giant,86,8.0,$23.16M
+The Station Agent,89,7.7,$5.74M
+Get Big,86,7.0,"1,794"
+Sing Street,106,8.0,$3.24M
+The Dick Van Dyke Show,30,8.3,"7,797"
+Mayhem,86,6.3,"12,019"
+The Festival,98,5.9,"3,840"
+The Kids Are Alright,30,7.7,"2,261"
+The People Under the Stairs,102,6.4,$24.20M
+Wanderlust,98,5.6,$17.23M
+Diff'rent Strokes,30,6.7,"8,408"
+Homeward Bound: The Incredible Journey,84,6.9,$41.83M
+Short Circuit,98,6.6,$40.70M
+Enough Said,93,7.0,$17.54M
+A Fish Called Wanda,108,7.6,$63.49M
+The Oath,93,5.3,$0.40M
+Kung Fury 2,,,
+The AristoCats,78,7.1,$37.68M
+Ghost World,111,7.4,$6.22M
+Camping,30,4.8,"2,015"
+Fifty Shades of Black,92,3.5,$11.68M
+Working Girl,113,6.8,$64.00M
+Soul,,,
+Everybody Hates Chris,22,7.4,"31,876"
+Dumb and Dumber To,109,5.6,$86.21M
+Fist Fight,91,5.6,$32.19M
+I Don't Feel at Home in This World Anymore.,93,6.9,"38,509"
+Hagane no renkinjutsushi,24,8.6,"55,216"
+Van Wilder,92,6.4,$21.01M
+The Sisterhood of the Traveling Pants 2,119,6.2,$44.09M
+Keeping Up Appearances,60,7.8,"12,450"
+Live in Front of a Studio Audience: Norman Lear's 'All in the Family' and 'The Jeffersons',66,7.7,719
+Dix pour cent,52,8.3,"3,214"
+Moonlighting,60,7.6,"16,450"
+Due South,46,8.1,"5,596"
+The Fisher King,137,7.6,$41.90M
+Fantasy Island,60,6.6,"5,930"
+Tamara Drewe,107,6.2,$0.56M
+Sleepover,89,5.4,$9.44M
+Beetlejuice 2,,,
+We Bought a Zoo,124,7.1,$75.62M
+Milf,88,3.8,"5,045"
+Bottle Shock,110,6.8,$4.04M
+The Rocky Horror Picture Show: Let's Do the Time Warp Again,88,4.3,"6,270"
+Pleasantville,124,7.5,$40.57M
+Perfect Strangers,30,7.3,"7,744"
+Rush Hour 2,90,6.6,$226.16M
+Gangs of Wasseypur,321,8.2,"69,345"
+Anger Management,106,6.2,$135.65M
+"I Love You, Man",105,7.0,$71.44M
+The Family,111,6.3,$36.92M
+Naked,96,5.4,"14,266"
+R.I.P.D.,96,5.6,$33.62M
+Osmosis Jones,95,6.3,$13.60M
+Sanford and Son,30,7.9,"6,828"
+Extras,30,8.3,"48,617"
+Ace Ventura: When Nature Calls,90,6.4,$108.39M
+My Wife and Kids,30,6.8,"23,884"
+The Frighteners,110,7.1,$16.76M
+It's Bruno!,15,7.7,"1,623"
+Sydney White,108,6.3,$11.89M
+Chicken Little,81,5.8,$135.39M
+The Suite Life on Deck,30,6.3,"13,427"
+Rake,60,8.6,"4,838"
+Mom and Dad,86,5.5,"16,098"
+Braindead,104,7.5,$0.24M
+Baby Boom,110,6.2,$26.71M
+Single in South Beach,95,5.8,45
+Mystery Men,121,6.1,$29.66M
+Robin Hood,83,7.6,$32.06M
+Reno 911!,22,7.9,"15,346"
+Perfetti sconosciuti,97,7.8,"45,897"
+The To Do List,104,5.8,$3.45M
+The Artist,100,7.9,$44.67M
+Rise of the Guardians,97,7.3,$103.41M
+Mirror Mirror,106,5.6,$64.94M
+Roman Holiday,118,8.1,"117,820"
+United States of Tara,30,7.9,"20,441"
+The First Time,95,6.9,$0.02M
+Revenge of the Nerds II: Nerds in Paradise,88,5.0,$30.06M
+The Darjeeling Limited,91,7.2,$11.90M
+The Greatest American Hero,60,7.4,"4,016"
+Mississippi Grind,108,6.4,$0.13M
+The Animal,84,4.8,$57.74M
+Let's Be Cops,104,6.4,$82.39M
+Take Two,43,7.3,"3,990"
+The Lorax,86,6.4,$214.03M
+Turn Up Charlie,30,7.2,"4,988"
+Killer Bean Forever,85,6.4,"1,512"
+It's Complicated,120,6.6,$112.74M
+Malibu Rescue,69,4.6,430
+Spy Kids 2: Island of Lost Dreams,100,5.2,$85.85M
+While You Were Sleeping,103,6.7,$81.06M
+The Game,21,6.8,"3,592"
+Four Lions,97,7.3,$0.30M
+Intolerable Cruelty,100,6.3,$35.33M
+Rushmore,93,7.7,$17.11M
+Scooby-Doo 2: Monsters Unleashed,93,5.0,$84.22M
+Varsity Blues,106,6.5,$52.89M
+Cop Out,107,5.6,$44.88M
+Penelope,104,6.8,$10.01M
+The Five-Year Engagement,124,6.2,$28.84M
+Laugh-In,60,8.0,"2,280"
+Blades of Glory,93,6.3,$118.59M
+Cold Feet,45,8.2,"3,410"
+Good Burger,95,5.7,$23.69M
+Killer Klowns from Outer Space,88,6.1,$15.63M
+Johnny English Reborn,101,6.3,$8.31M
+The Way We Weren't,93,5.1,170
+Stranger Than Fiction,113,7.6,$40.14M
+Crocodile Dundee,97,6.6,$174.64M
+Benny & Joon,98,7.2,$23.20M
+Scary Movie 5,86,3.5,$32.02M
+Hector and the Search for Happiness,120,7.0,$1.12M
+Better Watch Out,89,6.5,$0.02M
+Secondhand Lions,111,7.6,$41.41M
+Snow Bride,84,6.9,"2,394"
+Sister Act 2: Back in the Habit,107,5.5,$57.32M
+Hannah Montana: The Movie,102,4.4,$79.57M
+A Goofy Movie,78,6.8,$35.35M
+Martin,30,7.4,"6,697"
+Elf,97,6.9,$173.40M
+Re-Animator,105,7.2,$2.02M
+We Bare Bears,30,8.0,"8,862"
+Fruits Basket,23,8.3,246
+Shrek Forever After,93,6.3,$238.37M
+The Final Girls,88,6.6,"30,332"
+Fool's Gold,112,5.7,$70.23M
+"Legally Blonde 2: Red, White & Blonde",95,4.7,$90.19M
+Goon,92,6.8,$4.17M
+Wayne's World 2,95,6.2,$48.20M
+Let's Make Love,119,6.5,$6.54M
+Agent Sai Srinivasa Athreya,148,9.0,641
+Bad Trip,,,
+Made of Honor,101,5.9,$46.01M
+Adventureland,107,6.8,$16.03M
+Get Shorty,105,6.9,$72.08M
+Slap Shot,123,7.4,$28.00M
+¡Three Amigos!,104,6.5,$39.25M
+Krystal,90,5.3,$0.04M
+Gremlins 2: The New Batch,106,6.4,$41.48M
+Teen Titans,30,7.8,"23,292"
+Blue Mountain State,22,8.4,"46,054"
+The Wizard,96,6.1,$14.28M
+Night on Earth,129,7.8,$2.02M
+Stranger Than Paradise,89,7.6,$2.44M
+Life,108,6.7,$63.84M
+Austin & Ally,30,6.0,"8,039"
+Johnny English,88,6.2,$28.08M
+Superman III,125,5.0,$59.95M
+Soap,30,8.2,"5,382"
+The Politician,,,
+The Road to El Dorado,89,6.9,$50.86M
+Anomalisa,90,7.3,$3.76M
+Get Hard,100,6.0,$90.41M
+Chicken Run,84,7.0,$106.83M
+All About Anna,91,4.4,"1,872"
+The Prince & Me,111,5.9,$28.18M
+Mermaids,110,6.6,$35.42M
+Stuck in Love.,97,7.2,$0.08M
+Spin City,30,7.3,"24,534"
+Beta House,85,5.4,"57,306"
+TVF Pitchers,40,9.2,"44,743"
+Naked,132,7.9,$1.77M
+I Now Pronounce You Chuck & Larry,115,6.0,$120.06M
+Another Cinderella Story,90,5.9,"24,781"
+Tragedy Girls,98,6.0,$0.06M
+The American President,114,6.8,$65.00M
+The Simpsons Movie,87,7.3,$183.14M
+Nobody's Fool,110,4.6,$31.71M
+Tango & Cash,104,6.4,$63.41M
+Barton Fink,116,7.7,$6.15M
+City Slickers,113,6.7,$124.03M
+Best in Show,90,7.5,$18.62M
+The Big Chill,105,7.2,$56.20M
+Casual,25,7.6,"6,554"
+Footsteps in the Dark,96,6.9,919
+Terms of Endearment,132,7.4,$108.42M
+Love in the Afternoon,130,7.3,"12,468"
+Here Comes the Boom,105,6.4,$45.29M
+Wet Hot American Summer: First Day of Camp,30,7.4,"20,676"
+Head of the Class,30,6.6,"1,843"
+Attack the Block,88,6.7,$1.02M
+Midnight Run,126,7.6,$38.41M
+The Diary of a Teenage Girl,102,6.9,$1.48M
+Charlie Bartlett,97,7.0,$3.95M
+Zoo,95,5.4,412
+Better Off Ted,30,8.2,"23,543"
+Knight and Day,109,6.3,$76.42M
+Psych: The Movie,88,7.6,"6,296"
+Three Sailors and a Girl,95,6.2,272
+No Offence,42,8.0,"3,402"
+La chute de l'empire américain,127,7.2,$2.80M
+Coffee and Cigarettes,95,7.1,$1.97M
+The Wedding Ringer,101,6.7,$64.46M
+Garfield,80,5.0,$75.37M
+Encino Man,88,5.7,$40.69M
+Emergency!,60,7.9,"3,376"
+Ninjago: Masters of Spinjitzu,30,6.7,"2,131"
+How to Talk to Girls at Parties,102,5.8,$0.08M
+Father of the Year,94,5.2,"7,790"
+What I Like About You,30,6.7,"11,877"
+Laverne & Shirley,30,7.0,"5,529"
+Gintama,,8.6,"4,636"
+The Con Is On,90,4.6,"5,527"
+The Vicar of Dibley,60,8.0,"10,110"
+Lovesick,24,8.1,"12,422"
+Now and Then,100,6.8,$27.40M
+Jackass 3D,95,7.0,$117.22M
+The Back-up Plan,104,5.4,$37.49M
+Charlotte's Web,97,6.3,$82.99M
+Happy Feet,108,6.5,$198.00M
+Table 19,87,5.8,$3.61M
+The Pacifier,95,5.6,$113.09M
+The Naked Mile,97,5.2,"60,993"
+Innerspace,120,6.8,$25.89M
+Elektra Luxx,100,5.1,$0.01M
+Kinky Boots,107,7.1,$1.82M
+Time Bandits,116,7.0,$42.37M
+Gomer Pyle: USMC,30,7.1,"2,443"
+Rio 2,101,6.3,$131.54M
+Brother Orchid,88,7.0,"2,190"
+Robin Hood,60,7.5,"14,978"
+Jonas,25,4.7,"5,373"
+The Fairly OddParents,30,7.2,"29,164"
+Father Figures,113,5.5,$17.50M
+Little Fockers,98,5.5,$148.38M
+The Perfect Score,93,5.7,$10.39M
+The Croods 2,,,
+The Parent Trap,129,7.1,"17,022"
+Superhero Movie,75,4.5,$26.64M
+No se aceptan devoluciones,115,7.6,$44.47M
+Be Cool,118,5.7,$56.05M
+Charade,113,8.0,$13.47M
+Unfinished Business,91,5.4,$10.21M
+Guardians of the Galaxy,22,7.4,"2,345"
+Spaced,25,8.6,"46,520"
+Odd Thomas,97,6.9,"44,013"
+Yoga Hosers,88,4.3,"10,531"
+Good Times,30,7.3,"5,135"
+Rumor Has It...,97,5.5,$43.00M
+Little Giants,107,6.4,$19.29M
+Snatch,60,6.9,"3,161"
+The Cable Guy,96,6.1,$60.24M
+Becker,30,7.3,"10,876"
+Walk Hard: The Dewey Cox Story,96,6.8,$18.32M
+Murder by Death,94,7.4,"30,167"
+Boo! A Madea Halloween,103,4.6,$73.16M
+Plebs,25,8.0,"5,649"
+Wild Hogs,100,5.9,$168.27M
+Dora the Explorer,30,4.0,"4,530"
+NewsRadio,23,7.9,"12,172"
+In Her Shoes,130,6.5,$32.88M
+She's Funny That Way,93,6.1,$0.09M
+Team America: World Police,98,7.2,$32.77M
+What to Expect When You're Expecting,110,5.7,$41.15M
+"Move Over, Darling",103,7.0,"4,756"
+Weird City,30,5.9,"1,283"
+Lucas,100,6.9,$8.20M
+Scrooged,101,7.0,$60.33M
+Serendipity,90,6.9,$50.29M
+Fam,30,6.1,"1,951"
+Little Man,98,4.4,$58.65M
+Meet the Blacks,94,5.9,$9.09M
+Malibu Express,105,4.4,"1,465"
+Accepted,93,6.5,$36.32M
+New Year's Eve,113,5.7,$54.54M
+The Return of the Texas Chainsaw Massacre,87,3.2,$0.14M
+Voltron: Legendary Defender,23,8.2,"6,622"
+Match Game,60,5.9,795
+The Black Spot,,,
+After Hours,97,7.7,$10.60M
+6-Headed Shark Attack,86,3.2,396
+Reaper,45,7.8,"22,401"
+Dirty Rotten Scoundrels,110,7.3,$42.04M
+Scary Movie 4,83,5.1,$90.71M
+What's Your Number?,106,6.1,$14.01M
+1941,118,5.8,$31.76M
+The Adventures of Baron Munchausen,126,7.2,$8.08M
+Bachelorette,87,5.3,$0.45M
+One Hundred and One Dalmatians,79,7.3,$144.88M
+Dickie Roberts: Former Child Star,98,5.6,$22.73M
+Next Gen,106,6.6,"10,877"
+BASEketball,103,6.6,$6.94M
+The Princess Diaries 2: Royal Engagement,113,5.8,$95.17M
+Fresh Meat,50,7.9,"13,668"
+Runaway Bride,116,5.5,$152.26M
+The Great Dictator,125,8.5,"182,051"
+Sleepaway Camp III: Teenage Wasteland,80,5.3,"6,444"
+Sing 2,,,
+Thunderbolt and Lightfoot,115,7.1,$25.00M
+Sister Act,100,6.4,$139.61M
+Paradise PD,28,7.0,"8,109"
+Dope,103,7.2,$17.47M
+Tangled: The Series,21,7.6,"1,236"
+The Rules of Attraction,110,6.7,$6.53M
+Drop Dead Diva,60,7.4,"17,007"
+The Way,123,7.4,$4.43M
+Boku no Hero Academia the Movie,96,7.8,$5.75M
+Your Highness,102,5.5,$21.60M
+Krampus,98,6.2,$42.59M
+Boyz in the Wood,87,7.4,69
+Who Is America?,30,8.3,"12,274"
+Pinocchio,88,7.5,$84.25M
+Little Britain,29,7.7,"19,753"
+Spy Kids 4: All the Time in the World,89,3.5,$38.54M
+Phantom of the Paradise,91,7.4,"14,512"
+Rush Hour 3,91,6.2,$140.13M
+Election,103,7.3,$14.88M
+Patriot Act with Hasan Minhaj,25,8.1,"3,049"
+"Yours, Mine & Ours",88,5.5,$53.41M
+Louie,22,8.5,"70,748"
+La dolce vita,174,8.1,$19.52M
+Tenacious D in The Pick of Destiny,93,6.8,$8.32M
+Hot in Cleveland,30,7.3,"11,321"
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood,89,6.6,$20.11M
+Burying the Ex,89,5.4,"9,135"
+Alad'2,98,3.2,500
+An Evening with Beverly Luff Linn,108,5.7,$0.01M
+Toni Erdmann,162,7.4,$1.48M
+Man on the Moon,118,7.4,$34.58M
+Red Heat,104,6.1,$34.99M
+Adam Devine: Best Time of Our Lives,58,5.8,307
+Nous finirons ensemble,135,6.7,553
+Along Came Polly,90,5.9,$88.10M
+The Kissing Booth 2,,,
+Dragons: Race to the Edge,22,8.3,"3,778"
+The Secret World of Alex Mack,30,7.6,"4,125"
+Father Ted,25,8.6,"33,113"
+American Wedding,96,6.3,$104.57M
+Employee of the Month,103,5.5,$28.44M
+Under the Tuscan Sun,113,6.8,$43.61M
+Antz,83,6.6,$90.76M
+Sliding Doors,99,6.7,$11.88M
+Maverick,60,8.1,"2,260"
+Alternatino,,7.3,24
+The Witches of Eastwick,118,6.5,$63.77M
+Hevi reissu,92,7.1,$0.01M
+The Kids Are All Right,106,7.0,$20.81M
+Chroniques sexuelles d'une famille d'aujourd'hui,85,5.3,"3,533"
+Murphy Brown,30,6.8,"7,810"
+Harold & Kumar Escape from Guantanamo Bay,104,6.6,$38.09M
+A Very English Scandal,180,7.8,"6,718"
+Agent Cody Banks,102,5.1,$47.81M
+The Mighty Boosh,30,8.4,"18,939"
+MADtv,60,7.2,"9,037"
+The Double,93,6.5,$0.20M
+Zilla and Zoe,104,5.3,$0.03M
+The King of Comedy,109,7.8,$2.50M
+Lady and the Tramp,76,7.3,$93.60M
+Paper Moon,102,8.1,$30.93M
+Garden State,102,7.5,$26.78M
+White Men Can't Jump,115,6.7,$76.25M
+It Takes Two,101,5.9,$19.47M
+Going Postal,185,7.8,"7,469"
+The Brothers Grimm,118,5.9,$37.92M
+Bicentennial Man,132,6.9,$58.22M
+My Big Fat Greek Wedding 2,94,6.0,$59.57M
+I'm Dying Up Here,60,7.4,"2,691"
+Josie and the Pussycats,98,5.4,$14.25M
+Cowboy Ninja Viking,,,
+Manhattan,96,8.0,$45.70M
+The Money Pit,91,6.3,$37.50M
+Soul Plane,86,4.5,$13.92M
+Lady and the Tramp,,,
+Six Days Seven Nights,98,5.8,$74.33M
+The Hottie & the Nottie,91,1.9,$0.03M
+Designing Women,30,7.1,"3,766"
+Mama's Family,30,7.4,"4,028"
+Underdog,84,4.8,$43.75M
+The Late Bloomer,90,5.2,"6,960"
+Gnomeo & Juliet,84,6.0,$99.97M
+The Haunted Mansion,88,5.0,$75.85M
+"Mektoub, My Love: Canto Uno",181,6.5,"1,802"
+30 Minutes or Less,83,6.1,$37.05M
+Explorers,109,6.6,$9.87M
+Go! Vive a Tu Manera,40,7.0,171
+Casanova,112,6.5,$11.29M
+Sharknado,86,3.3,"43,469"
+Real Genius,108,7.0,$13.00M
+Get Over It,87,5.8,$11.56M
+Siu Lam juk kau,113,7.3,$0.49M
+Vegas Vacation,93,5.9,$36.43M
+Monty Python's Flying Circus,30,8.8,"60,143"
+Mr. Bean's Holiday,90,6.4,$33.30M
+"Welcome Back, Kotter",30,7.0,"4,759"
+The Three Stooges,92,5.1,$44.34M
+Little Monsters,94,5.9,219
+Corporate Animals,86,6.7,65
+Absolutely Anything,85,6.0,"34,954"
+Big Fat Liar,88,5.4,$47.81M
+Black Books,25,8.5,"49,628"
+The Tick,23,7.9,"4,506"
+Turma da Mônica: Laços,97,8.3,72
+"Doogie Howser, M.D.",30,6.5,"7,243"
+Like Father,98,6.1,"15,557"
+Galavant,22,8.1,"13,124"
+Mary and Max,92,8.1,"151,290"
+Athena,95,5.8,369
+Critters,86,6.0,$13.17M
+The Monkees,30,7.5,"3,325"
+The Boss Baby: Back in Business,25,6.4,"1,388"
+The New Guy,88,5.9,$28.97M
+Delivery Man,105,6.4,$30.66M
+Rules Don't Apply,127,5.7,$3.65M
+One Crazy Summer,93,6.4,$13.43M
+The Kentucky Fried Movie,83,6.5,"15,898"
+Hobo with a Shotgun,86,6.1,$0.70M
+Flushed Away,85,6.6,$64.67M
+Stuck in the Middle,30,6.0,"1,187"
+Mr. Bean,350,8.5,"88,903"
+What About Bob?,99,7.0,$63.71M
+Derek,23,8.0,"23,038"
+Chasing Amy,113,7.3,$12.01M
+The Bob Newhart Show,30,8.1,"4,280"
+Police Academy 3: Back in Training,83,5.3,$43.58M
+Airheads,92,6.1,$5.37M
+100 Dinge,111,6.4,"1,132"
+Hedwig and the Angry Inch,95,7.8,$3.03M
+Coupling,30,8.6,"40,316"
+All-Star Weekend,,,
+Next Friday,98,6.1,$57.33M
+Rugrats,30,7.5,"28,849"
+Don't Make Waves,97,6.1,"1,155"
+Find Me in Paris,25,8.5,565
+The New Romantic,82,5.8,"1,111"
+Faking It,21,7.4,"12,997"
+Hair,121,7.6,$15.28M
+Absolutely Fabulous,45,8.2,"16,672"
+The Return of Swamp Thing,88,4.6,$0.19M
+Stepmom,125,6.8,$91.14M
+Naked Gun 33 1/3: The Final Insult,83,6.5,$51.13M
+La cara oculta,97,7.4,"32,123"
+Spread,97,5.9,$0.25M
+Animals.,30,7.2,"2,972"
+The Last Dragon,109,6.9,$25.75M
+Wet Hot American Summer: Ten Years Later,30,6.9,"5,731"
+Two Night Stand,86,6.4,$0.02M
+The Nutty Professor,95,5.6,$128.81M
+Cruella,,,
+Are You Being Served?,28,8.1,"6,223"
+Tower Heist,104,6.2,$78.05M
+Reality Bites,99,6.6,$20.98M
+Papi Chulo,98,6.5,$0.05M
+The Jane Austen Book Club,106,6.8,$3.57M
+Kona fer í stríð,101,7.6,$0.85M
+The Night Before,90,6.4,"2,279"
+Killing Gunther,92,4.7,"8,930"
+Creepshow 2,92,6.1,$14.00M
+The Stepford Wives,93,5.3,$59.48M
+Ocean's Eleven,127,6.6,$12.32M
+Final Portrait,90,6.2,$0.46M
+Blast from the Past,112,6.6,$26.49M
+Cool Runnings,98,6.9,$68.86M
+The Lion Guard,30,6.7,"1,140"
+Paddleton,89,7.2,"6,189"
+Up in Smoke,86,7.0,$44.36M
+The Eric Andre Show,11,8.6,"9,166"
+Wild Child,98,6.1,$0.02M
+Nine to Five,109,6.8,$103.29M
+Freddy Got Fingered,87,4.5,$14.25M
+Flesh Blanket,86,3.5,71
+The Prince and the Showgirl,115,6.7,"6,939"
+The Polar Express,100,6.6,$183.37M
+Pee-wee's Big Adventure,91,7.0,$40.90M
+As Time Goes By,60,8.2,"3,422"
+Shed of the Dead,82,5.3,$0.04M
+The Bucket List,97,7.4,$93.47M
+Land of the Lost,102,5.4,$49.44M
+Without a Paddle,95,5.9,$58.17M
+Monster Trucks,104,5.7,$33.37M
+Untitled 'Shrek' Reboot,,,
+Down to You,91,5.0,$20.04M
+Slackers,86,5.3,$4.81M
+Psycho Beach Party,95,6.3,$0.27M
+The Stuff,87,5.9,"11,476"
+Staten Island Summer,108,5.6,"6,193"
+Breaking Away,101,7.7,$16.42M
+"Play It Again, Dick",22,7.1,769
+Badhaai Ho,124,8.0,"19,083"
+Bottle Rocket,91,7.0,$0.56M
+"Dude, Where's My Car?",83,5.5,$46.73M
+The 10th Kingdom,417,8.4,"16,434"
+Private Resort,82,5.3,$0.33M
+Paul Blart: Mall Cop,91,5.2,$20.82M
+Cloudy with a Chance of Meatballs 2,95,6.4,$119.79M
+The Brady Bunch Movie,90,6.0,$46.58M
+Serial Mom,95,6.7,$7.88M
+Cedar Rapids,87,6.3,$6.86M
+Eight Is Enough,60,6.6,"2,194"
+Bunheads,44,7.6,"7,485"
+Wild 'N Out,30,6.7,"1,745"
+Early Man,89,6.1,$8.27M
+Diary of a Wimpy Kid: Rodrick Rules,99,6.6,$52.70M
+It's Kind of a Funny Story,101,7.1,$6.35M
+LazyTown,30,6.1,"5,484"
+Chung Hing sam lam,102,8.1,$0.60M
+Carnage,80,7.2,$2.55M
+She's Gotta Have It,84,6.7,$7.14M
+Monster Party,89,5.4,"1,882"
+But I'm a Cheerleader,85,6.6,$2.21M
+Frances Ha,86,7.4,$4.06M
+Good Bye Lenin!,121,7.7,$4.06M
+LOL,97,4.4,$0.05M
+The Family Man,125,6.8,$75.79M
+Think Like a Man,122,6.6,$91.55M
+Zoey 101,30,6.0,"12,245"
+Son of the Mask,94,2.2,$17.02M
+The Slammin' Salmon,90,6.5,$0.04M
+F*&% the Prom,92,4.3,"3,691"
+The Player,124,7.6,$21.71M
+The Full Monty,91,7.2,$45.95M
+Taxi,97,4.5,$36.61M
+Bodied,120,7.2,$0.11M
+Donald Trump's The Art of the Deal: The Movie,50,5.9,"3,466"
+Dragnet,106,5.9,$57.39M
+The Tuxedo,98,5.4,$50.55M
+Sick Note,30,6.8,"4,225"
+Mr. Church,104,7.7,$0.69M
+Emma,120,6.7,$22.20M
+Waiting to Exhale,124,5.8,$67.05M
+Grey Gardens,95,7.7,$0.03M
+Trick 'r Treat,82,6.8,"74,049"
+Confessions of a Dangerous Mind,113,7.1,$16.00M
+Last Flag Flying,125,6.9,$0.97M
+Three Kings,114,7.1,$60.65M
+Shanghai Knights,114,6.2,$60.48M
+Dave,110,6.8,$63.27M
+Duck Butter,93,5.2,$0.01M
+A Haunted House,86,5.1,$40.04M
+Troll 2,95,2.8,"28,905"
+Maverick,127,7.0,$101.63M
+Epic Movie,86,2.4,$39.74M
+Le tout nouveau testament,114,7.1,$0.09M
+Delicious,45,7.0,"1,161"
+Ned's Declassified School Survival Guide,22,7.4,"14,316"
+Adam Ruins Everything,30,8.2,"5,308"
+Tuff Turf,112,6.2,$9.40M
+Life After Beth,89,5.6,$0.08M
+The Boss,99,5.4,$63.03M
+Dear White People,108,6.1,$4.40M
+Little Monsters,100,6.1,$0.79M
+Brad's Status,102,6.5,$2.13M
+The Rum Diary,119,6.2,$13.10M
+Repo Man,92,6.9,$3.57M
+Outrageous Fortune,60,8.4,"1,699"
+Grudge Match,113,6.4,$29.81M
+Oliver & Company,74,6.7,$74.15M
+So I Married an Axe Murderer,93,6.4,$11.59M
+The Lizzie McGuire Movie,94,5.5,$42.67M
+Shang-Chi,,,
+En man som heter Ove,116,7.7,$3.36M
+Salute Your Shorts,30,8.3,"4,760"
+Blame It on Rio,100,5.7,$18.64M
+Peggy Sue Got Married,103,6.4,$41.38M
+That's So Raven,30,6.6,"16,041"
+Donovan's Reef,109,6.9,"7,134"
+Heathers,30,5.5,"1,897"
+The SpongeBob SquarePants Movie,87,7.1,$85.42M
+What Happens in Vegas,99,6.1,$80.28M
+Hot Shots!,84,6.7,$69.47M
+Nebraska,115,7.7,$17.65M
+Heartbreakers,123,6.2,$40.34M
+Dance of the Vampires,108,7.2,"26,949"
+Tell It to the Marines,103,7.9,$0.74M
+Monsters at Work,,,
+Orgazmo,94,6.2,$0.58M
+Snatched,90,4.5,$45.83M
+Flowers,30,8.2,"2,988"
+Drop Dead Fred,103,5.9,$43.88M
+Meitantei Conan,25,8.4,"9,490"
+Alvin and the Chipmunks,92,5.2,$217.33M
+3 Men and a Baby,102,6.0,$167.78M
+Guns Akimbo,,,
+Edtv,122,6.1,$22.36M
+*batteries not included,106,6.6,$32.95M
+Foursome,23,6.3,726
+Rookie of the Year,103,6.0,$53.58M
+Home Alone 3,102,4.4,$30.88M
+Kazaam,93,2.9,$18.88M
+To Rome with Love,112,6.3,$16.69M
+Life on Top,30,6.6,409
+Mulan II,79,5.8,"19,041"
+The Zero Theorem,107,6.1,$0.22M
+Heavyweights,100,6.7,$17.69M
+Just Add Magic,27,8.3,"1,638"
+Crossroads,93,3.4,$37.19M
+Maps to the Stars,111,6.2,$0.35M
+Last Tango in Halifax,60,8.2,"3,994"
+The SpongeBob Movie: Sponge Out of Water,92,6.0,$162.99M
+Life Interrupted,,8.2,16
+Zoom,83,4.3,$11.63M
+Jue di tao wang,107,5.7,"17,061"
+Triplets,,,
+Home,94,6.6,$177.40M
+How High 2,,3.3,189
+Alex Strangelove,99,6.3,"11,493"
+Our Cartoon President,30,5.1,"2,518"
+Just Married,95,5.5,$56.13M
+Two Weeks Notice,101,6.1,$93.35M
+Freaked,86,6.3,$0.03M
+Beverly Hills Cop III,104,5.5,$42.61M
+Arizona,85,5.7,"4,545"
+Middle School: The Worst Years of My Life,92,6.1,$19.99M
+Ali Wong: Baby Cobra,60,7.5,"4,439"
+The First Wives Club,103,6.3,$105.49M
+My Little Pony: The Movie,99,6.1,$21.89M
+Corvette Summer,105,5.6,$15.50M
+Florence Foster Jenkins,111,6.8,$27.37M
+History of the World: Part I,92,6.9,$31.67M
+Summer Villa,84,6.8,"1,501"
+D3: The Mighty Ducks,104,5.4,$22.94M
+The Black Adder,195,8.1,"32,536"
+One for the Money,91,5.3,$26.41M
+Scooby-Doo and Guess Who?,,9.5,23
+Earth Girls Are Easy,100,5.3,$3.92M
+Daria,30,8.1,"21,643"
+Lexx,93,7.4,"6,805"
+Ideal Home,91,6.5,"5,966"
+Jamón Jamón,95,6.5,$0.94M
+Dream Wife,100,6.0,"1,566"
+The Producers,134,6.4,$19.38M
+The Squid and the Whale,81,7.4,$7.36M
+Thank You for Smoking,92,7.6,$24.79M
+The Pink Panther,115,7.2,$10.88M
+Dog Days,113,6.2,$6.81M
+The Love Guru,87,3.8,$32.24M
+The Reluctant Debutante,94,6.9,"1,178"
+The Texas Chainsaw Massacre 2,101,5.6,$8.03M
+Club de Cuervos,40,8.2,"4,254"
+Brother Bear,85,6.8,$85.34M
+Laggies,99,6.4,$0.44M
+Birdemic: Shock and Terror,105,1.8,"19,216"
+Alvin and the Chipmunks: The Road Chip,92,5.1,$85.89M
+Daphne & Velma,72,4.2,"1,036"
+40 Days and 40 Nights,96,5.6,$37.95M
+W1A,30,7.8,"1,704"
+Oklahoma!,145,7.2,"10,306"
+Cutthroat Island,124,5.6,$10.02M
+Their Finest,117,6.8,$3.60M
+The Toxic Avenger,82,6.3,"22,714"
+Detroit Rock City,95,6.9,$4.22M
+Harry and the Hendersons,110,6.0,$29.76M
+The Green Hornet,119,5.8,$98.78M
+Outnumbered,30,8.0,"8,308"
+Modern Times,87,8.5,$0.16M
+Life of Crime,98,5.8,$0.26M
+Bridget Jones: The Edge of Reason,108,6.0,$40.23M
+Grounded for Life,22,7.5,"13,409"
+Double Dragon,96,3.7,$2.34M
+Kamera o tomeru na!,96,7.7,"6,658"
+Les valseuses,150,7.3,"7,380"
+Bio-Dome,88,4.4,$26.76M
+Ratatoing,44,1.5,"1,038"
+Upstart Crow,29,7.5,"1,920"
+Tremors,,8.0,59
+Letters to Juliet,105,6.6,$53.03M
+The Muppets,103,7.1,$88.63M
+The Wedding Planner,103,5.3,$60.40M
+Used Cars,113,6.8,"12,451"
+Cool World,102,4.8,$14.11M
+Blue's Clues,25,6.8,"3,889"
+The Quiet Man,129,7.8,$10.55M
+Merlí,58,8.7,"4,978"
+She's Having a Baby,106,5.9,$16.03M
+No manches Frida 2,102,3.8,$9.27M
+The Odd Couple,21,6.4,"7,830"
+Puss in Boots,90,6.6,$149.26M
+"Angus, Thongs and Perfect Snogging",100,6.3,"23,932"
+Kung Fury,31,8.0,"52,136"
+Zapped!,98,4.9,$16.90M
+Meet the Spartans,86,2.8,$38.23M
+Blood Fest,92,5.3,"3,035"
+A Touch of Cloth,,8.0,"3,117"
+The Sessions,95,7.2,$6.00M
+Mousehunt,98,6.4,$61.92M
+Beautiful Girls,112,7.2,$10.60M
+The Best Exotic Marigold Hotel,124,7.3,$46.41M
+Goon: Last of the Enforcers,101,5.8,"10,232"
+Lizzie McGuire,30,6.6,"15,830"
+The Wonderful World of Disney,120,7.5,398
+Harley Quinn,,,
+Mork & Mindy,30,7.2,"8,553"
+Teenage Mutant Ninja Turtles,24,7.9,"7,469"
+Hearts Beat Loud,97,6.9,$2.39M
+Sam & Cat,30,5.7,"6,355"
+Hot Shots! Part Deux,86,6.6,$38.91M
+7 Days in Hell,43,7.1,"14,658"
+Please Stand By,93,6.7,$0.01M
+Supervixens,106,6.1,"3,925"
+The Bronze,100,6.0,$0.62M
+Jersey Girl,102,6.2,$25.27M
+The Cool Kids,22,7.0,"2,212"
+Larry Crowne,98,6.1,$35.61M
+The Invention of Lying,100,6.4,$18.44M
+A Happening of Monumental Proportions,81,4.6,398
+Southland Tales,145,5.5,$0.28M
+Little Big Man,139,7.6,$31.56M
+The Informant!,108,6.5,$33.31M
+Córki dancingu,92,6.4,$0.10M
+Ali G Indahouse,85,6.2,"79,253"
+Ramona and Beezus,103,6.6,$26.16M
+Eobiseu,60,7.2,183
+Spies Like Us,102,6.4,$60.09M
+The Big Green,100,5.6,$17.73M
+Action Jackson,96,5.3,$20.26M
+L'homme fidèle,75,6.3,683
+A Night at the Roxbury,82,6.2,$30.32M
+The Curse of the Were-Rabbit,85,7.5,$56.11M
+Some Kind of Beautiful,99,5.7,"12,082"
+Little Evil,94,5.7,"15,951"
+City Lights,87,8.5,$0.02M
+The Pink Panther,93,5.6,$82.23M
+Another Period,21,7.1,"3,999"
+Minions: The Rise of Gru,,,
+Babe: Pig in the City,97,5.8,$18.32M
+The Mexican,123,6.1,$66.81M
+Maid in Manhattan,105,5.2,$94.01M
+Pillow Talk,102,7.5,$18.75M
+The Leisure Seeker,112,6.7,$3.23M
+The Commitments,118,7.6,$14.92M
+Monella,105,5.2,"2,753"
+Captain Underpants: The First Epic Movie,89,6.2,$73.92M
+Dan in Real Life,98,6.8,$47.64M
+Harold and Maude,91,8.0,"65,406"
+Escape from Pleasure Planet,81,3.9,288
+Star Trek IV: The Voyage Home,119,7.3,$109.71M
+20th Century Women,119,7.3,$5.66M
+LA to Vegas,22,7.1,"3,944"
+School of Rock,30,4.6,"1,019"
+Wilfred,22,7.8,"38,692"
+Dude,97,5.1,"5,166"
+Angels in the Outfield,102,6.1,$50.24M
+Bad Taste,91,6.7,"41,402"
+Night of the Comet,95,6.4,$14.42M
+Hitchcock,98,6.8,$6.01M
+Horton Hears a Who!,86,6.8,$154.53M
+Frank,95,7.0,$0.64M
+The Tonight Show Starring Jimmy Fallon,60,7.4,"14,252"
+The Christmas Chronicles,104,7.1,"35,326"
+Hilda,24,8.7,"3,602"
+Butter,90,6.2,$0.07M
+High School Musical 3: Senior Year,112,4.7,$90.56M
+Jerks,22,8.3,"1,192"
+Barbershop: The Next Cut,111,5.9,$54.03M
+Little Things,16,8.3,"2,184"
+Another 48 Hrs.,93,5.8,$80.82M
+Roadies,60,7.3,"4,764"
+Only You,115,6.5,$20.04M
+Srecni ljudi,52,7.5,"1,560"
+Bright Young Things,102,6.6,$0.93M
+Boat Trip,94,4.9,$8.59M
+Arthur,97,6.9,$95.46M
+Haters Back Off!,30,6.1,"6,304"
+The Escort,88,6.0,"10,267"
+Hee Haw,60,7.0,"1,129"
+The Late Late Show with James Corden,60,6.3,"4,593"
+Newhart,30,7.8,"4,961"
+Fever Pitch,104,6.2,$42.07M
+The Last Laugh,98,5.6,"3,617"
+The Banana Splits Adventure Hour,60,7.4,"1,333"
+Mrs. Brown's Boys,26,7.3,"6,857"
+Book of Monsters,84,5.1,739
+"I Love You, Beth Cooper",102,5.3,$14.79M
+David and Olivia?,,7.5,322
+Big Hero 6: The Series,21,7.2,835
+Blue Iguana,100,5.4,"1,503"
+Superstar,81,5.1,$30.63M
+Fools Rush In,109,6.1,$29.29M
+Barney's Great Adventure,76,3.0,$11.14M
+"South Park: Bigger, Longer & Uncut",81,7.8,$52.01M
+Zombeavers,77,4.8,$0.01M
+"Honey, I Blew Up the Kid",89,4.8,$58.66M
+The Big C,30,8.1,"13,327"
+Early Edition,41,7.5,"10,548"
+Crash Team Racing: Nitro-Fueled,,9.1,57
+Katy Keene,,,
+Pete's Dragon,128,6.4,$40.10M
+Disjointed,30,6.7,"7,510"
+Jungle 2 Jungle,105,5.1,$59.93M
+Goodnight Sweetheart,30,7.5,"2,083"
+Er ist wieder da,116,7.1,"35,606"
+Girls Just Want to Have Fun,90,6.0,$6.33M
+The Comeback,30,8.0,"5,555"
+Blood Drive,60,7.3,"4,961"
+Ice Age: Continental Drift,88,6.6,$161.32M
+TMNT,87,6.3,$54.15M
+Woody Woodpecker,91,4.2,"2,734"
+The Whole Ten Yards,98,5.5,$16.32M
+Boomerang,117,5.5,$70.10M
+Never Goin' Back,85,6.0,$0.06M
+Troll,82,4.4,$5.45M
+The Courtship of Eddie's Father,30,7.4,"1,000"
+Problem Child,81,5.3,$53.47M
+Clerks II,97,7.4,$24.14M
+The Flintstones in Viva Rock Vegas,90,3.6,$35.27M
+Starter for 10,92,6.7,$0.21M
+The Woman in Red,87,5.9,$25.30M
+A Midsummer Night's Dream,116,6.4,$16.07M
+Down Periscope,92,6.1,$25.79M
+Our Idiot Brother,90,6.4,$24.81M
+How to Be a Latin Lover,115,5.9,$32.09M
+Singles,99,6.7,$18.47M
+"Paris, je t'aime",120,7.3,$4.86M
+Salmon Fishing in the Yemen,107,6.8,$9.03M
+Hardbodies,88,4.9,$7.12M
+The Daily Show,22,8.4,"42,316"
+Total Drama Island,22,7.2,"6,969"
+Tiptoes,90,4.6,"4,165"
+Just Getting Started,91,4.4,$6.07M
+Ridiculousness,30,6.4,"5,290"
+Happy Together,30,5.8,"1,452"
+The Office (India),,3.4,201
+My Babysitter's a Vampire,22,7.1,"3,341"
+The Beloved Brat,62,6.1,169
+Torque,84,4.1,$21.22M
+Desperately Seeking Susan,104,5.9,$27.40M
+Henry's Crime,108,6.0,$0.10M
+My Stepmother Is an Alien,105,5.3,$13.85M
+Tom and Jerry,,,
+Teen Witch,90,6.2,$0.03M
+Almost Heroes,90,5.8,$6.11M
+Submarine,97,7.3,$0.47M
+All About Steve,99,4.8,$33.86M
+The Professionals,50,8.1,"2,270"
+G-Force,88,5.1,$119.44M
+Airborne,91,6.2,$2.85M
+Volver,121,7.6,$12.90M
+Airplane Mode,80,5.7,98
+The Little Vampire,95,5.8,$13.56M
+Funny Story,84,5.1,259
+Down by Law,107,7.8,$1.44M
+Me Him Her,98,5.4,"1,364"
+Surf's Up,85,6.7,$58.87M
+The Outlaw,116,5.5,"3,588"
+Spun,101,6.8,$0.41M
+Ellen,30,6.2,"4,722"
+The Smurfs,103,5.5,$142.61M
+The Watch,102,5.7,$35.35M
+Penguins of Madagascar,92,6.7,$83.35M
+Where the Heart Is,120,6.8,$33.77M
+Dead in a Week: Or Your Money Back,90,6.2,"3,079"
+The Lion King 1½,77,6.6,"32,176"
+An American Tail,80,6.9,$47.48M
+America's Sweethearts,102,5.7,$93.61M
+Villains,88,7.4,57
+A Life Less Ordinary,103,6.4,$4.27M
+Ravenous,101,7.0,$2.06M
+Loudermilk,30,7.6,"1,475"
+Take a Girl Like You,101,6.9,536
+The Dukes of Hazzard: The Beginning,95,4.5,"4,495"
+Bizim Hikaye,120,6.6,"1,203"
+Chappelle's Show,22,8.7,"47,280"
+Still Standing,30,7.6,"6,880"
+Stan Against Evil,30,7.3,"4,221"
+Urban Myths,22,7.5,556
+Jenny's Wedding,94,5.5,$0.00M
+Ride Along,99,6.2,$134.94M
+Ghosts of Girlfriends Past,100,5.8,$55.25M
+Harlem Nights,116,6.0,$60.86M
+A Dirty Shame,89,5.1,$1.34M
+Coach,30,7.0,"4,690"
+In Living Color,30,8.1,"8,776"
+Dollface,,,
+Teenage Mutant Ninja Turtles,30,7.9,"27,953"
+Mansfield Park,112,7.1,$4.76M
+The Swan,104,6.5,"2,076"
+Tyler Perry's Boo 2! A Madea Halloween,101,3.8,$47.32M
+Queens of Mystery,45,7.3,294
+The Rescuers,78,6.9,$71.22M
+Tales of the Unexpected,25,7.8,"1,293"
+Wish I Was Here,106,6.7,$3.59M
+Le daim,77,7.0,329
+Dream On,30,7.5,"2,709"
+Her Yerde Sen,120,7.7,42
+WKRP in Cincinnati,30,8.0,"6,943"
+The Seven Year Itch,105,7.2,$12.00M
+The Players Club,104,5.8,$23.03M
+Red Dog,92,7.4,"15,411"
+Funny Face,103,7.1,"23,959"
+Lab Rats,22,6.6,"4,072"
+Wag the Dog,97,7.1,$43.02M
+The Lords of Flatbush,86,5.8,"3,212"
+Jabberwocky,105,6.2,"11,993"
+RWBY,13,8.0,"4,387"
+CQ,88,6.3,$0.41M
+Gigli,121,2.4,$6.07M
+Friday After Next,85,5.8,$32.98M
+Men in Black: The Series,25,6.8,"2,849"
+Clue,,,
+Space Force,,,
+Tremors: A Cold Day in Hell,98,5.1,"3,390"
+The Inbetweeners 2,96,6.4,"38,438"
+Penn & Teller: Fool Us,60,8.1,"2,722"
+Flack,60,6.8,884
+GLOW: Gorgeous Ladies of Wrestling,60,7.2,428
+Monarch of the Glen,60,7.7,"2,332"
+Baby's Day Out,99,6.1,$16.67M
+Bad Grandpa,92,6.5,$102.00M
+Idle Hands,92,6.2,$4.00M
+Like Mike,99,5.2,$51.43M
+Valley Girl,99,6.4,$16.80M
+Being There,130,8.0,$30.18M
+Be Kind Rewind,102,6.4,$11.17M
+The Producers,88,7.7,$0.11M
+Den bästa sommaren,91,7.3,"3,280"
+Bedknobs and Broomsticks,117,7.1,$18.53M
+Bowfinger,97,6.4,$66.38M
+I Love You Phillip Morris,98,6.6,$2.04M
+Jack,113,5.8,$58.62M
+The Wrong Mans,29,7.8,"5,949"
+Night of the Demons,90,6.3,$3.11M
+Turner & Hooch,97,6.1,$71.08M
+Feast,95,6.3,$0.05M
+Stir Crazy,111,6.8,$101.30M
+Matchstick Men,116,7.3,$36.91M
+"You, Me and Him",98,6.4,"1,045"
+Private Life,123,7.3,"10,279"
+Elvira: Mistress of the Dark,96,6.5,$5.60M
+I'm Gonna Git You Sucka,88,6.6,$13.03M
+People Just Do Nothing,30,8.5,"2,829"
+Mr. D,30,6.4,"1,817"
+Enlightened,28,7.5,"6,504"
+Handsome Devil,95,7.1,"7,958"
+Walk of Shame,95,6.0,$0.04M
+Bored to Death,28,7.9,"30,172"
+It Happened One Night,105,8.1,$4.36M
+Kate & Leopold,118,6.4,$47.12M
+Flesh Gordon,78,4.7,"3,585"
+Conan,42,8.1,"20,861"
+Man Seeking Woman,21,7.7,"8,686"
+Adult World,97,6.2,$0.02M
+High School Musical 2,104,5.0,"49,829"
+Office Uprising,92,6.3,"6,892"
+Chopping Mall,77,5.6,"9,206"
+Old Dogs,88,5.4,$49.49M
+Hannah and Her Sisters,107,7.9,$40.08M
+Funny Farm,101,6.2,$25.54M
+Fanboys,90,6.6,$0.69M
+Muriel's Wedding,106,7.2,$15.19M
+Inuyasha,24,7.9,"13,124"
+Planes,91,5.7,$90.29M
+Beyond the Valley of the Dolls,109,6.2,$9.00M
+Seeking a Friend for the End of the World,101,6.7,$6.62M
+Afili Ask,120,8.2,63
+The Night Before,101,6.4,$43.04M
+Turbo,96,6.4,$83.03M
+Diary of a Wimpy Kid: The Long Haul,91,4.4,$20.64M
+The Last Sharknado: It's About Time,86,3.6,"2,567"
+Akame ga Kill!,24,7.9,"11,270"
+Some Guy Who Kills People,97,6.3,"5,164"
+Uptown Girls,92,6.1,$36.92M
+W.,129,6.3,$25.53M
+A Haunted House 2,86,4.7,$17.33M
+The Muppet Movie,95,7.6,$76.66M
+Man Down,30,7.6,"1,893"
+Raising Helen,119,6.0,$37.49M
+Catch and Release,124,6.0,$15.27M
+3 Ninjas,84,5.3,$29.00M
+Looney Tunes: Back in Action,91,5.7,$20.99M
+Living Single,30,7.3,"3,710"
+Bungou Stray Dogs,24,7.5,"1,408"
+Oscar,109,6.5,$23.56M
+Ansatsu kyôshitsu,23,8.0,"4,642"
+Band Camp,87,5.1,"63,841"
+Last Vegas,105,6.6,$63.91M
+Tammy and the T-Rex,82,3.5,"1,234"
+Look Who's Talking,93,5.8,$140.09M
+FML,98,6.2,858
+Maude,30,7.2,"2,986"
+Not Going Out,30,7.7,"5,327"
+You Again,105,5.8,$25.70M
+Shoot 'Em Up,86,6.7,$12.81M
+Shanghai Noon,110,6.6,$56.94M
+The Day Shall Come,88,7.4,42
+"Scooby Doo, Where Are You!",60,7.9,"26,668"
+Every Which Way but Loose,114,6.3,$106.00M
+A Christmas Story,94,8.0,$20.61M
+The Ringer,94,5.8,$35.42M
+Open Season,86,6.1,$85.11M
+Tammy,97,4.9,$84.53M
+Grumpy Old Men,103,7.0,$70.17M
+I'm Still Here,108,6.2,$0.41M
+Deep in My Heart,132,6.5,665
+The Necessary Death of Charlie Countryman,103,6.4,$0.01M
+All About Nina,97,5.9,$0.10M
+The Campaign,85,6.1,$86.91M
+Top Five,102,6.4,$25.28M
+24 Hour Party People,117,7.4,$1.13M
+Austenland,97,6.3,$2.15M
+3Below: Tales of Arcadia,24,7.9,"1,963"
+Here and Now,60,6.8,"3,953"
+Exit to Eden,113,4.2,$6.84M
+The Cleveland Show,22,5.6,"36,752"
+Sneakers,126,7.1,$51.43M
+The Man Who Knew Too Little,94,6.6,$13.80M
+Saved!,92,6.8,$8.94M
+A Lot Like Love,107,6.6,$21.84M
+Irrational Man,95,6.6,$4.03M
+Scooby-Doo on Zombie Island,77,7.8,"9,398"
+The Little Rascals,30,8.1,957
+8 Out of 10 Cats Does Countdown,30,8.1,"3,365"
+Withnail & I,107,7.7,$1.54M
+"See No Evil, Hear No Evil",103,6.8,$46.91M
+The Sitter,81,5.7,$30.54M
+The Borrowers,89,5.9,$22.36M
+Dry Martina,95,6.1,282
+Paul Blart: Mall Cop 2,94,4.4,$71.04M
+Blithe Spirit,,,
+Legally Blonde 3,,,
+Beavis and Butt-Head,15,7.5,"25,533"
+George Lopez,30,6.8,"9,371"
+Everything Must Go,97,6.4,$2.71M
+Back to Life,30,7.6,677
+Untitled Judd Apatow/Pete Davidson Project,,,
+Whiskey Tango Foxtrot,112,6.6,$23.05M
+So was von da,100,5.5,122
+Please Like Me,29,8.4,"11,863"
+5 Flights Up,88,6.2,$1.01M
+El ministerio del tiempo,70,8.2,"3,510"
+Phil of the Future,25,7.1,"6,250"
+Elevator Girl,88,6.4,"1,483"
+Urban Country,88,5.3,107
+Ice Age: Dawn of the Dinosaurs,94,7.0,$196.57M
+Failure to Launch,97,5.6,$88.72M
+Billy Elliot the Musical Live,169,8.5,"1,116"
+How High,93,6.3,$31.16M
+That '80s Show,30,4.8,"1,927"
+Jo Koy: Comin' in Hot,60,7.3,272
+The Hungover Games,85,3.7,"9,712"
+About Schmidt,125,7.2,$65.02M
+Aqua Teen Hunger Force,15,7.7,"21,347"
+Girlboss,26,7.1,"13,317"
+Monster-in-Law,101,5.5,$82.93M
+Prevenge,88,5.9,"5,566"
+The Gods Must Be Crazy,109,7.3,$30.03M
+Kiru ra kiru: KILL la KILL,25,7.9,"8,458"
+Toys,118,5.0,$21.45M
+Bean,89,6.4,$45.32M
+28 Days,103,6.0,$37.17M
+Gentlemen Prefer Blondes,91,7.2,$12.00M
+Sibyl,100,6.4,359
+Freaks of Nature,92,5.9,"9,709"
+The Love Letter,88,5.4,$8.28M
+Puppet Master: The Littlest Reich,90,5.4,"2,433"
+Irresistible,,,
+Hoodwinked!,80,6.5,$51.39M
+Dead Set,141,7.7,"16,958"
+Selfie,22,7.2,"11,225"
+Corporate,30,7.5,"1,794"
+Blue Hawaii,102,6.1,$10.44M
+The Seagull,98,5.7,$1.25M
+Dirty Work,82,6.5,$9.98M
+Junior,109,4.6,$36.76M
+Rostered On,22,5.8,"4,211"
+The Hudsucker Proxy,111,7.3,$2.87M
+Blazing Samurai,,,
+True Memoirs of an International Assassin,98,5.9,"17,276"
+Family Affair,30,7.0,"1,816"
+Ruby Sparks,104,7.2,$2.54M
+Vampires Suck,82,3.4,$36.66M
+Jersey Shore,40,3.6,"22,225"
+Prince of Peoria,25,5.7,214
+Sexy Nurses,75,6.3,106
+Beverly Hills Cop,42,7.5,368
+Norm of the North: Keys to the Kingdom,91,3.4,400
+To Have and Have Not,100,7.9,"28,101"
+The Audition,16,6.8,"2,158"
+Man of the House,96,5.2,$40.07M
+Class,98,5.9,"8,830"
+Dumb and Dumberer: When Harry Met Lloyd,85,3.4,$26.28M
+All Dogs Go to Heaven,84,6.7,$27.10M
+So Random!,22,4.7,"1,991"
+Sally4Ever,30,6.4,"1,150"
+Feeling Minnesota,99,5.4,$3.10M
+A Hard Day's Night,87,7.7,$13.78M
+The Glass Bottom Boat,110,6.5,"3,902"
+Playing with Fire,,,
+Fisherman's Friends,112,7.0,"1,124"
+Gente que viene y bah,97,6.2,"1,138"
+Major Payne,95,6.2,$29.41M
+Miss Congeniality 2: Armed & Fabulous,115,5.1,$48.48M
+The Late Show with Stephen Colbert,41,7.3,"9,439"
+Nande Koko ni Sensei ga!?,12,6.7,115
+Punky Brewster,30,6.6,"4,165"
+Munchausen,17,6.9,281
+The Unicorn,,,
+Orange County,82,6.2,$41.03M
+A Hologram for the King,98,6.1,$4.20M
+227,30,6.6,"2,316"
+Coop and Cami Ask the World,30,5.6,171
+Samurai chanpurû,24,8.6,"34,710"
+Short Cuts,188,7.7,$6.11M
+UHF,97,7.0,$6.16M
+Murder Party,79,5.9,"8,534"
+The Last American Virgin,92,6.3,$5.83M
+Waking Ned,91,7.4,$24.79M
+Danny Phantom,30,7.1,"13,173"
+Bottom,30,8.2,"10,815"
+Unhappily Ever After,30,6.9,"2,462"
+Ri¢hie Ri¢h,95,5.3,$38.09M
+Nine Lives,87,5.3,$19.64M
+Benjamin,85,7.5,253
+Hot Tub Time Machine 2,93,5.1,$12.28M
+Big Stan,105,6.2,"39,198"
+Mixed-ish,,,
+Thomas the Tank Engine & Friends,11,6.7,"3,007"
+Monte Carlo,109,5.8,$23.19M
+Big Time Adolescence,90,6.9,84
+Choke,92,6.5,$2.93M
+Wonder Boys,107,7.4,$19.39M
+Zindagi Na Milegi Dobara,155,8.1,$3.08M
+Disenchanted,,,
+Inside Amy Schumer,22,6.1,"11,015"
+Arjun Patiala,,,
+Very Bad Things,100,6.3,$9.80M
+Red Shoes and the Seven Dwarfs,,,
+Hudson Hawk,100,5.8,$17.22M
+Hairspray Live!,120,7.0,"2,496"
+Detroiters,21,7.5,"1,306"
+American Woman,30,6.2,"1,096"
+Vexed,60,7.4,"2,355"
+Arthur,30,7.4,"10,875"
+Smurfs: The Lost Village,90,6.0,$45.02M
+Black Dynamite,84,7.4,$0.23M
+Odd Squad,27,6.5,659
+Sailor Moon,24,7.7,"10,752"
+The Good Cop,60,7.1,"3,960"
+Kickin' It,22,6.2,"4,024"
+Padman,140,8.0,$1.66M
+Real Men,85,6.2,$0.87M
+Ryan Hansen Solves Crimes on Television,30,7.0,439
+The Sweeney,60,8.1,"1,509"
+Rubber,82,5.8,$0.10M
+Slaughterhouse-Five,104,6.9,"11,316"
+Untitled Pirates of the Caribbean Project,,,
+Rothchild,,,
+Ellen: The Ellen DeGeneres Show,60,7.1,"13,737"
+My Dog Skip,95,7.1,$34.10M
+The Spy Next Door,94,5.5,$24.27M
+Brigsby Bear,97,7.3,$0.53M
+Dad's Army,30,8.1,"4,930"
+I Spy,97,5.4,$33.56M
+Going Overboard,99,1.9,"11,710"
+Dracula: Dead and Loving It,88,5.9,$10.77M
+Finding Your Feet,111,6.7,$1.42M
+Fired Up!,90,6.2,$17.23M
+Ultimate Spider-Man,23,7.2,"9,235"
+Hotel Transylvania 4,,,
+Miss Pettigrew Lives for a Day,92,7.1,$12.29M
+Ricki and the Flash,101,5.9,$26.82M
+The Debt Collector,95,5.7,"3,032"
+Attack of the 50 Foot Cheerleader,83,4.5,"1,025"
+Shall We Dance,106,6.1,$57.89M
+Mystery Science Theater 3000,92,8.5,"21,891"
+Return to Sleepaway Camp,86,4.3,"3,404"
+Mei ren yu,94,6.2,$3.23M
+Machete Kills in Space,,,
+Food Wars: Shokugeki no Soma,24,8.3,"3,740"
+Bolero,105,2.9,$8.91M
+Sirens,98,5.8,$7.77M
+Bubble Boy,84,5.6,$5.00M
+El bar,102,6.3,"17,183"
+Even Stevens,30,7.7,"12,582"
+The Young Ones,410,8.2,"12,289"
+Smart House,82,6.3,"5,401"
+"Hello, Dolly!",146,7.2,$33.14M
+Dream a Little Dream,114,5.9,$5.55M
+Status Update,106,5.8,"2,895"
+Franklin & Bash,60,7.7,"12,708"
+Quest for Camelot,86,6.3,$22.72M
+Jingle All the Way,89,5.6,$60.57M
+The Sure Thing,100,7.0,$18.14M
+The Santa Clause,97,6.4,$144.83M
+The Master of Disguise,80,3.3,$40.36M
+Loser,98,5.3,$15.62M
+Velvet Colección,54,7.4,651
+Johnny Be Good,91,4.5,$17.55M
+Bernie,99,6.8,$9.20M
+Tooth Fairy,101,5.0,$60.02M
+Triassic Attack,84,3.2,"1,189"
+The Powerpuff Girls,30,7.3,"32,932"
+Jackass: The Movie,87,6.6,$64.26M
+Ernest Goes to Camp,92,5.5,$23.51M
+Dragon Ball Z: Doragon bôru zetto,24,8.7,"58,651"
+The Baby-Sitters Club,94,5.8,$9.69M
+Did You Hear About the Morgans?,103,4.8,$29.58M
+Doctor Dolittle,85,5.4,$144.16M
+Around the World in 80 Days,175,6.8,$42.00M
+Wimbledon,98,6.3,$17.00M
+The Female Brain,98,5.7,$0.02M
+Gulliver's Travels,85,4.9,$42.78M
+The Jewel of the Nile,106,6.1,$75.97M
+Sweet Charity,149,7.0,"4,391"
+The World According to Garp,136,7.2,$29.71M
+Wrestling Isn't Wrestling,25,8.6,899
+Take This Waltz,116,6.6,$1.24M
+Vampire's Kiss,103,5.9,$0.73M
+Ghosted,30,6.3,"4,983"
+Beaches,123,6.9,$57.04M
+The Private Lives of Pippa Lee,98,6.4,"12,320"
+Herbie Fully Loaded,101,4.8,$66.02M
+Piranha,94,5.9,$6.00M
+The Gay Deceivers,97,5.9,379
+Bosom Buddies,30,6.8,"2,814"
+10 Things I Hate About You,30,7.4,"5,363"
+Aria,90,5.8,$1.03M
+Flubber,93,5.2,$92.98M
+Inspector Gadget,78,4.1,$97.40M
+Miss March,90,5.0,$4.54M
+Kim Possible,30,7.2,"20,610"
+Red Band Society,43,8.0,"8,995"
+The Ladykillers,91,7.8,"24,198"
+The Pagemaster,80,6.0,$56.30M
+Le jeu,90,6.9,"7,743"
+The Sword in the Stone,79,7.2,$22.18M
+The New Adventures of Old Christine,22,7.1,"10,922"
+Tin Cup,135,6.3,$53.85M
+In & Out,90,6.4,$63.86M
+American Pie Presents the Book of Love,93,4.8,"40,523"
+Behaving Badly,97,4.4,"8,754"
+Between Two Ferns: The Movie,,,
+Spring Break,102,4.8,$24.07M
+Beauty Shop,105,5.6,$36.35M
+Only the Lonely,104,6.4,$21.83M
+Austin Powers 4,,,
+Hey Arnold!,15,7.7,"27,758"
+Once Bitten,94,5.5,$10.00M
+Qu'est-ce qu'on a encore fait au bon Dieu?,99,6.1,"1,356"
+McHale's Navy,30,7.4,"2,127"
+Bad Santa,91,7.1,$60.06M
+Brewster's Millions,102,6.5,$38.80M
+The Brink,30,7.8,"12,344"
+Around the World in 80 Days,120,5.9,$24.01M
+La casa de las flores,60,7.9,"4,189"
+Date Movie,83,2.8,$48.55M
+Bajrangi Bhaijaan,163,8.0,$8.18M
+Comrade Detective,40,7.3,"2,282"
+Jimmy Kimmel Live!,60,6.7,"12,415"
+Desearás al hombre de tu hermana,93,3.9,"1,007"
+Bareilly Ki Barfi,116,7.5,"13,479"
+Roxanne,107,6.6,$40.05M
+Memoirs of an Invisible Man,99,6.0,$14.36M
+Meme Review,,9.8,"1,912"
+Riding in Cars with Boys,132,6.5,$30.17M
+All American Bikini Car Wash,95,3.4,918
+The Larry Sanders Show,30,8.3,"6,927"
+Rush Hour 4,,,
+Archie Bunker's Place,60,6.5,806
+Philomena,98,7.6,$37.71M
+5 to 7,95,7.1,$0.12M
+On the Rocks,,,
+Taxi 5,102,4.7,"6,092"
+The Thin Blue Line,41,7.5,"5,450"
+Drillbit Taylor,110,5.7,$32.85M
+Batman and Harley Quinn,74,5.9,"9,312"
+DuckTales,23,8.1,"26,564"
+Cybill,30,6.9,"3,221"
+The Cheyenne Social Club,103,6.9,"3,772"
+The Pink Panther Strikes Again,103,7.3,$33.83M
+Stuart Little 2,77,5.5,$64.96M
+Champions,30,6.1,"2,413"
+Whatever Happened to Mason Reese,12,2.8,472
+Carter,42,6.4,986
+The Party,71,6.6,$0.75M
+Small Fry,7,7.1,"4,548"
+Honeymoon in Vegas,96,5.8,$35.21M
+Deathgasm,86,6.3,"14,058"
+The Family Stone,103,6.3,$60.06M
+Big City Greens,22,6.8,388
+Rock & Chips,89,7.1,"1,090"
+ParaNorman,92,7.0,$56.00M
+Fun with Dick and Jane,90,6.1,$110.33M
+Grand Theft Auto: San Andreas,,9.4,"30,935"
+The Flintstones,30,7.5,"29,737"
+Private Benjamin,109,6.1,$69.85M
+The Philadelphia Story,112,8.0,"58,650"
+Going Places,117,,
+Cannonball Run II,108,4.9,$28.08M
+Les petits mouchoirs,154,7.1,$0.21M
+Ride Along 2,102,5.9,$90.84M
+Good Kids,86,6.1,"8,224"
+Rang De Basanti,167,8.2,$2.20M
+Prom,104,5.4,$10.13M
+Silver Spoons,30,6.2,"3,211"
+Firangi,158,4.7,856
+Welcome to the Dollhouse,88,7.4,$4.77M
+Lovejoy,50,7.9,"2,490"
+Wrongfully Accused,87,6.1,$9.62M
+Maroon 5 feat. Cardi B: Girls Like You,5,7.9,335
+Kingdom,60,7.9,"2,022"
+While We're Young,97,6.3,$7.57M
+Analyze This,103,6.7,$106.89M
+King Cobra,91,5.6,$0.03M
+The Secret of My Success,111,6.5,$67.00M
+Ice Age: The Meltdown,91,6.8,$195.33M
+The Nanny Diaries,106,6.2,$25.93M
+License to Drive,88,6.3,$22.43M
+The League of Gentlemen,60,8.3,"9,228"
+3000 Miles to Graceland,125,6.0,$15.74M
+Head Full of Honey,139,3.0,$0.01M
+Junebug,106,7.0,$2.68M
+Crimes and Misdemeanors,104,7.9,$18.25M
+Qu'est-ce qu'on a fait au Bon Dieu?,97,7.0,"34,252"
+Toki o kakeru shôjo,98,7.8,"52,676"
+D.C. Cab,100,5.5,$16.13M
+Fantasy Island,,,
+Brannigan,111,6.1,"4,658"
+Charles in Charge,30,6.1,"4,731"
+Gung Ho,112,6.2,$36.61M
+The Sandlot 2,97,4.6,"4,483"
+Chewing Gum,23,7.7,"5,606"
+In the Loop,106,7.5,$2.38M
+The Hunter,97,6.4,"4,372"
+Camp Nowhere,96,6.0,$10.47M
+Better Than Chocolate,101,6.1,$2.01M
+Somewhere,97,6.3,$1.77M
+Guys and Dolls,150,7.2,$13.00M
+Lo chiamavano Trinità...,113,7.5,"17,341"
+Batman: The Movie,105,6.5,"27,611"
+Song of the South,94,7.3,$63.72M
+Bad Boys 4,,,
+Irreplaceable You,96,6.4,"6,178"
+Shampoo,109,6.3,$49.41M
+Bonusfamiljen,44,7.7,"1,424"
+Noragami,24,7.9,"7,980"
+Green Wing,65,8.3,"10,241"
+"I Love You, Daddy",123,6.3,"3,189"
+My Favorite Martian,30,7.4,"1,780"
+Solteras,95,6.7,236
+Just Like Heaven,95,6.7,$48.32M
+Camp Rock 2: The Final Jam,97,5.3,"14,484"
+Chemistry,30,5.5,538
+The Kid,68,8.3,$5.45M
+Can You Keep a Secret?,,,
+Courage the Cowardly Dog,11,8.3,"33,255"
+QI,30,8.6,"27,740"
+Taxi,86,7.0,$0.27M
+Horace and Pete,67,8.5,"13,106"
+Porn Stars Explain Net Neutrality,2,5.7,100
+The Finder,44,7.7,"14,010"
+Hotel for Dogs,100,5.4,$73.03M
+Stalag 17,120,8.0,"48,090"
+The Golden Palace,30,7.2,935
+Troop Beverly Hills,105,5.7,$8.51M
+S1m0ne,117,6.1,$9.68M
+C'est arrivé près de chez vous,95,7.5,$0.21M
+Fletch Lives,95,6.1,$35.15M
+Teenage Mutant Ninja Turtles III,96,4.8,$42.66M
+Dick,94,6.1,$6.24M
+Hot Pursuit,87,5.1,$34.51M
+How to Lose Friends & Alienate People,110,6.4,$2.78M
+Him-ssen yeo-ja Do Bong-soon,67,8.3,"3,648"
+Obychnaya zhenshchina,,7.7,182
+The Four Seasons,107,7.2,$50.43M
+Celeste & Jesse Forever,92,6.6,$3.09M
+Saved by the Bell: The New Class,30,3.9,"1,695"
+Web Therapy,22,6.6,"3,913"
+The Buddy Games,90,6.4,9
+Kuroshitsuji,24,7.8,"5,438"
+One Fine Day,108,6.5,$46.15M
+Anna and the Apocalypse,93,6.0,$0.55M
+Bizaardvark,30,3.8,"1,473"
+Clueless,30,5.7,"2,347"
+Diner,110,7.2,$14.10M
+Mystery Train,110,7.6,$0.37M
+Grand-Daddy Day Care,96,5.0,131
+A Smile Like Yours,98,4.8,$3.25M
+Search Party,24,7.5,"3,854"
+Hotel Babylon,60,7.6,"3,919"
+After the Sunset,97,6.3,$28.33M
+Knights of Badassdom,86,5.7,$0.09M
+The Librarian: Quest for the Spear,92,6.3,"17,038"
+Night Shift,106,6.5,$23.60M
+Hellcats,60,6.8,"9,821"
+Untitled Noah Baumbach Project,,,
+The Best Little Whorehouse in Texas,114,5.9,$69.70M
+Beginners,105,7.2,$5.79M
+Because of Winn-Dixie,106,6.4,$32.65M
+Jumping the Broom,112,5.7,$37.30M
+Night of the Creeps,88,6.8,$0.59M
+My Awkward Sexual Adventure,98,6.1,"8,498"
+Tadpole,78,6.2,$2.88M
+Ghoulies,81,4.1,$35.00M
+Alvin and the Chipmunks: The Squeakquel,88,4.5,$219.61M
+Between Two Ferns with Zach Galifianakis,4,8.6,"4,067"
+Permission,96,5.3,"3,131"
+Adam-12,30,7.6,"2,661"
+Bratz,110,3.0,$10.01M
+Death Race 2000,80,6.2,$8.00M
+Mr. Pickles,15,7.4,"5,615"
+Gewoon Vrienden,80,7.2,"1,295"
+The Ghost of St. Michael's,82,7.1,383
+Bring It On: All or Nothing,99,5.7,"16,965"
+Mr. Peabody & Sherman,92,6.8,$111.51M
+Huge in France,30,6.8,"1,836"
+Minder,60,7.8,"1,621"
+The Long Goodbye,112,7.7,$0.96M
+The After Party,120,5.8,"3,058"
+Fucking Åmål,89,7.6,$0.17M
+La que se avecina,75,7.4,"2,582"
+Diary of a Mad Black Woman,116,5.8,$50.63M
+Joe Versus the Volcano,102,5.8,$39.40M
+My Tutor,97,5.2,$22.59M
+A Family Affair,69,6.9,508
+It's a Wonderful Sponge,,,
+¡Átame!,101,7.0,$4.09M
+Get a Job,83,5.3,"19,256"
+Drinking Buddies,90,6.1,$0.34M
+100 Girls,94,5.9,"19,905"
+Top End Wedding,113,7.2,330
+Chalard games goeng,130,7.7,"13,710"
+"The Adventures of Brisco County, Jr.",45,8.3,"7,177"
+Purge of Kingdoms: The Unauthorized Game of Thrones Parody,,4.6,23
+Muppets Most Wanted,107,6.4,$51.18M
+The Music Man,151,7.7,$14.95M
+Broadcast News,133,7.2,$51.25M
+Coogan's Bluff,93,6.5,"14,193"
+Are You Smarter Than a 5th Grader?,30,5.6,16
+Mind Your Language,30,8.7,"5,776"
+Frankenweenie,87,7.0,$35.29M
+Thanks for Sharing,112,6.4,$1.06M
+In the Army Now,91,4.9,$28.86M
+Doc Hollywood,104,6.2,$54.83M
+Max Keeble's Big Move,86,5.4,$17.29M
+"Yes, Dear",30,7.0,"5,970"
+High Anxiety,94,6.7,$31.06M
+Flaked,30,7.2,"9,370"
+Borderlands 3,,,
+Mickey Mouse Clubhouse,30,5.9,"1,988"
+Major League II,105,5.5,$30.63M
+Four Weddings and a Funeral,,,
+Hausu,88,7.4,"16,720"
+The Cutting Edge,101,6.9,$25.11M
+Rebelde,60,6.8,"2,602"
+Zui quan,111,7.6,"32,291"
+Transamerica,103,7.4,$9.02M
+Afternoon Delight,98,5.8,$0.17M
+Blank Check,93,5.2,$30.58M
+Dickinson,,,
+The Chase,94,5.8,$8.01M
+Kung Pow: Enter the Fist,81,6.2,$16.03M
+What We Did on Our Holiday,95,6.9,"17,136"
+Shrek the Musical,130,7.1,"2,279"
+Just My Luck,103,5.4,$17.32M
+Calamity Jane,101,7.3,"7,740"
+The Many Loves of Dobie Gillis,30,7.8,"1,256"
+I Love Dick,32,6.0,"3,289"
+Autumn Dreams,84,6.5,"2,423"
+The Detained,90,3.5,899
+Showdown in Little Tokyo,79,6.1,$2.28M
+Smosh,,7.0,"2,462"
+Love Potion No. 9,92,5.7,$0.75M
+The Meaning of Life,107,7.6,$14.93M
+Popular,60,7.4,"5,716"
+Mock the Week,29,7.8,"6,880"
+Liberal Arts,97,6.7,$0.32M
+Confessions of a Shopaholic,104,5.9,$44.28M
+The Sapphires,103,7.0,$2.45M
+The Beverly Hillbillies,92,4.9,$44.03M
+Mr. Smith Goes to Washington,129,8.2,$9.60M
+Angry Birds Toons,3,6.3,539
+I Got the Hook Up 2,107,,
+My Bodyguard,96,7.1,$22.48M
+Addams Family Reunion,91,3.9,"3,563"
+It Could Happen to You,101,6.4,$37.80M
+Beverly Hills Cop 4,,,
+Soul Man,104,5.2,$27.82M
+Ashes of Love,45,8.6,541
+Fun Size,86,5.4,$9.40M
+War on Everyone,98,5.8,"15,339"
+Diary of a Wimpy Kid: Dog Days,94,6.3,$49.01M
+Guess Who's Coming to Dinner,108,7.8,$56.70M
+Mad Dogs,56,7.5,"7,211"
+World's Greatest Dad,99,6.9,$0.22M
+Youth in Revolt,90,6.5,$15.28M
+Celebrity Family Feud,60,6.2,538
+Stella,60,8.0,"1,454"
+Kicking & Screaming,95,5.6,$52.58M
+Waxwork,95,6.2,$0.81M
+"Good Morning, Miss Bliss",30,6.9,"1,307"
+Ieri oggi domani,118,7.3,"6,638"
+Tour de Pharmacy,39,7.1,"7,862"
+The Sand,84,3.8,"2,990"
+Underground,170,8.1,$0.17M
+Saved by the Bell: The College Years,30,6.3,"3,790"
+Extracurricular Activities,86,6.2,379
+Into the Night,115,6.5,$7.56M
+Larry the Cable Guy: Health Inspector,89,3.2,$15.66M
+Tangerine,88,7.1,$0.70M
+My Two Dads,30,6.1,"2,713"
+Backtrack!,95,5.9,159
+Erufen rîto,24,8.0,"26,749"
+Blue Streak,93,6.3,$68.52M
+Il mio nome è Nessuno,116,7.5,"21,097"
+Choses secrètes,115,6.1,$0.10M
+The Hollars,88,6.6,$1.02M
+Mani,,7.5,64
+Would I Lie to You?,30,8.0,"5,472"
+Summer of '42,104,7.3,"6,577"
+Porridge,45,8.2,"4,784"
+Simmba,158,6.3,$5.08M
+Boundaries,104,4.7,$0.70M
+Alan Partridge: Alpha Papa,90,6.9,$0.15M
+"Honey, We Shrunk Ourselves!",74,4.9,"11,567"
+Nashville,160,7.8,$9.98M
+Infinitely Polar Bear,90,7.0,$1.43M
+Trailer Park Boys: The Animated Series,25,7.8,"1,045"
+Hoot,91,5.6,$8.08M
+Men at Work,98,5.9,$16.25M
+Toc Toc,90,6.7,"7,201"
+The Guard,96,7.3,$5.36M
+Kimbiseoga wae geureolkka,60,8.2,"1,955"
+Hi-de-Hi!,60,6.6,"1,069"
+I Love You to Death,97,6.4,$16.19M
+Foodfight!,91,1.9,"8,325"
+Freeway,102,6.9,$0.30M
+Mr. Magorium's Wonder Emporium,93,6.2,$32.06M
+Beethoven's 2nd,89,4.9,$53.35M
+Excess Baggage,101,5.3,$14.33M
+Superintelligence,,,
+Hop,95,5.4,$108.09M
+Battle Creek,44,7.3,"7,668"
+Delicatessen,99,7.7,$1.79M
+Weird Science,30,6.8,"2,948"
+Nothing to Lose,98,6.7,$44.46M
+Gimme a Break!,30,6.4,"2,228"
+The Last Detail,104,7.6,"19,957"
+Deuce Bigalow: European Gigolo,83,4.7,$22.26M
+Bye Bye Birdie,112,6.6,$13.13M
+Kangaroo Jack,89,4.4,$66.93M
+At Home with Amy Sedaris,24,7.8,537
+Three O'Clock High,97,7.2,$3.69M
+Cat Ballou,97,6.9,$20.67M
+Captain Ron,90,5.7,$22.52M
+Astérix & Obélix: Mission Cléopâtre,107,6.6,$3.12M
+The Ref,96,6.9,$11.44M
+Cats & Dogs,87,5.2,$93.39M
+Emma,240,8.1,"13,474"
+Cat's Eye,94,6.3,$13.09M
+Scooby-Doo! Mystery Incorporated,23,8.0,"6,839"
+The Smurfs 2,105,5.4,$71.02M
+The Naked Gun 2½: The Smell of Fear,85,6.9,$86.93M
+My Best Friend's Girl,101,5.9,$19.22M
+Mirreyes contra Godinez,109,5.2,659
+Four More Shots Please,60,5.2,"2,801"
+Private Lessons,87,5.2,$26.28M
+Boy,87,7.5,$0.26M
+Whatever Works,93,7.2,$5.31M
+Fortnite,,5.0,"2,191"
+The Baytown Outlaws,98,6.4,"13,003"
+A.N.T. Farm,30,4.9,"5,279"
+Dolunay,120,7.2,"1,624"
+Modern Love,,,
+The Rare Breed,97,6.4,"2,805"
+Greenberg,107,6.1,$4.22M
+The Skeleton Twins,93,6.8,$5.28M
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,24,7.5,"2,944"
+Return to Me,115,6.9,$32.66M
+Arsenic and Old Lace,118,8.0,"61,660"
+Alice in Wonderland,150,6.3,"7,194"
+Mr. Popper's Penguins,94,6.0,$68.22M
+High School Musical 4,,,
+North Dallas Forty,119,7.0,$26.08M
+The Wedding March,84,6.4,637
+Trash Humpers,78,5.1,"3,908"
+Happy Feet Two,100,5.9,$64.01M
+Sonny with a Chance,23,6.2,"9,536"
+The War of the Roses,116,6.8,$86.89M
+Mean Girls 2,96,4.2,"19,115"
+El Cuento de las Comadrejas,129,7.5,433
+Flawless,112,6.4,$4.49M
+Les petits meurtres d'Agatha Christie,90,7.7,652
+Our Brand Is Crisis,107,6.1,$7.00M
+Pride & Prejudice: Atlanta,,6.2,59
+Kono subarashî sekai ni shukufuku o!,24,7.8,"3,063"
+The Adventures of Jimmy Neutron: Boy Genius,24,6.7,"14,637"
+Family,85,6.1,$0.12M
+Amazing Stories,30,7.4,"4,556"
+The Thing Called Love,116,6.3,$1.03M
+Pump Up the Volume,102,7.2,$11.54M
+Hazel,30,7.2,"1,214"
+Madea's Big Happy Family,106,4.7,$53.35M
+The Trap,90,4.3,794
+2 Days in the Valley,104,6.5,$11.11M
+Queen America,30,7.2,231
+Recess,23,7.9,"20,015"
+Red Nose Day Actually,15,7.2,"4,117"
+The Peanuts Movie,88,7.1,$130.18M
+Edmond,110,7.5,791
+Un moment d'égarement,105,6.3,"6,871"
+Love & Friendship,90,6.4,$14.01M
+The Bill Engvall Show,30,5.6,"1,856"
+Bad Boy Bubby,114,7.4,"11,334"
+Friends with Money,88,5.8,$13.37M
+Gambit,89,5.7,"22,210"
+House II: The Second Story,88,5.4,$7.80M
+Bewitched,102,4.8,$62.25M
+The New Legends of Monkey,24,6.7,"2,191"
+A Boy and His Dog,91,6.6,$6.90M
+Hwarang,60,8.2,"1,124"
+Love & Sex,82,6.2,$0.55M
+Kurenai no buta,94,7.8,"61,929"
+Remington Steele,60,7.3,"6,473"
+102 Dalmatians,100,4.9,$66.96M
+The Warriors Gate,108,5.4,"3,690"
+Studio 60 on the Sunset Strip,44,8.3,"22,199"
+Rosehaven,28,7.7,581
+Stakeout,117,6.6,$65.67M
+Journey to the West: Demon Chapter,109,5.4,$0.88M
+"No Retreat, No Surrender",85,5.7,$4.66M
+Barnyard,90,5.6,$72.78M
+Magic in the Moonlight,97,6.6,$10.51M
+Milo Murphy's Law,12,7.6,"1,315"
+De Frivillige,89,6.7,181
+Sharknado 5: Global Swarming,93,4.0,"4,500"
+Dear Dictator,90,5.1,"3,312"
+Undateable,22,7.3,"7,937"
+Six Degrees of Separation,112,6.9,$6.41M
+Stage Door,92,7.8,"7,039"
+Brickleberry,22,7.3,"11,556"
+Barbershop,102,6.3,$75.78M
+Caveman,91,5.8,$15.97M
+Severance,96,6.5,$0.14M
+The Great Race,160,7.3,$25.33M
+High Spirits,99,5.7,$8.58M
+The Object of My Affection,111,6.0,$29.11M
+Extract,92,6.2,$10.81M
+The Prince of Pennsylvania,87,5.7,977
+Dennis the Menace,30,7.2,"1,554"
+My Family,50,7.6,"8,028"
+1st Born,79,8.3,34
+Meet Dave,90,5.0,$11.80M
+Old Boys,96,6.2,355
+Karwaan,114,7.5,$0.18M
+Venus,95,7.1,$3.34M
+Rémi sans famille,105,6.9,391
+Little Darlings,96,6.5,$34.33M
+To Tell the Truth,42,6.3,283
+Red vs. Blue,6,8.4,"8,540"
+Range 15,89,5.2,$0.62M
+The Guest Book,30,7.1,"1,972"
+Heaven Can Wait,101,6.9,$81.64M
+Candy,115,5.4,"2,443"
+Soy Luna,45,7.0,777
+Tengen toppa gurren lagann,24,8.3,"12,225"
+The Perfect Match,96,4.9,$9.66M
+A Walk in the Woods,104,6.3,$29.47M
+Egg,90,4.8,387
+Ten Inch Hero,102,7.4,"11,351"
+This Country,21,8.4,"1,820"
+"Sister, Sister",30,6.2,"9,530"
+Loqueesha,98,1.1,644
+Chennai Express,141,6.1,$5.31M
+The Muppet Show,30,8.4,"20,977"
+How to Marry a Millionaire,95,7.0,"18,801"
+Don Juan DeMarco,97,6.7,$22.15M
+Planet 51,91,6.1,$42.09M
+The Perfect Bride,84,6.8,"1,020"
+Hawaiian Vacation,6,7.4,"6,340"
+No Reservations,104,6.3,$43.11M
+Le mystère Henri Pick,100,6.8,444
+The Party,99,7.6,"34,856"
+Cherry 2000,99,5.5,"8,052"
+Blackadder II,176,8.6,"39,014"
+The Pirates! In an Adventure with Scientists!,88,6.7,$31.05M
+What's Happening!!,30,7.0,"2,611"
+Dog with a Blog,22,4.7,"4,788"
+Stand Up Guys,95,6.5,$3.30M
+In a World...,93,6.7,$2.96M
+Garth Marenghi's Darkplace,30,8.5,"14,491"
+The Royle Family,45,8.1,"5,606"
+My Best Friend's Birthday,90,5.7,"3,527"
+Threesome,89,6.2,$14.82M
+David's Vlog,4,9.3,168
+Bubble Guppies,24,6.7,944
+Imagine That,107,5.6,$16.09M
+Barbie,,,
+That Time I Got Reincarnated as a Slime,25,8.1,"1,387"
+Rock Dog,90,5.9,$9.40M
+Hatchet,85,5.7,$0.16M
+Gemma Bovery,99,6.4,$0.19M
+Dim Sum Funeral,95,5.2,511
+Spy Hard,81,5.3,$29.00M
+Queen,146,8.2,$1.43M
+Nowhere,82,6.4,$0.03M
+Burning Love,23,7.9,"3,235"
+The Boxtrolls,96,6.8,$50.84M
+Throw Momma from the Train,88,6.2,$57.92M
+The Windsors,30,6.9,"1,213"
+Stuck on You,118,5.8,$33.83M
+Teen Wolf Too,95,3.2,$7.89M
+Snow Dogs,99,5.1,$81.17M
+Empty Nest,30,6.6,"2,483"
+The Incredible Mr. Limpet,99,6.5,"4,465"
+"Mujeres al borde de un ataque de ""nervios""",88,7.6,$7.18M
+Ed,60,7.6,"6,240"
+PG Porn,5,7.8,"1,162"
+The Ren & Stimpy Show,30,7.5,"19,416"
+Bulletproof,84,5.8,$21.16M
+Daniel Tiger's Neighborhood,26,7.5,700
+Satanic Panic,,8.2,28
+Undercover Grandpa,94,5.2,"1,334"
+Ana,,,
+Are We There Yet?,95,4.7,$82.67M
+Planes: Fire & Rescue,83,6.0,$59.17M
+Monster,139,7.0,211
+My Girl 2,99,5.2,$17.36M
+Everything You Always Wanted to Know About Sex * But Were Afraid to Ask,88,6.8,"35,827"
+Stath Lets Flats,30,6.8,509
+Benson,30,7.1,"2,480"
+Haikyuu!!,24,8.7,"3,849"
+Us & Them,,5.9,201
+Un beau soleil intérieur,94,6.0,$0.87M
+Enes Batur Hayal mi Gerçek mi?,110,5.5,"52,477"
+Fools for Scandal,80,6.1,359
+A Man Called Ove,,,
+Vicious,23,8.0,"7,336"
+Kenan & Kel,30,7.9,"13,046"
+Phil,106,6.5,25
+Yogi Bear,80,4.6,$100.25M
+Saving Silverman,90,5.9,$19.35M
+Kukhnya,,8.5,"3,608"
+The District,44,7.1,"1,261"
+Madea's Family Reunion,107,5.2,$63.26M
+Jean-Claude Van Johnson,30,7.7,"6,752"
+Drumline,118,5.7,$56.40M
+Zombie Strippers!,94,4.1,"16,993"
+Manhattan Murder Mystery,104,7.4,$11.29M
+The Real Ghost Busters,30,7.6,"7,673"
+Carol's Second Act,,,
+El Tonto,,,
+Houseboat,110,6.7,"6,840"
+Princess Rap Battle,2,8.1,397
+Big Momma's House,99,5.1,$117.56M
+Skins,42,4.0,"5,305"
+Nekrotronic,99,5.6,143
+Bitch Slap,109,4.5,$0.02M
+"Hello, My Name Is Doris",90,6.6,$14.44M
+Critters: A New Binge,10,5.3,218
+Life Sentence,44,6.6,"2,938"
+Big Trouble in Little China,,,
+Taking Woodstock,120,6.7,$7.44M
+Sgt. Bilko,93,5.8,$30.36M
+Allan Quatermain and the Lost City of Gold,99,4.5,$3.75M
+Think Like a Man Too,106,5.8,$65.18M
+The Goodbye Girl,111,7.4,$102.00M
+Pee-wee's Playhouse,30,8.0,"3,743"
+You Might Be the Killer,92,6.1,"2,416"
+Slice,83,4.5,"2,121"
+Ging chaat goo si,100,7.6,$0.11M
+Fright Night Part 2,104,5.9,$2.98M
+Jeux d'enfants,93,7.7,$0.55M
+Elizabethtown,123,6.4,$26.84M
+Lady-Like,82,5.7,"1,387"
+The Revenger: An Unromantic Comedy,95,5.7,293
+The Lavender Hill Mob,78,7.7,"11,465"
+Tales from the Darkside,30,7.6,"4,903"
+In a Relationship,92,5.5,"1,341"
+Grange Hill,30,7.1,991
+His Girl Friday,92,8.0,$0.30M
+The Big Year,100,6.2,$7.20M
+Family Reunion,,,
+Geukhanjikeob,111,7.2,$1.56M
+Funny Girl,151,7.6,$0.22M
+Swiped,93,4.4,674
+Goin' South,105,6.3,"5,647"
+The One and Only Ivan,,,
+The Last Days of Disco,113,6.7,$2.99M
+No Activity,30,6.6,647
+Hey Dude,30,7.3,"2,418"
+Miss Stevens,86,6.6,$0.00M
+Difficult People,30,6.9,"2,933"
+Diet of Sex,72,4.2,875
+Xi you: Xiang mo pian,110,6.8,$0.02M
+ABC Afterschool Specials,60,7.0,765
+Der Tatortreiniger,26,8.5,"4,669"
+The Big Hit,91,6.1,$27.05M
+Mister Lonely,112,6.4,$0.17M
+Cursed,97,5.0,$19.30M
+Malibu's Most Wanted,86,5.2,$34.31M
+Hesher,106,7.0,$0.38M
+Travel Man: 48 Hours in...,24,8.3,"1,172"
+Amazon Women on the Moon,85,6.2,$0.55M
+I Give It a Year,97,5.7,$0.03M
+Parker Lewis Can't Lose,30,8.0,"4,615"
+King Solomon's Mines,100,5.2,$15.06M
+Must Love Dogs,98,5.9,$43.89M
+Arthur,110,5.7,$33.04M
+Alone Together,30,6.3,"1,348"
+The Romantics,95,5.1,$0.10M
+The Year of Spectacular Men,102,5.6,682
+About a Boy,22,7.5,"7,754"
+The 51st State,93,6.3,$5.20M
+Jalla! Jalla!,88,6.8,"12,302"
+Forces of Nature,105,5.4,$52.89M
+Thumbsucker,96,6.6,$1.33M
+The Black Room,91,3.3,"2,008"
+Beverly Hills Chihuahua,91,3.8,$94.51M
+Fraggle Rock,30,7.9,"6,199"
+The Hollywood Knights,91,6.3,$10.00M
+Passport to Paris,87,5.3,"4,816"
+Girlfriends,30,7.1,"2,966"
+Loaded Weapon 1,84,6.1,$27.98M
+The Ghost Train,85,6.4,"1,225"
+Teachers,30,6.0,"2,904"
+The Young Offenders,30,8.1,"1,837"
+Dark Star,83,6.4,"20,180"
+The Lost Empire,83,4.8,777
+Love Don't Cost a Thing,100,5.2,$21.90M
+On the Buses,30,7.1,"1,713"
+Drive Me Crazy,91,5.8,$17.85M
+Alibi.com,90,6.5,"5,880"
+Attack of the 50 Ft. Woman,90,3.9,"2,689"
+Duck Soup,68,7.9,"52,379"
+Fun Mom Dinner,81,5.2,"3,943"
+Idioterne,117,6.8,$0.01M
+Watch Dogs 2,,7.6,"1,842"
+Sunshine Cleaning,91,6.9,$12.06M
+Prizzi's Honor,130,6.8,$26.70M
+Strictly Ballroom,94,7.2,$11.74M
+Madness in the Method,,,
+Animals,109,7.4,46
+'Crocodile' Dundee II,108,5.6,$109.31M
+Dragon Ball: Doragon bôru,24,8.5,"41,148"
+Search Party,93,5.6,"6,099"
+Caroline in the City,23,6.2,"3,014"
+Destination Wedding,84,6.3,793
+Fathers' Day,98,5.2,$28.66M
+In Good Company,109,6.5,$45.49M
+Rita,40,8.1,"5,312"
+Undrafted,90,6.3,988
+Grace,90,7.0,61
+Dead Like Me: Life After Death,87,6.1,"12,170"
+Heart and Souls,104,6.9,$16.58M
+Any Which Way You Can,116,6.1,$70.69M
+Four Christmases,88,5.7,$120.15M
+The Brothers Bloom,114,6.8,$3.52M
+Trolls: The Beat Goes On!,25,5.9,463
+Deal or No Deal,120,5.1,"3,466"
+Ngo si seoi,120,6.9,"33,838"
+Baby Mama,99,6.0,$60.27M
+Thunderbirds,95,4.3,$6.77M
+Paint Your Wagon,164,6.7,$31.68M
+North to Alaska,122,7.0,"6,380"
+Whisky Galore,98,5.7,867
+Loss Prevention,88,4.2,64
+Precious Cargo,90,4.6,"7,459"
+The Magic School Bus,30,7.9,"7,162"
+Scoop,96,6.7,$10.53M
+Wristcutters: A Love Story,88,7.3,$0.32M
+The Bonfire of the Vanities,125,5.5,$15.69M
+House of Payne,30,3.5,"5,609"
+He Never Died,99,6.4,"15,035"
+Pair of Kings,22,5.8,"2,908"
+V.I.P.,45,4.1,"3,980"
+Deathstalker II,85,5.2,"1,858"
+Upper Middle Bogan,,7.9,"1,440"
+Loverboy,98,6.0,$3.96M
+Bad Words,89,6.7,$7.76M
+Human Traffic,99,7.1,$0.10M
+The Second Best Exotic Marigold Hotel,122,6.6,$33.08M
+How to Build a Girl,,,
+Fun in Acapulco,97,5.9,$1.50M
+Guardians of the Galaxy: Inferno,4,8.3,"1,158"
+French Kiss,111,6.6,$38.90M
+"Ed, Edd n Eddy",30,7.5,"29,398"
+The Women,114,5.0,$26.90M
+My Dinner with Andre,110,7.8,$5.25M
+Rise of the Teenage Mutant Ninja Turtles,22,5.4,"1,667"
+Winnie the Pooh,63,7.2,$26.69M
+House Party,100,6.4,$26.39M
+The Colour of Magic,191,7.1,"8,638"
+Nothing in Common,118,5.9,$32.32M
+Shaun the Sheep Movie: Farmageddon,,,
+All Creatures Great and Small,50,8.3,"2,002"
+Birthday Girl,93,6.1,$4.92M
+Mystery Science Theater 3000: The Return,90,8.1,"2,744"
+Sunshine on Leith,100,6.6,"5,561"
+Flodder,111,6.6,"6,193"
+Basket Case,91,6.2,"14,504"
+Real Rob,30,6.5,"2,034"
+Teenage Mutant Ninja Turtles,30,7.7,"7,300"
+Accidental Love,100,4.1,"7,058"
+Unikitty!,14,5.7,712
+The Inbetweeners,23,3.2,"3,948"
+Untamed Heart,102,6.8,$18.90M
+Step Sisters,108,5.4,"3,371"
+"You, Me and Dupree",110,5.6,$75.63M
+Simon Birch,114,6.9,$18.25M
+Son of Rambow,96,7.0,$1.78M
+Victor Victoria,134,7.6,$21.93M
+The Mysteries of Laura,42,6.9,"8,358"
+Lover Come Back,107,7.2,$16.94M
+Suicide Kings,106,7.0,$1.69M
+Picture Perfect,105,5.5,$31.06M
+Beneath the Valley of the Ultra-Vixens,93,5.7,"2,671"
+Mythic Quest,,,
+Confessions of a Teenage Drama Queen,89,4.6,$29.33M
+Undercover Brother,86,5.9,$38.23M
+Big Business,97,6.4,$40.15M
+Turbo Kid,93,6.7,$0.05M
+My Beautiful Laundrette,97,6.9,$2.45M
+You Will Meet a Tall Dark Stranger,98,6.3,$3.25M
+Nothing Trivial,,7.8,196
+Married to the Mob,104,6.1,$21.49M
+Radio Days,88,7.6,$14.79M
+Gloria,110,6.8,$2.11M
+Last Friday,,,
+What We Do in the Shadows: Interviews with Some Vampires,27,7.5,849
+Shag,98,6.3,$6.96M
+License to Wed,91,5.3,$43.80M
+Deadbeat,22,7.5,"3,895"
+Parents,81,6.2,$0.87M
+Calendar Girls,108,6.9,$31.04M
+Caddyshack II,98,3.7,$11.80M
+The Tonight Show Starring Johnny Carson,105,8.4,"2,826"
+Going the Distance,102,6.3,$17.80M
+The Tale of Despereaux,93,6.1,$50.88M
+Co-Ed Confidential,23,6.7,632
+Ice Princess,98,6.0,$24.38M
+Lay the Favorite,94,4.8,$0.02M
+The Shaggy Dog,98,4.4,$61.12M
+Freaky Friday,95,6.3,$25.94M
+How to Plan an Orgy in a Small Town,101,5.5,"2,773"
+Sharknado 4: The 4th Awakens,95,4.0,"6,533"
+The Grinder,21,7.2,"6,457"
+Gotham City Sirens,,,
+Soul Food,115,7.0,$43.49M
+3 Men and a Little Lady,104,5.3,$71.61M
+O Negócio,51,8.2,"1,227"
+The Bromley Boys,106,7.7,"2,618"
+Swimming with Men,96,6.3,$0.02M
+10 Years,100,6.1,$0.20M
+Arizona Dream,142,7.4,$0.11M
+Out of This World,30,7.5,"1,500"
+Villainous,3,7.8,126
+The Odd Couple,105,7.7,$44.53M
+Bonjour Anne,92,5.8,$5.62M
+Critters 3,86,4.4,"10,040"
+Frankie and Johnny,118,6.7,$22.77M
+Victor Crowley,83,5.5,"3,437"
+68 Kill,93,6.0,"3,419"
+The Return of the Pink Panther,113,7.1,$41.83M
+Baby Geniuses,97,2.6,$27.14M
+Deep in the Valley,96,4.4,"3,058"
+Bandits,123,6.5,$41.58M
+De Libi,102,6.5,69
+Admission,107,5.7,$18.00M
+Superbabies: Baby Geniuses 2,88,2.0,$9.11M
+Ghost Town,102,6.7,$13.21M
+Yellow Submarine,90,7.4,$0.99M
+Ruthless People,93,6.9,$71.62M
+Invader ZIM,24,8.3,"17,739"
+Dinnerladies,34,7.7,"1,493"
+Women in Trouble,92,5.7,"5,647"
+Trois couleurs: Blanc,92,7.7,$1.46M
+"Corrina, Corrina",115,6.6,$20.16M
+The Adventures of Ford Fairlane,104,6.3,$21.41M
+The Persuaders!,60,8.1,"4,201"
+Swept Away,89,3.6,$0.01M
+Father of the Bride Part II,106,6.0,$76.59M
+A Young Doctor's Notebook & Other Stories,23,7.9,"13,180"
+The Longest Yard,121,7.1,"15,594"
+The Star,86,6.1,$40.85M
+Sleeper,89,7.3,"37,755"
+Run,,,
+Cougars Inc.,79,5.0,"3,805"
+My Super Ex-Girlfriend,96,5.1,$22.53M
+Much Ado About Nothing,109,7.2,$4.33M
+Balls of Fury,90,5.3,$32.84M
+Yu Yu Hakusho,24,8.4,"10,041"
+Screwballs,82,4.7,$2.08M
+It's a Boy Girl Thing,95,6.3,"37,324"
+Come to Daddy,93,7.2,40
+Big Gold Brick,,,
+Money Talks,97,6.2,$41.07M
+Cooties,88,5.7,$0.06M
+Tallulah,111,6.7,"15,141"
+Ballykissangel,50,7.5,"1,197"
+PCU,79,6.6,$4.35M
+Zenon: Girl of the 21st Century,97,6.5,"5,860"
+"Faster, Pussycat! Kill! Kill!",83,6.8,"12,691"
+Barely Legal,89,3.3,"2,504"
+The Iron Maiden,98,6.5,254
+The Big Easy,102,6.6,$17.69M
+Barefoot,90,6.6,$0.01M
+Fritz the Cat,78,6.3,$25.00M
+The Ghost and Mr. Chicken,90,7.3,"5,240"
+Dutch,107,6.5,$4.60M
+Total Dhamaal,130,4.4,$2.17M
+Man Like Mobeen,21,7.5,574
+The Party's Just Beginning,91,6.2,"1,102"
+Hick,99,5.7,"18,051"
+Ask the StoryBots,24,7.8,448
+The Dilemma,111,5.3,$48.48M
+Everything Is Illuminated,106,7.5,$1.71M
+Basmati Blues,106,3.6,"1,215"
+P.S.,97,6.2,$0.18M
+The Toy,102,5.8,$47.12M
+Romance & Cigarettes,105,6.3,$0.54M
+Pee-wee's Big Holiday,90,6.2,"6,388"
+Celebrity Sex Tape,87,2.9,"2,543"
+Leyla ile Mecnun,80,9.1,"83,498"
+Love the Coopers,107,5.8,$26.28M
+Joe Dirt 2: Beautiful Loser,107,4.2,"4,723"
+She-Devil,99,5.5,$15.35M
+Cutting Class,91,4.3,"3,887"
+An American Werewolf in Paris,105,5.1,$26.57M
+Return of the Living Dead: Part II,89,5.8,$9.21M
+Chances Are,108,6.5,$16.28M
+Pearl in Paradise,90,6.7,766
+Ali Wong: Hard Knock Wife,64,7.3,"2,747"
+Neko no ongaeshi,75,7.3,"39,516"
+They Came Together,83,5.5,"19,851"
+Girl/Girl Scene,122,2.2,115
+Valerie,30,6.6,"1,219"
+Those Who Can't,30,7.2,"1,092"
+Curly Sue,101,5.8,$33.69M
+Nappily Ever After,98,6.4,"6,345"
+Steins;Gate 0,30,8.3,"2,489"
+Palm Swings,95,4.4,482
+Galaxina,95,3.5,"2,443"
+Bei Jing yu shang Xi Ya Tu,121,6.4,$0.01M
+Unbelievable!!!!!,105,6.1,22
+Amarcord,123,7.9,"35,654"
+L.A. Story,95,6.7,$28.86M
+Hope & Faith,30,5.6,"4,378"
+Michael,105,5.7,$95.32M
+Living with Fran,30,6.0,"1,113"
+All of Me,93,6.7,$36.40M
+BrainDead,44,8.1,"9,210"
+Humorously Yours,,8.8,"5,655"
+I Hate Kids,89,6.4,"1,328"
+Clear History,101,6.5,"16,264"
+Spike Island,105,6.3,"3,104"
+Bulletproof Monk,104,5.5,$23.02M
+Kind Hearts and Coronets,106,8.1,"31,956"
+Animaniacs,21,7.9,"19,296"
+Frankenhooker,85,6.1,$0.21M
+New York Minute,91,4.9,$14.02M
+Holiday in the Sun,87,5.2,"4,205"
+Bad Education,,,
+Eurovision,,,
+The Story of Tracy Beaker,15,6.6,"1,168"
+Clarissa Explains It All,30,7.2,"7,285"
+Club Dread,104,5.7,$4.99M
+About Last Night,100,6.1,$48.64M
+Primary Colors,143,6.7,$38.97M
+Harvey,104,8.0,"50,019"
+Pootie Tang,81,5.2,$3.29M
+Being Erica,45,7.5,"8,596"
+S.O.B.,122,6.4,$14.87M
+Housefull 4,,,
+Down with Love,101,6.3,$20.30M
+Permanent Vacation,75,6.4,"7,506"
+The Haunted World of El Superbeasto,77,6.0,"6,747"
+Fathom,99,5.7,"1,189"
+Obvious Child,84,6.8,$3.12M
+The Penthouse,89,3.7,"1,350"
+Jeeves and Wooster,55,8.4,"11,101"
+This Beautiful Fantastic,100,6.9,$0.04M
+Angel-A,91,7.1,$0.20M
+Edging,75,4.0,39
+Find Me Guilty,125,7.1,$1.17M
+Gremlins 3,,,
+Breakin',90,5.8,$38.68M
+Mutafukaz,94,6.7,$0.23M
+Yellowbeard,96,6.0,$4.30M
+Secret Admirer,90,6.6,$8.62M
+Miss You Already,112,6.8,$1.16M
+Everyone Says I Love You,101,6.8,$9.71M
+The Broken Hearts Club: A Romantic Comedy,94,7.0,$1.74M
+Electric Dreams,95,6.5,$2.19M
+Other People,97,6.7,$0.09M
+Die unendliche Geschichte III: Rettung aus Phantasien,95,3.2,"10,152"
+La grande bouffe,130,7.2,"10,710"
+A Very Harold & Kumar 3D Christmas,90,6.3,$35.03M
+Rock-A-Doodle,77,6.0,$11.66M
+Manhattan Parade,75,5.5,119
+Rush Hour,43,5.8,"3,315"
+That Girl,30,7.2,"1,883"
+Big Trouble,85,6.5,$7.26M
+National Security,88,5.6,$35.76M
+A Very Murray Christmas,56,5.5,"12,845"
+Lal Singh Chaddha,,,
+A Good Old Fashioned Orgy,95,6.2,$0.15M
+The Girl's Guide to Depravity,30,6.4,651
+The Feels,90,5.2,"1,161"
+Sap ji sang ciu,109,6.1,"19,510"
+"Eerie, Indiana",30,8.2,"4,518"
+Nancy Drew,99,5.9,$25.61M
+Sports Night,30,8.3,"6,700"
+Les exploits d'un jeune Don Juan,95,5.9,907
+"Yours, Mine and Ours",111,7.2,$25.91M
+The Many Adventures of Winnie the Pooh,74,7.6,"29,749"
+The Little Death,96,7.1,$0.02M
+Side Out,100,5.5,$0.45M
+Kaboom,86,5.7,$0.12M
+Jack Frost,101,5.3,$34.55M
+Team Thor,4,8.1,"7,060"
+Good Dick,86,6.4,$0.02M
+The Odd Couple,30,7.9,"4,635"
+The Hitchhiker's Guide to the Galaxy,152,8.0,"9,403"
+Go On,22,7.6,"19,124"
+Bob the Builder,10,5.4,"3,280"
+Ernest Scared Stupid,91,5.8,$14.14M
+John Dies at the End,99,6.4,$0.14M
+Extreme Movie,86,3.7,"10,370"
+Problem Child 2,90,4.7,$25.10M
+The Guild,4,8.2,"9,098"
+Trover Saves the Universe,,8.9,30
+Meet the Feebles,97,6.7,"17,825"
+Poultrygeist: Night of the Chicken Dead,103,6.2,$0.02M
+Almost Friends,101,5.9,"2,866"
+Dom Hemingway,93,6.2,$0.52M
+A Thousand Words,91,5.9,$18.44M
+The Kid,104,6.1,$69.69M
+El Camino Christmas,89,5.6,"5,841"
+This Must Be the Place,118,6.7,$0.14M
+Stay Hungry,102,5.7,"3,709"
+Norm of the North,90,3.6,$17.02M
+Zombieland,28,5.9,"6,932"
+Beavis and Butt-Head Do America,81,6.8,$63.07M
+Playing by Heart,121,7.1,$3.96M
+Milk Money,110,5.5,$18.14M
+Police Academy: Mission to Moscow,83,3.4,$0.13M
+Playing for Keeps,105,5.7,$13.10M
+Double Team,93,4.7,$11.44M
+A Long Way Down,96,6.4,$0.01M
+Camp,114,6.3,$1.63M
+Shorts,89,4.8,$20.92M
+Wellington Paranormal,30,7.5,"1,160"
+Mr. Show with Bob and David,27,8.3,"8,194"
+Just Visiting,88,5.8,$4.78M
+The Perfect Man,100,5.5,$16.25M
+Damn Yankees,111,7.2,"2,218"
+Police Academy 5: Assignment: Miami Beach,90,4.5,$4.24M
+Naomi and Ely's No Kiss List,89,5.6,"8,224"
+Alvinnn!!! And the Chipmunks,11,4.9,915
+Wipeout,42,6.6,"6,901"
+Sticky,,,
+Camp Camp,11,8.0,809
+Outsourced,30,7.5,"11,442"
+Yeopgijeogin geunyeo,123,8.1,"42,434"
+Misfits of Science,60,7.4,783
+Kkotboda namja,70,8.1,"6,696"
+Dragon Ball Kai: Doragon bôru kai,24,8.3,"18,426"
+Cursed Part 3,25,5.8,36
+Win a Date with Tad Hamilton!,95,5.6,$17.07M
+Summer Lovers,98,5.7,$4.97M
+Diamantino,96,6.5,$0.05M
+"No Game, No Life",23,7.9,"8,171"
+Away We Go,98,7.1,$9.45M
+The Overnight,79,6.1,$1.10M
+Gnome Alone,85,5.7,"1,813"
+A Harvest Wedding,84,6.7,705
+Deseo,97,5.5,237
+Indian Summer,97,6.5,$14.90M
+Kangoku gakuen,24,7.7,"2,595"
+Where's the Money,86,5.2,"1,439"
+"Yo soy Betty, la fea",30,8.0,"1,762"
+Ek Ladki Ko Dekha Toh Aisa Laga,120,5.5,$1.18M
+Black Lagoon,25,8.0,"9,728"
+Short Circuit 2,110,5.7,$21.63M
+Mighty Aphrodite,95,7.1,$6.70M
+Please Don't Eat the Daisies,112,6.5,$11.10M
+We're Back! A Dinosaur's Story,72,6.1,$9.32M
+Perfectos desconocidos,97,7.0,$1.01M
+Breakfast on Pluto,128,7.3,$0.83M
+Millions,98,6.9,$6.58M
+Not Another Happy Ending,102,6.2,"3,923"
+Trollied,26,7.4,"1,893"
+The Outcasts,95,5.5,"3,097"
+B*A*P*S,91,4.5,$7.24M
+Sorority Boys,93,5.5,$10.20M
+The Meddler,103,6.3,$4.27M
+Hell Comes to Frogtown,86,5.5,"4,176"
+The History Boys,109,6.9,$2.71M
+Keeping the Faith,128,6.4,$37.05M
+Exit Wounds,101,5.6,$51.76M
+Alfie,103,6.2,$13.40M
+Wish Upon a Star,90,6.9,"6,498"
+American Splendor,101,7.5,$6.00M
+8 Out of 10 Cats,24,7.8,"4,788"
+The IT Crowd,30,6.6,"1,728"
+Kal Ho Naa Ho,186,8.0,$1.79M
+"New York, I Love You",103,6.3,$1.59M
+Relaxer,91,5.8,$0.00M
+Childrens Hospital,11,7.8,"6,422"
+Welcome to Sweden,30,6.6,"4,984"
+Wild America,106,6.3,$7.32M
+Don's Plum,89,5.8,"3,754"
+Norm of the North: King Sized Adventure,90,3.6,60
+White Christmas,120,7.6,$30.00M
+Prime,105,6.2,$22.83M
+The Alan Clark Diaries,29,7.8,164
+Alex & The List,112,4.6,814
+Made,95,6.4,$5.31M
+George of the Jungle 2,87,3.4,"5,652"
+The Greasy Strangler,93,5.7,$0.04M
+Wish Dragon,,,
+Casanova,174,7.9,"4,459"
+Down to Earth,30,7.4,49
+Campeones,124,7.2,"5,917"
+The Rebound,95,6.3,"44,163"
+Down Under Cover,,,
+Dragons: Riders of Berk,22,8.0,"8,646"
+Beverly Hills Ninja,88,5.5,$31.24M
+Girls with Balls,,5.7,65
+Grand Theft Auto: Vice City,,9.2,"20,250"
+Operation Petticoat,124,7.3,$23.30M
+La ley del deseo,102,7.2,"9,485"
+War with Grandpa,141,7.3,39
+Trial & Error,22,8.0,"4,775"
+Sonu Ke Titu Ki Sweety,138,7.1,"16,483"
+Something Wild,114,6.9,$8.36M
+Ready to Rumble,107,5.4,$12.37M
+Dexter's Laboratory,23,7.9,"38,882"
+Britt-Marie var här,94,4.9,283
+Two Doors Down,28,7.6,645
+Maximum Ride,88,3.7,"3,922"
+Up!,80,6.0,"2,546"
+The Thin Man,91,8.1,"24,207"
+Ben 10,12,2.6,"1,535"
+The Benny Hill Show,30,7.6,"4,008"
+The Pest,84,5.0,$3.60M
+The New Addams Family,30,6.2,"1,504"
+Mean Machine,99,6.5,$0.09M
+Jimmy Neutron: Boy Genius,82,6.0,$80.94M
+The Lady in the Van,104,6.7,$10.02M
+Chi-Raq,127,5.7,$2.65M
+"What's Up, Doc?",94,7.8,"17,555"
+Undeclared,22,7.9,"15,762"
+The Bernie Mac Show,30,7.0,"6,321"
+Benchwarmers 2: Breaking Balls,91,4.6,112
+Blackadder Goes Forth,175,8.8,"43,733"
+The Kids in the Hall,25,8.3,"7,961"
+Ishtar,107,4.3,$14.38M
+Slacker,97,7.1,$1.23M
+Monster Musume no Iru Nichijou,23,6.7,"1,036"
+Heartburn,108,6.1,$25.31M
+StarStruck,90,6.2,"11,354"
+Because I Said So,102,5.6,$42.67M
+About Last Night...,113,6.2,$38.70M
+Bordello of Blood,87,5.3,$5.59M
+The Little Shop of Horrors,72,6.3,$1.40M
+Air America,113,5.8,$31.05M
+Frozen Fever,8,6.9,"11,869"
+Pollyanna,134,7.4,"8,120"
+The Big Bounce,88,4.9,$6.47M
+How I Got Into College,86,5.8,$1.64M
+JourneyQuest,,8.0,612
+Gong fu yu jia,107,5.2,$0.36M
+Sell By,94,7.9,14
+Lego DC Super-Villains,,8.3,193
+The Honeymooners,30,8.6,"4,237"
+SLC Punk!,97,7.5,$0.30M
+House of D,97,7.0,$0.37M
+Bucky Larson: Born to Be a Star,97,3.3,$2.33M
+Bienvenue chez les Ch'tis,106,7.1,$1.48M
+Man of the House,100,5.4,$19.70M
+OK K.O.! Let's Be Heroes,11,7.2,"1,171"
+The Adventures of Pete & Pete,30,8.3,"8,556"
+Teachers,50,7.9,"2,834"
+North,87,4.4,$7.14M
+"Be Cool, Scooby-Doo!",23,6.4,"1,411"
+The Train Robbers,92,6.5,"4,732"
+Brendan Schaub: You'd Be Surprised,65,3.0,"1,260"
+A Street Cat Named Bob,103,7.4,$0.04M
+Den skaldede frisør,116,6.5,$1.63M
+The Tick,30,7.9,"8,314"
+The Unicorn,88,5.1,441
+Alyssa Milano Sex Tape,3,2.9,85
+The Dream Team,113,6.5,$28.89M
+The Lucy Show,30,7.3,"2,023"
+Bringing Up Baby,102,8.0,"51,151"
+Even Cowgirls Get the Blues,95,4.3,$1.71M
+Sweet Valley High,30,5.9,"1,455"
+Señoras del (h)AMPA,,8.4,31
+"Dan, Hanaui Sarang",35,8.3,66
+The Nut Job 2: Nutty by Nature,91,5.5,$28.37M
+Princess Protection Program,90,5.7,"19,457"
+Greed,,,
+Hilleo,60,8.5,"3,593"
+Knight Squad,30,5.4,311
+How to Make an American Quilt,117,6.2,$23.57M
+Anything for Love,84,6.6,"1,617"
+Ai no mukidashi,237,8.1,"10,079"
+Queer Eye for the Straight Guy,60,6.0,"2,059"
+Star Wars: Detours,,,
+Whose Line Is It Anyway?,36,8.2,"4,901"
+Bell Book and Candle,106,6.9,"8,658"
+The Shakiest Gun in the West,101,6.4,"2,140"
+Les estivants,127,5.8,181
+Show Dogs,92,3.7,$17.74M
+Strange Magic,99,5.8,$12.43M
+Plan Coeur,27,7.5,"1,949"
+Mismatch,,5.1,70
+Summer Camp Island,,7.6,409
+The Other Sister,129,6.5,$27.80M
+Showtime,95,5.5,$38.08M
+Power Rangers R.P.M.,22,6.6,"1,329"
+Bread,70,6.2,866
+The Comedian,120,5.7,$1.66M
+Geordie Shore,60,5.3,"4,104"
+Badehotellet,50,7.4,"1,178"
+The Rewrite,107,6.2,"16,614"
+The Trouble with Harry,99,7.1,"30,321"
+The Rounders,85,6.3,"1,363"
+Can't Have You,90,4.1,16
+For Richer or Poorer,115,5.8,$31.61M
+Do lok tin si,99,7.7,"21,486"
+Super Size Me,100,7.2,$11.53M
+Jonas Brothers: Sucker,3,7.4,157
+First Ladies,,,
+Igby Goes Down,98,7.0,$4.68M
+NTSF:SD:SUV,11,7.3,"2,580"
+Ben 10: Omniverse,22,5.9,"2,210"
+Il Decameron,111,7.1,"8,586"
+Bring It On: In It to Win It,90,5.4,"10,775"
+Summer Catch,108,5.0,$19.69M
+The Jellies!,,6.5,139
+Boston Public,60,7.3,"5,058"
+School Spirit,90,4.4,598
+Shirley Valentine,108,7.2,$6.35M
+Eagle vs Shark,88,6.8,$0.22M
+People Like Us,114,7.1,$12.41M
+The Nostalgia Critic,,7.9,"8,524"
+High Society,111,7.0,$13.00M
+Maron,22,7.7,"4,203"
+No Tomorrow,43,7.3,"4,382"
+The Swan Princess,90,6.5,$9.77M
+3-Headed Shark Attack,89,2.7,"2,534"
+Adult Wednesday,20,8.3,305
+A Cinderella Story: Once Upon a Song,88,6.1,"11,098"
+Remo Williams: The Adventure Begins,121,6.4,"10,156"
+Sex Ed,30,6.4,150
+Totally Spies!,22,7.0,"7,650"
+I Sell the Dead,85,6.1,$0.01M
+The House of Tomorrow,85,6.2,$0.04M
+Slumber Party Massacre II,77,4.5,"3,532"
+"You, Me and the Apocalypse",30,7.7,"6,446"
+Leatherheads,114,6.0,$31.20M
+Le monde est à toi,102,6.4,"2,588"
+Zorro,30,8.3,"2,697"
+Amateur Night,92,5.0,"3,811"
+An Idiot Abroad,43,8.3,"28,046"
+I Can Do Bad All by Myself,113,4.4,$51.73M
+Gigi,115,6.8,"17,811"
+The Convenient Groom,84,5.8,950
+First Daughter,106,5.0,$9.06M
+Slums of Beverly Hills,91,6.6,$5.48M
+Dr. Ken,21,5.8,"3,621"
+I Heart Huckabees,107,6.7,$12.78M
+The Commish,60,7.1,"1,589"
+The Proud Family,30,6.3,"5,530"
+How to Make It in America,30,7.9,"14,370"
+Holidate,,,
+Multiplicity,117,6.0,$20.10M
+Police Squad!,24,8.4,"14,091"
+The Assassination Bureau,110,6.8,"2,036"
+Nine Months,103,5.5,$69.70M
+Desus & Mero,,7.4,159
+The Last of the Blonde Bombshells,83,7.4,"1,328"
+The Last Kids on Earth,,,
+Switch,103,5.8,$15.55M
+Yeh Jawaani Hai Deewani,160,7.1,$3.83M
+D.E.B.S.,91,5.3,$0.10M
+Ask Laftan Anlamaz,68,7.3,"3,644"
+Sightseers,88,6.5,$0.04M
+The Long Dumb Road,90,6.0,$0.00M
+Curious George,87,6.5,$58.64M
+Bill & Ted's Excellent Adventures,30,6.5,"1,482"
+Last Holiday,112,6.5,$38.36M
+Buzz Lightyear of Star Command,30,6.7,"2,421"
+Forbidden Zone,74,6.8,"4,214"
+Gridlock'd,91,7.0,$5.48M
+Good Mythical Morning,12,8.5,"1,312"
+Absolutely Fabulous: The Movie,91,5.4,$4.75M
+The Office: The Accountants,2,7.8,471
+True Stories,89,7.1,$2.55M
+Air Bud,98,5.2,$24.63M
+ATL,105,6.1,$21.16M
+My Blue Heaven,97,6.3,$23.59M
+Hunter x Hunter,23,8.7,"4,429"
+My Boys,30,7.4,"4,550"
+The Fabulous Baker Boys,114,6.8,$18.10M
+Wild Kratts,26,7.8,773
+Ho ching 2,107,4.7,650
+Parental Guidance,105,6.1,$77.27M
+La famille Bélier,106,7.3,"21,935"
+Ali's Wedding,110,6.9,"3,213"
+Female Trouble,89,7.3,"6,987"
+Room 222,30,7.7,717
+The Adventures of Tintin Sequel,,,
+Sirens,22,7.8,"5,408"
+Just the Ten of Us,30,7.2,"1,119"
+The Trip,172,8.0,"5,832"
+In the Land of Women,97,6.5,$11.04M
+Don't Think Twice,92,6.7,$4.42M
+Lavalantula,83,4.7,"2,399"
+Faerie Tale Theatre,50,8.4,"1,740"
+Freak Show,91,6.3,$0.02M
+Lost in London,103,6.3,"2,037"
+Fido,93,6.7,$0.30M
+Hindi Medium,132,7.8,"17,335"
+Tom and Huck,97,5.6,$23.74M
+Easy Money,95,6.3,$29.31M
+Sôru îtâ,24,7.9,"9,911"
+Street Trash,91,6.1,"8,090"
+Mein Blind Date mit dem Leben,111,7.1,"3,626"
+Hamish Macbeth,60,7.8,"1,249"
+Some Assembly Required,,3.3,571
+Agent Cody Banks 2: Destination London,100,4.5,$23.22M
+Just Before I Go,95,6.4,$0.01M
+Alvin and the Chipmunks: Chipwrecked,87,4.4,$133.11M
+Love Is a Story,97,6.3,192
+Nightmare Sisters,83,5.2,786
+Lil Dicky: Earth,7,6.0,146
+Wingmen,,,
+The Nun 2,10,4.7,23
+Brain Damage,84,6.7,"8,117"
+Darkwing Duck,30,7.6,"13,101"
+Booty Call,79,5.4,$20.06M
+Moon ching sap dai huk ying,88,5.9,"1,138"
+I'm Alan Partridge,29,8.5,"16,752"
+Død snø,90,6.3,$0.04M
+The Pirate Movie,105,5.2,"3,791"
+The Marine,92,4.7,$18.84M
+Necessary Roughness,60,7.0,"6,835"
+Clockstoppers,94,5.2,$36.99M
+Coonskin,100,6.6,"2,276"
+The Adventures of Pluto Nash,95,3.8,$4.42M
+My Mom's New Boyfriend,97,5.3,"10,503"
+Fruits Basket,24,8.0,"4,756"
+Losin' It,100,4.8,$1.25M
+Too Close for Comfort,30,6.6,"1,513"
+Hot Dog... The Movie,96,4.9,$20.31M
+Harriet the Spy,100,6.0,$26.54M
+Bedazzled,103,7.0,"7,805"
+I'm Just F*cking With You,81,5.6,602
+Senior Trip,91,5.6,$4.69M
+From Prada to Nada,107,5.6,$3.02M
+Book of Love,83,5.4,"1,579"
+Mickey Mouse,4,8.1,"1,499"
+A Perfect Day,106,6.8,"18,250"
+Mental Hai Kya,,,
+She's the One,96,6.0,$9.45M
+Chalet Girl,97,6.3,$0.00M
+The Ice Pirates,91,5.7,$14.26M
+Much Ado About Nothing,161,8.4,380
+Simply Irresistible,96,5.3,$4.39M
+Kuch Kuch Hota Hai,177,7.7,$2.10M
+The In-Laws,98,5.7,$20.44M
+Johnson Family Vacation,97,4.4,$31.18M
+Half Magic,94,4.6,914
+Death to Smoochy,109,6.4,$8.36M
+Izzy Gets the Fuck Across Town,86,5.4,$0.03M
+Whatever It Takes,94,5.5,$8.74M
+High Fidelity,,,
+Joe Somebody,98,5.5,$22.77M
+Grumpier Old Men,101,6.6,$69.87M
+Big Momma's House 2,99,4.7,$70.17M
+The Land of Steady Habits,98,6.2,"4,432"
+Max Headroom,60,7.4,"2,087"
+Sunnyside,,,
+Dead Pixels,25,7.3,560
+Johnny Dangerously,90,6.5,"12,473"
+The Wild,94,5.3,$37.38M
+Stop the Wedding,84,6.5,"1,124"
+The Love Bug,108,6.5,"12,736"
+Midnight Madness,112,6.5,"2,907"
+Friends with Kids,107,6.1,$7.25M
+Mister Ed,30,7.1,"3,150"
+Jab We Met,138,7.9,$0.41M
+Measure of a Man,100,6.3,660
+Whitney,30,5.6,"12,138"
+Foul Play,116,6.8,$45.00M
+Help!,92,7.3,"15,894"
+Wonderfalls,60,8.2,"11,653"
+Neo Yokio,23,5.8,"2,639"
+When Calls the Heart,90,6.8,"1,546"
+Home Sweet Hell,98,5.4,"12,991"
+Dead Man on Campus,96,6.1,$15.06M
+Cat Run 2,96,4.4,"1,092"
+Small Wonder,30,7.1,"4,109"
+Chef,133,5.7,"1,703"
+Honey 2,110,5.4,"6,435"
+Topkapi,120,7.1,"7,647"
+The Wild Thornberrys,30,6.7,"11,358"
+Feuchtgebiete,109,5.8,$0.06M
+Father's Day,99,6.0,"2,496"
+Another Happy Day,119,6.0,"3,800"
+Vice Versa,98,5.8,$13.66M
+The Breaker Upperers,90,5.9,"3,982"
+Roll Bounce,112,6.1,$17.38M
+Martial Law,45,7.1,"2,133"
+Doctor Dolittle,152,6.2,$9.00M
+The New Scooby-Doo Movies,83,7.7,"3,522"
+Fourth Man Out,86,6.7,"8,319"
+"Yes, God, Yes",11,6.4,802
+Ski School,89,5.1,"2,912"
+If the Shoe Fits,86,5.5,812
+A Low Down Dirty Shame,100,6.0,$29.39M
+Boon,60,6.4,634
+The Spectacular Spider-Man,23,8.1,"8,949"
+Scorned,86,4.7,"1,870"
+Grand Theft Auto IV,,9.0,"28,715"
+Hippie Hippie Shake,,,
+Quantum Is Calling,11,6.6,195
+Codename: Kids Next Door,30,7.2,"14,517"
+Benjamin,85,3.4,96
+"Welcome Home, Roscoe Jenkins",114,5.4,$42.44M
+The Cold Open,4,7.8,24
+Fandango,91,6.7,$0.09M
+Kronk's New Groove,75,5.9,"9,741"
+Hello Ladies,29,7.5,"10,775"
+Bring It On: Fight to the Finish,102,5.4,"7,686"
+Prêt-à-Porter,133,5.1,$11.30M
+CollegeHumor Originals,,7.6,"1,114"
+Trust Me,90,6.2,"3,100"
+HouseSitter,102,6.1,$58.50M
+Tamasha,139,7.2,$1.98M
+Hung fan kui,104,6.8,$32.39M
+The Gumball Rally,105,6.3,"3,282"
+The ABCs of Death,129,4.7,$0.02M
+Bride & Prejudice,122,6.2,$6.60M
+Rurôni Kenshin -Meiji kenkaku romantan,24,8.5,"15,740"
+F Troop,30,7.4,"2,183"
+Elvis & Nixon,86,6.4,$1.03M
+Card Sharks,60,4.7,30
+Le charme discret de la bourgeoisie,102,7.9,$0.20M
+Blackmail,138,7.0,"6,723"
+Danny Collins,106,7.0,$5.35M
+Saiki Kusuo no Psi Nan,24,8.3,"1,493"
+From Justin to Kelly,81,2.1,$4.92M
+Metalocalypse,11,8.3,"14,497"
+Hurricane Bianca: From Russia with Hate,85,4.7,"1,673"
+Gidget,30,6.9,"1,183"
+Kate & Allie,30,6.9,"1,416"
+Someone Like You...,97,6.1,$27.34M
+A Fantastic Fear of Everything,100,5.9,"13,352"
+Moms' Night Out,98,5.5,$10.43M
+The Bisexual,40,5.9,664
+The Road to Wellville,118,5.8,$6.51M
+The Starving Games,83,3.2,"17,531"
+Vamps,92,5.2,$0.00M
+Coffee Shop,88,5.8,"1,727"
+Waiting for Guffman,84,7.6,$2.92M
+Superior Donuts,21,6.5,"2,621"
+Greedy,113,6.3,$13.15M
+Lilo & Stitch: The Series,22,6.8,"6,872"
+"Rich Boy, Rich Girl",108,4.6,116
+Guyver,88,4.9,"4,351"
+Astro Boy,94,6.3,$19.55M
+Sister of the Bride,,,
+Something's Got to Give,37,,
+Richie Rich,22,3.5,655
+Here Come the Brides,60,7.7,628
+Strange Wilderness,87,5.3,$6.56M
+Sundown,103,5.5,"1,895"
+Togetherness,30,7.5,"7,102"
+Lung hing foo dai,88,7.1,"15,868"
+Toxic Shark,87,3.5,592
+Buffalo Soldiers,98,6.8,$0.35M
+Packed to the Rafters,60,7.4,"1,567"
+First Impression,96,5.4,48
+Rosencrantz & Guildenstern Are Dead,117,7.5,$0.74M
+Age of Summer,88,5.5,326
+The Ant Bully,88,5.8,$28.14M
+Istanbullu Gelin,120,6.9,"1,093"
+Robot & Frank,89,7.1,$3.33M
+Canadian Bacon,91,5.9,$0.18M
+"Tim and Eric Awesome Show, Great Job!",11,7.4,"9,966"
+Doug,30,7.5,"16,200"
+Tel Aviv on Fire,100,7.2,457
+Jab Harry Met Sejal,143,5.4,$1.28M
+Barfi!,151,8.1,$2.80M
+Sledge Hammer!,30,8.2,"5,434"
+Herman's Head,30,7.2,"1,632"
+The Matador,96,6.8,$12.59M
+Sugar & Spice,81,5.7,$13.28M
+Cool as Ice,91,2.9,$1.19M
+Alexis Zorbas,142,7.7,"18,754"
+A Night in the Life of Jimmy Reardon,90,5.5,$6.26M
+Deadpool,11,5.8,387
+The Pink Panther 2,92,5.6,$35.92M
+Real Time with Bill Maher,60,7.5,"11,509"
+The Adventures of Rocky & Bullwinkle,92,4.2,$26.00M
+Open All Hours,30,7.6,"4,159"
+Ölümlü Dünya,107,7.8,"12,122"
+Kroll Show,30,6.7,"3,805"
+Geunyeoui Sasaenghwal,75,7.8,307
+Girls! Girls! Girls!,106,5.6,$2.60M
+Olaf's Frozen Adventure,22,5.3,"9,057"
+Infinity Train,,,
+Black Sheep,87,6.3,$32.38M
+Son of Zorn,30,6.7,"3,857"
+Less Than Perfect,30,7.1,"2,975"
+Grind,105,6.0,$5.11M
+Welcome to Collinwood,86,6.4,$0.33M
+The Jamie Foxx Show,30,6.6,"2,364"
+Con Man,12,7.8,"2,000"
+Hera Pheri,156,8.2,"48,576"
+Attack of the Killer Tomatoes!,83,4.6,"11,476"
+The Pickwick Papers,109,7.0,407
+The Polka King,95,5.9,"7,238"
+Burglar,103,5.1,$16.34M
+East Is East,96,6.9,$4.17M
+School for Scoundrels,94,7.5,"2,854"
+After Sex,77,5.5,"7,670"
+Remélem legközelebb sikerül meghalnod:),96,7.5,706
+The Opposite of Sex,105,6.5,$5.88M
+My Man Godfrey,94,8.1,"18,810"
+The Adventures of Bob & Doug McKenzie: Strange Brew,90,6.8,"14,698"
+Little Big League,119,6.1,$12.21M
+Royal Matchmaker,84,6.7,"1,140"
+K-9,101,6.0,$43.25M
+Something to Talk About,106,5.7,$50.89M
+Cecil B. DeMented,87,6.2,$1.28M
+Hundraåringen som klev ut genom fönstret och försvann,114,7.1,$1.08M
+Boomerang,30,5.3,181
+#REALITYHIGH,99,5.2,"4,475"
+The Best Man,120,6.8,$34.10M
+Guess Who,105,5.9,$68.92M
+Bad News Bears,113,5.8,$32.87M
+A Shot in the Dark,102,7.5,$12.37M
+Garfield: A Tail of Two Kitties,82,5.0,$28.43M
+Main Hoon Na,179,7.0,$1.72M
+All Inclusive,92,2.8,126
+Dimension 404,40,6.6,"1,868"
+Günesin Kizlari,120,5.8,"1,296"
+Duck Dynasty,60,6.3,"9,955"
+Muppet Treasure Island,99,7.0,$33.61M
+Judy and Punch,105,7.5,59
+Dil Chahta Hai,183,8.1,$0.30M
+A Mighty Wind,91,7.3,$17.51M
+Hollywood Homicide,116,5.3,$30.01M
+The Last Word,108,6.6,$1.78M
+Mon inconnue,117,7.4,456
+Rock'n Roll,123,6.0,"3,080"
+Duplex,89,5.9,$9.69M
+Sgt. Pepper's Lonely Hearts Club Band,113,4.0,$20.38M
+Astérix & Obélix contre César,109,5.9,$1.64M
+Munchies,83,3.9,"1,191"
+Sexy Wives Sinsations,78,5.3,132
+Dangshini Jamdeun Saie,30,8.4,"1,819"
+After Everything,95,6.4,607
+Cet obscur objet du désir,103,8.0,$0.06M
+Betty en NY,60,8.4,63
+The Matchmaker's Playbook,89,6.4,780
+Charming,85,5.7,"1,508"
+Bad Santa 2,92,5.6,$17.78M
+Spanking the Monkey,100,6.3,$1.36M
+Fred: The Movie,81,2.2,"6,870"
+Nutty Professor II: The Klumps,106,4.4,$123.31M
+Pushing Tin,124,6.0,$8.41M
+Compulsion,88,4.5,"2,709"
+Trophy Wife,30,7.0,"5,979"
+Leave It to Beaver,84,5.2,$10.71M
+Scooby-Doo! The Mystery Begins,120,5.6,"4,936"
+Stardust Memories,89,7.4,$10.39M
+Smoke,112,7.4,$8.35M
+The Villain,89,5.4,"5,970"
+Telenovela,30,6.9,"2,922"
+Head Over Heels,86,5.4,$10.40M
+Troop Zero,94,7.8,40
+Silver Streak,114,6.9,"16,473"
+Sik san,95,7.4,"7,552"
+Planet of the Sharks,86,2.7,965
+Townies,30,6.4,121
+1000 Ways to Die,23,6.9,"3,091"
+Living the Dream,60,6.6,370
+Two Hands,103,7.1,"9,461"
+Philosopher's Grandson,24,6.8,221
+The Decoy Bride,89,6.2,$0.00M
+The Wrecking Crew,105,5.9,"1,857"
+Hollywood Game Night,43,7.4,"1,455"
+"Crna macka, beli macor",127,8.1,$0.35M
+Porky's Revenge,92,4.7,$20.52M
+New York Stories,124,6.4,$10.76M
+Organize Isler: Sazan Sarmali,121,6.0,"8,346"
+One Mississippi,26,7.2,"2,892"
+Watch If You Dare,71,4.8,539
+Moonlight and Valentino,105,5.8,$2.49M
+"Ariana Grande: Thank U, Next",5,7.6,262
+Tom and Jerry: The Movie,84,5.4,$3.56M
+Uncle,30,7.9,"2,678"
+Svengoolie,120,8.1,482
+I Hope They Serve Beer in Hell,105,5.3,$1.43M
+Girl in Progress,93,5.6,$2.59M
+Shakes the Clown,87,5.6,$0.12M
+Alfie,114,7.1,$18.87M
+Les triplettes de Belleville,78,7.8,$7.00M
+Sztuka kochania. Historia Michaliny Wislockiej,121,7.1,"2,012"
+God Bless America,105,7.2,$0.12M
+The General,67,8.2,"71,996"
+Jui kuen II,102,7.6,$11.55M
+Dilwale,158,5.2,$4.83M
+Trigun,24,8.3,"17,495"
+Kath & Kim,26,8.2,"2,623"
+The Jetsons,25,7.0,"16,493"
+Wakefield,106,6.3,$0.26M
+Reach Me,95,4.9,"2,319"
+Arif V 216,125,7.4,"26,580"
+Byeol-e-seo on geu-dae,60,8.3,"5,781"
+My Favorite Wedding,84,6.4,"1,191"
+Gigantic,,,
+The Bad News Bears in Breaking Training,100,5.5,$19.10M
+Comedy Bang! Bang!,30,7.5,"3,538"
+Cyrano de Bergerac,137,7.5,$15.14M
+Klepper,,6.2,119
+Sue Sue in the City,,7.4,14
+Up the Creek,96,5.6,$11.70M
+Adventures in Babysitting,105,6.1,"2,293"
+Adams æbler,94,7.8,$0.00M
